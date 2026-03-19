@@ -7,9 +7,9 @@ Here is a strategic plan to build and showcase your credibility to recruiters:
 1. Leverage Your Substack & LinkedIn (Thought Leadership)
 You already have a platform (arpitanarula.substack.com). You can use the "AI Risk Tiers" document as foundational material to publish a 3-part series on Enterprise AI Delivery Governance. Recruiters and hiring managers actively look for candidates who can articulate complex regulatory concepts in business terms.
 
-Article 1: "Why AI Risk Classification is the New Security Architecture Review" – Write about how Delivery Managers must establish risk tiers (Minimal, Limited, High) at the Discovery phase before any development begins.
-Article 2: "Delivering Copilot in the Enterprise: It's Not Just a Software Rollout" – Use the 4 use cases from the document (Meeting Summaries vs. HR Performance Analysis) to explain why the use case, not the technology, dictates the delivery lifecycle and governance checkpoints.
-Article 3: "Integrating the EU AI Act into Agile Delivery" – Explain how to embed AI compliance stage gates into standard Agile/Waterfall delivery cycles (e.g., adding "AI Check" to the Definition of Ready).
+Article 1: "Risk Classification as a key step in AI Project Initiation" – Write about how Delivery Managers must establish risk tiers (Minimal, Limited, High) at the Discovery phase before any development begins.
+Article 2: "Delivering Enterprise GenAI: Balancing Speed with Judicious Governance" – Based on McKinsey insights, explain how to adapt existing governance committees and outline the four critical roles (Designers/PMs, Engineers, Governors, Users) needed for safe implementation.
+Article 3: "Structuring GenAI Mitigations: A Playbook for Delivery Managers" – Cover the 8 categories of GenAI risks and how a Project Manager orchestrates both technical and non-technical mitigations.
 Action: Publish these on your Substack and share them on LinkedIn, tagging relevant AI governance and project management hashtags.
 
 2. Update Your CV to Emphasize "AI Readiness" & Governance
