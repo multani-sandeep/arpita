@@ -5,14 +5,32 @@ Reading your CV and the EU AI Act Risk Tiers document, it is clear that successf
 Here is a strategic plan to build and showcase your credibility to recruiters:
 
 1. Leverage Your Substack & LinkedIn (Thought Leadership)
-You already have a platform (arpitanarula.substack.com). You can use the "AI Risk Tiers" document as foundational material to publish a 3-part series on Enterprise AI Delivery Governance. Recruiters and hiring managers actively look for candidates who can articulate complex regulatory concepts in business terms.
+You already have a platform (arpitanarula.substack.com). You can use the "AI Risk Tiers" document as foundational material to publish a series on Enterprise AI Delivery Governance. Recruiters and hiring managers actively look for candidates who can articulate complex regulatory concepts in business terms.
 
-Article 1: "Risk Classification as a key step in AI Project Initiation" – Write about how Delivery Managers must establish risk tiers (Minimal, Limited, High) at the Discovery phase before any development begins.
-Article 2: "Delivering Enterprise GenAI: Balancing Speed with Judicious Governance" – Based on McKinsey insights, explain how to adapt existing governance committees and outline the four critical roles (Designers/PMs, Engineers, Governors, Users) needed for safe implementation.
-Article 3: "Structuring GenAI Mitigations: A Playbook for Delivery Managers" – Cover the 8 categories of GenAI risks and how a Project Manager orchestrates both technical and non-technical mitigations.
+Article 1: "Risk Classification as a key step in AI Project Initiation" – Write about how Delivery Managers must establish risk tiers (Minimal, Limited, High) at the Discovery phase before any development begins. (Completed)
+Article 2: "Delivering Enterprise GenAI: Balancing Speed with Judicious Governance" – Based on McKinsey insights, explain how to adapt existing governance committees and outline the four critical roles (Designers/PMs, Engineers, Governors, Users) needed for safe implementation. (Completed)
+Article 3: "Structuring GenAI Mitigations: A Playbook for Delivery Managers" – Cover the 8 categories of GenAI risks and how a Project Manager orchestrates both technical and non-technical mitigations. (Completed)
+Article 4: "Beyond the Pilot: Measuring ROI and Value Realisation in AI Projects" – How to define KPIs, track productivity gains (e.g., cost reduction vs. revenue uplift), and shift from experimentation to industrialised value.
+Article 5: "Cross-functional Orchestration: Bridging Business Units, Data Science, and Engineering" – The unique complexity of managing AI delivery teams across diverse domains and maintaining strategic alignment.
+Article 6: "AI Lifecycle Governance: Managing Data Quality, MLOps, and Monitoring" – Understanding the technical lifecycle (prep, training, deployment, monitoring) from a delivery manager's governance perspective.
+Article 7: "Build vs. Buy: A framework for evaluating AI vendors and platforms" – Developing structured evaluation criteria for third-party AI tools vs. custom development.
+Article 8: "The AI Centre of Enablement (CoE): Scaling Delivery through a central transformation model" – How a CoE shapes standards, operating models, and enterprise-wide AI adoption.
+Article 9: "Hands-on AI Delivery: Moving from prompt engineering to agentic workflows" – Exploring the Delivery Manager's role in supporting technical solution design and enablement.
+Article 10: "Leading AI Change: driving organisational adoption and behavioural transformation" – Strategies for promoting success stories, building communities of practice, and embedding AI into business processes.
 Action: Publish these on your Substack and share them on LinkedIn, tagging relevant AI governance and project management hashtags.
 
-2. Update Your CV to Emphasize "AI Readiness" & Governance
+2. Build & Refresh AI Delivery Knowledge
+To perform in an AI Delivery Lead role, focus your preparation on these key technical and governance domains:
+- **Solution Design & Advisory**: Frameworks for Build vs Buy decisions, AI use case feasibility, and vendor evaluation.
+- **The AI Centre of Enablement (CoE)**: How to operate within a central CoE model to shape standards and share best practices across business units.
+- **Value Realisation & KPIs**: ROI assessments and tracking impact for transformation goals (Pricing, Operations, Analytics).
+- **Change Leadership & AI Adoption**: Methods for driving behavioural change, building communities of practice, and designing AI training programmes.
+- **AI Lifecycle (SDLC for AI)**: Hands-on awareness of prompt engineering, agentic workflows, and MLOps fundamentals.
+- **Regulated Environment awareness**: Refresh on data protection laws (GDPR/EU AI Act), ethical AI principles, and model governance risks (privacy, bias).
+- **Risk Management**: Delivery risks specific to AI, such as data quality, model limitations, and vendor lock-in.
+Action: Review McKinsey/Gartner reports on GenAI industrialisation and refresh knowledge on CoE operating models and AI Change Management.
+
+3. Update Your CV to Emphasize "AI Readiness" & Governance
 Recruiters scan for buzzwords, but hiring managers look for application. You have already rolled out Microsoft Copilot at Worldpay and possess several AI certifications. Let's make this stand out more:
 
 Amplify Worldpay Copilot Rollout: Expand this bullet point significantly.
@@ -20,13 +38,13 @@ Change from: "...concurrently managing Copilot rollout, ServiceNow setup..."
 To something like: "...Managed the enterprise rollout of Microsoft Copilot, defining early project governance checkpoints, ensuring data protection compliance, and aligning with emerging AI risk classification frameworks across Legal, Security, and IT domains."
 Add AI Governance to your Skills Section: Under Programme & Delivery Management, add "AI Delivery Governance & Risk Classification (EU AI Act), AI Readiness Assessment".
 Elevate Certifications: You have incredible, highly relevant certifications (Microsoft Copilot for Productivity, Prompt Engineering for Generative AI, AI Governance, Generative AI for Project Managers). Consider moving these up slightly or bolding them, as they perfectly complement your massive ERP/SAP delivery background.
-3. Build a Tangible "AI Delivery Playbook" (Portfolio)
+4. Build a Tangible "AI Delivery Playbook" (Portfolio)
 Create a couple of practical AI project management artifacts based on your reading. Having tangible templates proves you know how to execute, not just talk about theory.
 
 Create an AI Risk Assessment Template: Build a 1-page impact assessment checklist that Delivery Managers would use during the "Discovery" stage (e.g., checking if the AI touches HR, critical infrastructure, data privacy, etc.).
 Create a Compliance Stage Gate Matrix: Adapt the tables from the EU AI Act document into a generic "AI Delivery Lifecycle Matrix".
 Action: Offer these as free downloadable resources on your Substack or LinkedIn. When you get to an interview, you can pull these out as proof of how you structure AI projects from scratch.
-4. reframe your "Traditional" Tech Experience
+5. Reframe your "Traditional" Tech Experience
 AI projects fail primarily because of bad data, poor security architecture, and misaligned stakeholders—not because of the AI model itself. You have deep experience in complex data platforms (Costa Coffee Azure data platform) and enterprise architecture (Shell, Worldpay).
 
 The Narrative: In interviews and on your profile, pitch yourself as the Delivery Manager who builds the foundational layer for AI. You can confidently say: "You can't successfully deploy generative AI without a pristine data ingestion pipeline and strict enterprise access controls—which is exactly what I delivered at Costa Coffee and Worldpay."
