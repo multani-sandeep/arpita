@@ -17,17 +17,23 @@ Article 7: "Build vs. Buy: A framework for evaluating AI vendors and platforms" 
 Article 8: "The AI Centre of Enablement (CoE): Scaling Delivery through a central transformation model" – How a CoE shapes standards, operating models, and enterprise-wide AI adoption.
 Article 9: "Hands-on AI Delivery: Moving from prompt engineering to agentic workflows" – Exploring the Delivery Manager's role in supporting technical solution design and enablement.
 Article 10: "Leading AI Change: driving organisational adoption and behavioural transformation" – Strategies for promoting success stories, building communities of practice, and embedding AI into business processes.
+Article 11: "The Taker, Shaper, Maker Framework: Choosing Your AI Adoption Archetype" – How to align your delivery strategy, infrastructure, and budget with your organization's AI posture.
+Article 12: "The 1:3 Rule: Why People/Process Costs Triple Your AI Tech Budget" – Analyzing the 'Hard Truths' of GenAI scaling: why change management is the dominant cost of industrialization.
+Article 13: "From Point Solutions to an 'AI Mesh': Orchestrating Scalable Enterprise Architecture" – The Delivery Manager's role in moving beyond isolated chatbots to an integrated, orchestrated AI ecosystem.
+Article 14: "Solving the 'Garbage-In' Problem: Authority Weighting and Data Readiness for RAG at Scale" – Why clean data isn't enough and how to orchestrate data quality for high-performing GenAI models.
+Article 15: "Run Costs vs. Build Costs: Managing the Silent ROI Killers in AI Delivery" – Developing a 'FinAI' mindset: tracking token usage, interaction costs, and long-term maintenance in production.
+Article 16: "AI Technical Debt: Using GenAI to Refactor the Legacy Systems it Inherits" – How delivery leads can leverage AI for code refactoring and technical debt reduction to accelerate transformation.
 Action: Publish these on your Substack and share them on LinkedIn, tagging relevant AI governance and project management hashtags.
 
 2. Build & Refresh AI Delivery Knowledge
 To perform in an AI Delivery Lead role, focus your preparation on these key technical and governance domains:
-- **Solution Design & Advisory**: Frameworks for Build vs Buy decisions, AI use case feasibility, and vendor evaluation.
-- **The AI Centre of Enablement (CoE)**: How to operate within a central CoE model to shape standards and share best practices across business units.
-- **Value Realisation & KPIs**: ROI assessments and tracking impact for transformation goals (Pricing, Operations, Analytics).
-- **Change Leadership & AI Adoption**: Methods for driving behavioural change, building communities of practice, and designing AI training programmes.
-- **AI Lifecycle (SDLC for AI)**: Hands-on awareness of prompt engineering, agentic workflows, and MLOps fundamentals.
-- **Regulated Environment awareness**: Refresh on data protection laws (GDPR/EU AI Act), ethical AI principles, and model governance risks (privacy, bias).
-- **Risk Management**: Delivery risks specific to AI, such as data quality, model limitations, and vendor lock-in.
+- **Solution Design & Advisory**: Frameworks for Build vs Buy decisions, AI use case feasibility, and the Taker/Shaper/Maker posture evaluation.
+- **The AI Centre of Enablement (CoE)**: Operating within a central CoE model to shape standards, orchestrate the 'AI Mesh' and ensure reusable architecture.
+- **Value Realisation & FinAI**: ROI assessments, tracking productivity gains, and managing long-term token usage/production run costs. 
+- **Change Leadership & AI Adoption**: The 1:3 rule—investing in organizational and behavioral change to secure AI industrialization success.
+- **AI Lifecycle & MLOps**: Hands-on awareness of prompt engineering, agentic workflows, and the integration of 'observability' tools in production.
+- **Data Readiness at Scale**: Mastering data pipelines for structured/unstructured data, authority weighting, and metadata tagging for RAG.
+- **Risk Management**: Mitigating hallucinations, bias, and IP risks; understanding the trade-offs between speed and governance.
 Action: Review McKinsey/Gartner reports on GenAI industrialisation and refresh knowledge on CoE operating models and AI Change Management.
 
 3. Update Your CV to Emphasize "AI Readiness" & Governance
