@@ -1,0 +1,55 @@
+Source: LinkedInDate: 15 Apr '26
+About the job
+Project Manager (Data Platform)
+Contract Length: 2 Months initial (Strong Extension Potential)
+Start Date: May 2026
+Rate: £500–£550 per day (Outside IR35)
+Location: UK-based (working pattern to be confirmed)
+
+Overview
+We are seeking an experienced Data Platform Project Manager to support the delivery of two concurrent enterprise data transformation projects for a major international professional services client.
+This is an initial short-term contract requirement to cover an immediate programme gap, however the wider transformation programme spans multiple global regions and is expected to continue over several years, offering strong potential for extension beyond the initial term.
+The successful candidate will lead delivery across Azure-hosted modern data platform initiatives, working closely with internal delivery teams, business stakeholders, and technical specialists in a fast-paced consultancy-led environment.
+
+Key Responsibilities
+Manage delivery of two parallel enterprise data platform projects end-to-end
+Drive project governance across scope, timelines, RAID logs, reporting, and RAG status updates
+Coordinate technical and business stakeholders across client and internal teams
+Lead Agile delivery ceremonies and ensure Scrum best practice is embedded
+Manage project delivery through Azure DevOps, ensuring clear visibility of sprint and release progress
+Support onboarding into internal delivery processes before client engagement begins
+Ensure alignment between business transformation objectives and technical implementation delivery
+Maintain strong communication cadence with senior stakeholders and foster consensus across teams
+
+
+Essential Experience
+Technical / Data Environment Exposure
+Proven experience delivering projects involving:
+Databricks and/or Microsoft Fabric
+Microsoft Azure cloud-hosted environments
+End-to-end software delivery lifecycle (SDLC) project ownership
+Strong understanding of business value drivers behind digital transformation programmes
+
+
+Project Management
+Strong Agile and Scrum delivery expertise in practice
+Azure DevOps delivery management experience (essential)
+Stakeholder management across technical and non-technical audiences
+RAID log ownership, governance reporting, and project controls discipline
+
+
+Desirable Experience
+5+ years’ Project Management / Delivery Management experience
+Experience influencing senior client stakeholders in complex enterprise environments
+Familiarity with professional services / consultancy delivery models
+Awareness of:
+ITIL / ITSM best practice
+Networking and cyber-security best practice
+CI/CD delivery principles
+
+
+Nice to Have
+Exposure to Power BI on top of Databricks / Fabric platforms
+Basic Python and/or SQL literacy
+Data-centric mindset with ability to understand modern analytics architectures
+Interest in AI-powered project management tooling

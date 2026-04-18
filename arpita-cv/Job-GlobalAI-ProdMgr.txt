@@ -1,0 +1,47 @@
+Source: https://www.linkedin.com/jobs/view/4390712960/
+Date: 9th April 2026
+
+About the job
+Accepting Applications Until
+
+1 May 2026
+
+Job Description
+
+Your Role: Product Manager - AI
+
+If you have a passion for harnessing AI to drive revenue growth and efficiency and excel at bridging user needs with technical possibilities to deliver real business impact, this role is for you. Embedded in our AI Integrations squad, you’ll spearhead the delivery of AI-powered solutions from discovery to production.
+
+Key Responsibilities (AI Product Owner)
+
+AI Opportunity Scouting & Prioritisation (25 %) – Hunt for high-value AI use-cases across Global, size the upside (revenue £ / hours saved), and build business cases.
+Backlog Ownership & Delivery (25 %) – Translate briefs into groomed epics and stories; drive features from MVP to production, tracking ROI gates.
+Workflow Optimisation & Playbooks (20 %) – Map “as-is” processes, design automated “to-be” flows, and publish reusable templates (data permissions, model-eval checklists).
+AI Evangelism & Enablement (15 %) – Run “AI Clinics,” demos, and hands-on workshops that excite teams to experiment safely with LLMs; issue a monthly AI-radar briefing.
+Rapid Self-Service Prototyping (10 %) – Solve quick-win use-cases (e.g., smart ChatGPT prompts) before they escalate to full squad delivery, keeping the roadmap focused on high impact.
+Market & Tool Horizon-Scanning (5 %) – Track emerging models, tools, and licensing trends; inject fresh insights into squad decisions.
+
+What You’ll Love About This Role
+
+Think Big: Innovate with AI solutions that can transform our business and drive growth.
+Own It: Lead products end-to-end – from idea to launch – and see the direct impact of the AI initiatives you champion.
+Keep It Simple: Turn complex AI capabilities into simple, user-friendly tools and processes that anyone can use.
+Better Together: Collaborate with diverse teams across Global, where every perspective is valued.
+
+What Success Looks Like
+
+In your first few months, you’ll have:
+
+Identified promising AI opportunities and estimated the ROI for each.
+Built a product roadmap and delivered a pilot from discovery to launch.
+Improved team efficiency with a standard AI project scoping process and built stakeholder trust through clear communication and quick wins.
+
+What You’ll Need
+
+Product Management Success – Proven record of shipping tech or data-driven features that moved revenue or efficiency metrics.
+AI Prompt-Engineering Fluency – Comfortable crafting advanced prompts and chaining tools (e.g. ChatGPT, Claude, Gemini) to squeeze maximum performance from off-the-shelf models.
+Stakeholder Engagement – Clear, compelling communicator who aligns commercial, content, and engineering teams and manages expectations.
+Technical Acumen – Conversant in LLM/RAG concepts, latency–cost trade-offs, and API- vs UI-based product considerations.
+Agile Planning & Delivery – Turns vision into a groomed backlog; drives iterative releases, tracks ROI gates, and adapts quickly to feedback.
+Process Improvement & Automation Mindset – Skilled at mapping workflows, spotting friction, and designing smart automations that scale.
+Adaptability & Thought Leadership – Self-starter who stays current with the fast-moving AI landscape and inspires others with fresh insights.

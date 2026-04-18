@@ -1,0 +1,40 @@
+Source: https://www.linkedin.com/jobs/view/4388985941/
+Date: 13 April 2026 
+
+About the job
+🚛 About QargoQargo is a cloud-based (SaaS) Transport Management Platform. We are a scale-up based in London and Ghent (Belgium), rapidly expanding across Europe.
+
+The platform is an ‘all-in-one system’, handling everything from initial order entry to final invoicing. It optimises planning and has a built-in AI feature that automates lengthy manual tasks.
+
+Qargo is designed to help modern logistics operations run more efficiently, while increasing profitability and sustainability.
+
+💼 About the RoleWe are looking to hire an Integrations Onboarding Manager in our London office. You would own the integration journey of our customers, ensuring their systems connect smoothly with Qargo’s TMS and are fully ready by the time they go live.
+
+You act as the bridge between customers, integration partners, and our internal teams, translating operational needs into clear technical requirements and keeping integration projects on track from discovery to activation.
+
+🔑 Key Responsibilities
+
+Lead the integration onboarding cycle: from initial discovery and requirements gathering to configuration, testing and activation.
+Act as the main point of contact for customers regarding integration topics, ensuring requirements are clearly defined and documented.
+Collaborate closely with Customer Onboarding Managers to align integrations with the broader implementation and go-live timeline.
+Coordinate with integration partners and our Professional Services team to prepare, configure and validate system connections.
+Monitor project progress, follow up on deadlines and proactively manage stakeholders to ensure smooth delivery.
+Support pre-sales discussions where integration requirements are key, capturing technical input ahead of customer sign-up.
+Continuously improve documentation, processes and knowledge sharing around integrations.
+
+✅ Skills & Experience
+
+You have experience in integrations, technical project management or similar roles.
+Affinity with or an understanding of the transport & logistics industry is a big plus!
+You have a strong technical affinity and feel comfortable discussing APIs, data flows or system connections(without needing to code yourself).
+You’re structured, proactive and able to manage multiple projects simultaneously.
+You communicate confidently with both operational and technical stakeholders.
+You thrive in a fast-growing scale-up environment where ownership and initiative matter.
+
+🤝 What We Offer
+
+Competitive salary and benefits package.
+A role with real ownership and direct impact on customer success.
+A flexible and trust-based working environment.
+A hybrid working environment from our office in Holborn, London.
+The opportunity to join an ambitious team transforming the transport industry.
