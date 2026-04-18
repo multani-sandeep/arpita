@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+
+# Settings
+.vscode/
+.idea/
+*.code-workspace
+settings.local.json
