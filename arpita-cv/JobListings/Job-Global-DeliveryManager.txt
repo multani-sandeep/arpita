@@ -1,0 +1,69 @@
+Source: LinkedIn
+Date: 11 May 2026
+
+About the job
+Accepting Applications Until
+
+11 Jun 2026
+
+Description
+
+Job Description
+
+Delivery Manager 
+
+Reporting of the Role
+
+This role typically reports to a Senior Delivery Manager or a Head of Delivery.
+
+Overview Of Job
+
+This role forms part of the Delivery function within Global’s Transformation team.
+The Delivery function focuses on the delivery of Global’s Technology & Digital product roadmaps.
+You will be responsible for creating and executing plans to deliver key Technology & Digital initiatives, building effective relationships with Product, Engineering and other business and technical stakeholders.
+You will work closely with one or more squads to identify and resolve blockers and issues, identify and resolve dependencies and ensure delivery is on time and on budget.
+
+3 Best Things About The Job
+Being instrumental in the delivery of the technology roadmap for one of the most exciting transformation agendas in the media and entertainment market in the UK and beyond 
+Working with stakeholders from across Global’s business to deliver value to Global’s audiences, advertisers and partners 
+Having the authority to identify, coordinate and implement change and turn good ideas into reality, quickly 
+
+Measures of success
+In the first few months, you would have
+Understood the inflight projects and the roadmap for your assigned area 
+Gained a robust understanding of the operations of the business function(s) and supporting product(s) you will be working with 
+Built effective working relationships and established clear responsibilities and accountabilities with the squad(s) you work with day-to-day 
+
+Responsibilities Of The Role
+Work alongside the Product Owner and Tech Lead in your squad(s) to understand the 'what and how' of the product roadmap 
+Facilitate creation of the plan (the 'when') for the squad(s) and manage its execution, adapting rapidly as priorities shift or new tech capabilities emerge 
+Work closely on a day-to-day basis with your squad(s) to ensure they are clear, unblocked and producing high quality outputs, leveraging AI tooling to accelerate delivery where appropriate 
+Identify risks and issues within your squad(s) and mitigate, resolve or escalate as appropriate; proactively flag when legacy approaches may limit agility 
+Understand inbound and outbound dependencies to deliver the plan; track and resolve these dependencies 
+Respond to and resolve issues as required in product development, testing, deployment or post-launch, including live incidents 
+Communicate clear summaries of progress against baseline plans and any changes, including root cause explanations, to other technology stakeholders 
+Champion modern delivery processes, including rapid prototyping, hypothesis-driven development, and AI-assisted workflows; identify the most appropriate model(s) and implement improvements 
+Contribute to a high-performance culture within your squad(s), with a clear sense of accountability for outcomes; celebrate success and experiment, iterate, and learn from failures 
+Track, understand and communicate changes in squad throughput and performance using metrics, including AI-driven insights where valuable 
+
+What You Will Need
+Strong working knowledge of software development practices, methodologies and release lifecycles, with awareness of AI/ML development patterns (e.g., model training, versioning, deployment) 
+Hands-on comfort with AI tooling (e.g., Claude, ChatGPT, automation platforms) to enhance your own productivity and support squad adoption 
+Experience in supporting the creation of project plans and delivery of product roadmaps, including iterative approaches for emerging or experimental technology 
+A focus on outcomes and business value, not process for process's sake 
+An ability to prioritise tasks based on importance and urgency, re-prioritising confidently as technology or market conditions change 
+An eye for detail and a willingness to understand the business context and technical content you are working with 
+A keen ability to identify and resolve blockers and issues 
+Emotional intelligence and empathy; a strong ability to build effective working relationships with both business and technical stakeholders through periods of disruption and change 
+Effective communication skills, both verbally and in writing, ensuring squad members and other stakeholders are clear and seeking clarification where necessary 
+Effective facilitation skills to provide direction, and maintain focus and momentum 
+
+You’ll Be Someone Who….
+Is energised by change and technology disruption, not daunted by it 
+Is curious about AI and emerging tech, with a desire to learn how they can improve how we work 
+Isn’t afraid of detail and wants to ‘understand the why’ 
+Is a natural collaborator who enjoys working with a variety of teams, roles and people 
+Is resilient and maintains a positive, solutions-focused attitude in the face of ambiguity, setbacks or rapid pivots 
+Is flexible and adaptable, with an approach on outcomes; you understand the theory but can adapt to day-to-day reality 
+Is comfortable operating in fast-changing, AI-influenced environments where best practice is still emerging 
+Is comfortable leading through facilitation and building consensus, including with those who have greater experience and/or technical expertise

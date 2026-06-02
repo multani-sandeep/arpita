@@ -35,7 +35,7 @@ PAGE_SIZE       = "A4"  # A4 or Letter
 
 CSS = f"""
 @page {{
-    size: {PAGE_SIZE};
+    size: {PAGE_SIZE} portrait;
     margin: {MARGIN_TOP}mm {MARGIN_RIGHT}mm {MARGIN_BOTTOM}mm {MARGIN_LEFT}mm;
 }}
 
@@ -216,8 +216,8 @@ def md_to_html_body(md_path, pandoc_path):
 
 
 def render_pdf(html_path, pdf_path, chrome_path):
-    abs_html = os.path.abspath(html_path)
-    abs_pdf  = os.path.abspath(pdf_path)
+    abs_html = os.path.realpath(os.path.abspath(html_path))
+    abs_pdf  = os.path.realpath(os.path.abspath(pdf_path))
     cmd = [
         chrome_path,
         "--headless=new",

@@ -1,0 +1,127 @@
+Section,Recommendation
+Cart & Checkout,Present 'Store Pickup' Within the Shipping Selector Interface Itself
+Cart & Checkout,Minimize the Number of Form Fields Users See by Default Customer Accounts
+Cart & Checkout,Luhn validate the credit card number
+Cart & Checkout,Use ‘adaptive error messages’
+Cart & Checkout,Avoid clearing users’ typed information between pages or steps
+Cart & Checkout,Check credit card validity as users submit the payment step and allow them to recover
+Cart & Checkout,Provide a dynamic thumbnail hint or tooltip for the security code field
+Cart & Checkout,Indicate both required and optional fields
+Cart & Checkout,Make ‘Guest Checkout’ the most prominent option
+Cart & Checkout,Visually emphasize the security of credit card field
+Cart & Checkout,Include ‘account selection’ and ‘order confirmation’ in the process steps
+Cart & Checkout,Have an address validator
+Cart & Checkout,Format the 'Expiration Date' dropdowns as they appear on the credit card
+Cart & Checkout,"Explain why seemingly unnecessary personal data, such as phone number, is required"
+Cart & Checkout,Retain data in the sensitive credit card fields
+Cart & Checkout,Always provide costs upfront for every single shipping option
+Cart & Checkout,Clearly indicate erroneous fields when a page is submitted
+Cart & Checkout,Improve the shipping method interface
+Cart & Checkout,Auto Format spaces in the ‘credit card number’ field
+Cart & Checkout,Use inline validation with advanced “live” logic
+Cart & Checkout,Use ‘delivery date’ instead of ‘delivery speed’
+Cart & Checkout,Use a tabbed payment method interface with a default selection
+Cart & Checkout,Hide coupon and promotional fields behind a link
+Cart & Checkout,"Be cautious about drop-down interactions (meaning when utilizing a mini-cart, be careful how hover and disappear works)"
+Cart & Checkout,Never make users perform the same selection or typing twice
+Cart & Checkout,The primary button should be visually dominant / uniquely styled
+Cart & Checkout,Use an ‘enclosed checkout’
+Customer Account,Improve the information hierarchy through clear logical labels and the styling of elements
+Customer Account,Give equal prominence to paths for editing an address and adding a new address
+Customer Account,Provide confirmation of successful changes when users change account data
+Customer Account,Return users to where they were after signing in or resetting password
+Customer Account,Have links to all common account management features on the account dashboard
+Customer Account,Allow users to ‘Show Password’
+Customer Account,Ensure the account sidebar navigation is highly visible
+Homepage & Category,Feature a Broad Range of Product Types on the Homepage
+Homepage & Category,Visually Differentiate Thematic Resources From Product Categories
+Homepage & Category,Divide Categories and Sub-Categories into Manageable Chunks
+Homepage & Category,Main Category Options Should Be Selectable
+Homepage & Category,"Have Direct Links to ""Return Policy"" and ""Shipping Info"" in the Footer"
+Homepage & Category,Assist selection of a well-defined scope
+Homepage & Category,Make top-level categories clickable and point to page featuring subcategory paths
+Homepage & Category,Be cautious using novel navigation menus
+Homepage & Category,"Have ""Shop All…” as one product list with filters"
+Homepage & Category,Provide more courtesy navigation options
+Homepage & Category,Support users’ back button expectations
+Homepage & Category,Implement a ‘hover delay’ in the drop-down navigation
+Homepage & Category,Increase the visibility of the search field
+Homepage & Category,"Avoid overly narrow subcategories (examining category taxonomy and to avoid micro results - like five products in a ""category"")"
+Homepage & Category,"Implement product types with shared attributes as filters instead of categories (e.g. brushes as a macro category, then filtered by application)"
+,
+Homepage & Category,Improve carousel controls on homepage
+Homepage & Category,Consider having a 'sales' or 'deals' filter-based category
+Homepage & Category,Be cautious of showing overlays on page load
+Mobile UX,Always Provide Sticky ‘Apply’ Buttons in the Mobile Filtering Interface
+Mobile UX,Be Cautious if Displaying Ads on the Homepage
+Mobile UX,Ensure the Paths to Filtering and Sorting on Mobile Are Prominent and Unambiguous
+Mobile UX,Increase hit area of clickable elements
+Mobile UX,Visually differentiate main navigation items based on importance
+Mobile UX,Clearly separate list items
+Mobile UX,Text that overlays images should be legible
+Mobile UX,Have an address validator (meaning in transaction mode to make it easier for the mobile user)
+Mobile UX,Always provide load indicators when new content is loading (e.g. the spinning wheel to show loading progress)
+Mobile UX,"If providing a scoped path on the homepage, include the full scope in the link text (avoiding small product assortment dead-ends)
+
+"
+Mobile UX,Never have list items taller than half of the screen height in portrait mode
+Mobile UX,Disable auto-correct where the dictionary is weak
+Mobile UX,Avoid Auto Rotating Carousels on Mobile Homepages
+Mobile UX,"Ensure the main product image, swatches, and thumbnails are visible in the same viewport"
+Mobile UX,Invoke appropriate keyboard layouts
+Mobile UX,Always use thumbnails to represent additional product images
+Mobile UX,Make ‘Guest Checkout’ the most prominent option during account selection
+Mobile UX,Support pinch-to-zoom
+On-Site Search,Provide category-specific filters for Sitewide Search Results
+On-Site Search,Include relevant category scopes in autocomplete suggestions
+On-Site Search,Indicate color variations in list items
+On-Site Search,Support ‘Feature’ search queries
+On-Site Search,Use a grid view for search results for visually-driven products
+On-Site Search,"Support keyword query suggestions within autocomplete (predictive, type-ahead - suggesting additional queries based on user input)"
+On-Site Search,Provide alternate paths and content on the no results page
+On-Site Search,Always persist user’s search query on the results page
+On-Site Search,"Prominently display the total number of results (meaning a #count of the results set - ""showing 17 products"")"
+On-Site Search,Support non-product search (indexing non-product content - content pages)
+On-Site Search,"Always allow filtering by price, ratings, color, size"
+Product Lists & Filtering/MPP,Return Users to the Same Place in the Product List when Returning from the Product Page
+Product Lists & Filtering/MPP,Display 'Price Per Unit' For Multi-Quantity Items
+Product Lists & Filtering/MPP,"Show the Numbers of Matches for Each Filter Option, and Update Them as Filters Are Applied"
+Product Lists & Filtering/MPP,Ensure Filter Options Are Always Inclusive
+Product Lists & Filtering/MPP,Avoid sub-dividing product lists
+Product Lists & Filtering/MPP,Make product features visually distinct from product title
+Product Lists & Filtering/MPP,Filter and sorting changes should be separate entries in the user’s browsing history
+Product Lists & Filtering/MPP,Avoid using an inline ‘sort by’ option as the default sorting label
+Product Lists & Filtering/MPP,Have filtering options at category product lists
+,
+Product Lists & Filtering/MPP,Provide ‘Symptom’ filters for certain product types
+Product Lists & Filtering/MPP,Allow users to sort the product list by ‘Best Selling’ and ‘Newest’
+Product Lists & Filtering/MPP,Ensure prices are clear in list items (strikethrough prices on discounted items)
+Product Lists & Filtering/MPP,Display applied filters in their original position and in an overview (user cues to see which filters are actively applied)
+Product Lists & Filtering/MPP,Include product attributes consistently across list items (consistent ordering and layout for common metadata attributes)
+Product Lists & Filtering/MPP,"Always allow filtering by price, ratings, color, size, and brand"
+,
+Product Lists & Filtering/MPP,Include number of ratings in list item review averages
+Product Lists & Filtering/MPP,Hiding vs. disabling dead-end filtering values
+Product Page,Display or Link to the Return Policy from the Main Product Page Content
+Product Page,‘Vertically collapsed sections’ can work as a PDP layout if used for all content sections
+Product Page,Display all thumbnails in the image overlay
+Product Page,Provide a cross-sell section that only contains ‘Supplementary Products’
+Product Page,Place Shipping and (if present) ‘Free Shipping’ information near the ‘Buy’ section
+Product Page,Style product price to be highly visible
+Product Page,Use both “bullet lists” and “blocks for text” for product descriptions
+Product Page,"Don't use horizontal tabs in the PDP layout (for example, use an expand/collapse UI model for SPP content)"
+Product Page,Ensure all product images have sufficient resolution and level of zoom
+Product Page,Include all site provided product images in the main image gallery
+Product Page,Provide a graphical ratings distribution summary at the top of the review section
+Product Page,Ensure the primary ‘Add to Cart’ button styling is unique and prominent
+Product Page,Display ‘Price Per Unit’ for products sold in varying amounts
+BM-GLBL-125,Product Page
+BM-GLBL-126,Product Page
+BM-GLBL-128,Product Page
+BM-GLBL-130,Product Page
+BM-GLBL-131,Product Page
+BM-GLBL-132,Product Page
+BM-GLBL-134,Product Page
+BM-GLBL-136,Product Page
+,Product Page
+,Product Page

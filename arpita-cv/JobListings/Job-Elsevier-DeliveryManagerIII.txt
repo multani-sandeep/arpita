@@ -1,0 +1,72 @@
+Source: LinkedIn
+Date: 23 May 26
+Url:https://www.linkedin.com/jobs/view/4415961114/ 
+
+Note: "Delivery Manager III" uses Elsevier/RELX's internal numbered career ladder. 
+III is the senior band — broadly equivalent to Senior Delivery Manager at most companies. 
+It sits above mid-level (II) but below staff/principal (IV). 
+It is a well-scoped senior individual contributor role, not a people manager. 
+Based on the previous Elsevier Project Manager role salary range (£65k-£75k), this band is likely similar or marginally above. 
+The numbered title is internal taxonomy — it should not be read as a junior or entry-level role.
+
+
+JD: 
+Elsevier
+Delivery Manager III 
+London, England, United Kingdom 
+
+JD:
+About the job
+Are you a delivery leader who thrives in complexity, focuses on outcomes over process, and knows how to get the best out of teams?
+
+We’re looking for someone who combines practical delivery experience with a pragmatic mindset - someone who has delivered real impact.
+
+About The Team
+
+Our mission is to build and maintain a world-class knowledge graph that serves as the backbone of Elsevier’s solutions, delivering valuable insights and analysis to our customers.
+
+As a central Data Engineering organisation, we are committed to developing innovative solutions that enhance the quality of our data, enable new data-driven products, and improve the efficiency of our products and services.
+
+Ultimately, our goal is to advance science, healthcare, and society through the power of data.
+
+The Portfolio and Agile team is a key support function within Data Engineering, with a mission to enable teams to focus on doing the right work at the right time, with the right capacity—delivering value predictably, sustainably, and at scale.
+
+About The Role
+
+As a Delivery Manager, you will work closely with Data Engineering teams to deliver high-value products and initiatives in a complex, evolving environment.
+
+This is not a role for someone who applies frameworks rigidly. We’re looking for someone who understands the intent behind agile delivery principles and applies them pragmatically to improve flow, alignment, and outcomes.
+
+You Will
+
+Help teams focus on the right work at the right time
+Drive the delivery of measurable outcomes predictably and sustainably
+Adapt ways of working to suit context, scale, and maturity
+Build confidence with stakeholders through clarity, transparency, and results
+
+You’ll operate within a scaled Data Engineering organisation, where understanding dependencies, prioritisation, and capacity across multiple teams is key to success. Working within the Portfolio and Agile team, you’ll collaborate with peers and Senior Delivery Managers to enhance delivery practices and contribute to a culture of learning and continuous improvement across Data Engineering.
+
+What You’ll Be Responsible For
+
+Partnering with engineering and product teams to plan, execute, and deliver high-quality outcomes - with clear evidence of impact
+Effectively sequence work by mapping dependencies across teams and systems, proactively identifying blockers and coordinating timelines to ensure smooth, predictable delivery.
+Ensuring effective team rhythms and alignment - ensuring ceremonies add value, and evolving them where they don’t
+Shaping and evolving ways of working based on what actually works - not enforcing frameworks
+Making delivery visible, measurable, and outcome-focused through meaningful metrics
+Identifying and addressing systemic issues that impact delivery at scale - not just team-level blockers
+Driving continuous improvement through practical experimentation and evidence – not just the theory
+Building strong stakeholder relationships through honest, data-driven communication
+Contributing to the evolution of delivery practices across Data Engineering
+
+What We’re Looking For
+
+Proven experience delivering real, measurable outcomes in a delivery role (not just facilitating agile processes)
+A pragmatic approach to delivery - you understand agile frameworks but don’t rely on them rigidly
+Experience working in complex or scaled environments, with multiple teams and dependencies
+Ability to use data and metrics to drive decisions and improvements
+Strong problem-solving mindset - comfortable tackling ambiguity and systemic challenges
+Strong ownership and accountability for outcomes, with the energy to drive change in complex environments
+Ambition to grow and take on broader delivery challenges, including operating at greater scale and influence
+Curiosity about how AI is shaping delivery and product development, and a willingness to experiment with new ways of working
+Agile certification (e.g. Certified Scrum Master, Professional Scrum Master) desirable.
+Experience working in data or platform engineering environments (desirable)

@@ -1,0 +1,66 @@
+Source:Linkedin
+Date: 9 May 
+Url: https://www.linkedin.com/jobs/view/4410716579/
+
+About the job
+Data and Integration Project Manager (Technical). 
+
+Title: Data and Integration Project Manager.
+
+Duration: 3-month contract likely to be extended.
+
+Location: Mostly Remote (occasional client site meetings).
+
+Start: ASAP.
+
+Rate: TBC - Outside IR35.
+
+We are looking for a highly technical Data and Integration Project Manager to drive the implementation of a new integration framework within a complex environment.
+
+We need a hands-on, technically credible delivery Data and Integration Project Manager who can operate confidently across multiple project verticals and stakeholders, e.g. architecture, engineering, suppliers and business — ensuring integration solutions are designed, specified and delivered effectively.
+
+The Role
+
+You'll act as the glue between architecture, engineering, vendors and the wider programme — driving clarity, pace and delivery. You will be responsible for project managing the end-to-end coordination of data and integration framework implementation, ensuring:
+
+Technical specifications are complete, accurate and implementation-ready
+Dependencies across systems, suppliers and workstreams are clearly identified and actively managed
+Data and Integration designs align with architectural principles and business requirements
+Multiple stakeholders, third-party suppliers and consultants are aligned and working cohesively
+Risks, assumptions and technical constraints are proactively managed
+
+Key Experience Required
+
+Proven Project Manager experience. 
+Strong background in Data and systems integration and integration frameworks
+Experience delivering complex, multi-system integration solutions
+Deep understanding of APIs, data flows, middleware, messaging, and enterprise integration patterns
+Ability to challenge and validate technical documentation and solution designs
+Proven experience coordinating technical teams and third-party suppliers
+Excellent stakeholder management across technical and non-technical audiences
+Comfortable operating in fast-moving, ambiguous environments
+
+Ideal Background
+
+Technical PM / Data and Integration Project Manager/ Technical Delivery Manager
+Experience working within large-scale enterprise transformation programmes
+Strong documentation and governance discipline
+Able to operate with minimal oversight and hit the ground running
+
+If you're a technically strong delivery project manager who thrives in complex integration environments, we'd like to hear from you. Please send your CV to Simon at  sdunscombe@itecopeople.co.uk
+
+Services Advertised are those of an Employment Business.
+
+Requirements added by the job poster
+
+• 5+ years of work experience with IT Integration
+
+• No need for visa sponsorship
+
+• 5+ years of work experience with Data Integration
+
+• Can start immediately
+
+• Authorized to work in United Kingdom
+
+• 5+ years of work experience with Collaborative Project Management

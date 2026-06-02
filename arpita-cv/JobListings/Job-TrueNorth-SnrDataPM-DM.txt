@@ -1,0 +1,63 @@
+Source: LinkediN
+Date: 9 May
+Url: https://www.linkedin.com/jobs/view/4412790087/ (updated 11 May 2026; original: https://www.linkedin.com/jobs/view/4412165285/)
+
+About the job
+Senior Data Project Manager (Agile Delivery)
+
+
+
+We are seeking a Senior Data Project Manager to lead the Agile delivery of complex, data-driven initiatives. This role is ideal for an experienced delivery leader with a strong background in data engineering and modern data platforms, who thrives in fast-paced, iterative environments.
+
+
+
+Key Responsibilities:
+
+Lead Agile delivery of data programmes, including data engineering, data platform, and analytics initiatives
+Own and drive delivery across cross-functional squads (data engineers, analysts, architects, product owners)
+Facilitate Agile ceremonies (sprint planning, stand-ups, retrospectives, backlog refinement) to ensure consistent, high-quality delivery
+Partner with Product Owners to manage and prioritise backlogs aligned to business value
+Remove delivery blockers, manage dependencies, and ensure continuous flow of value
+Track progress using Agile metrics (velocity, burn-down/up, cycle time) and drive continuous improvement
+Communicate effectively with senior stakeholders, translating technical delivery into business outcomes
+Embed best practices in data governance, quality, and operational resilience within Agile delivery
+
+
+Key Requirements:
+
+Proven experience delivering data engineering or data platform projects in Agile environments
+Strong understanding of modern data architectures (e.g. ETL/ELT pipelines, data lakes, cloud data platforms)
+Hands-on experience with Agile frameworks (Scrum, Kanban, or scaled Agile)
+Demonstrated ability to lead and coach cross-functional teams in Agile best practices
+Excellent stakeholder management, facilitation, and communication skills
+Comfortable working in iterative, fast-changing environments with evolving priorities
+
+
+Desirable:
+
+Experience with cloud platforms (AWS, Azure, GCP) and modern data tooling
+Agile certifications (e.g. Certified Scrum Master, SAFe)
+Experience scaling Agile across multiple teams or programmes
+
+
+Start date: We ideally need people that can start immediately
+
+
+
+Rate: £550 per day, outside IR35
+
+
+
+Location: The role is 100% remote but you must be UK based
+
+
+---
+Update: 11 May 2026
+
+Job content (responsibilities, requirements, desirables) unchanged. Commercial terms revised:
+- Rate increased: £550/day -> £750/day
+- IR35 status changed: Outside IR35 -> Inside IR35
+- Visa requirement added: "No need for visa sponsorship"
+- Title now includes rate, IR35 status and location as a subtitle
+
+Note: Net take-home impact of IR35 flip likely offsets most of the headline rate increase.

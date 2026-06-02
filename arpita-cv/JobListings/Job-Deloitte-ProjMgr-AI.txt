@@ -1,0 +1,54 @@
+Source: LinkedIn
+Date: 23 May 26
+Url: https://www.linkedin.com/jobs/view/4388342892/
+
+JD: 
+About the job
+Job Role: Project Manager - AI 
+
+ Contract Duration:  6 months
+
+ Location:  London / Sheffield (Hybrid - 3 days on site)
+
+ Daily Rate:  Inside IR35
+
+ Job Summary: 
+
+We are seeking a skilled Project Manager to lead the end-to-end delivery of AI-enabled cybersecurity capabilities. The role involves coordinating cross-functional teams including cyber, data, engineering, and risk/control stakeholders to successfully take AI use cases from concept through to production. The focus is on delivering solutions that reduce risk, improve threat detection and response, and enhance organisational resilience, all while ensuring safety, compliance, and measurable outcomes.
+
+ Key Responsibilities: 
+
+ Manage the full project lifecycle for AI-driven cybersecurity initiatives, ensuring timely and compliant delivery. 
+ Coordinate and align cyber, data, engineering, and risk/control teams to achieve project objectives. 
+ Develop and maintain project plans, schedules, and documentation to track progress and risks. 
+ Ensure all AI use cases are delivered safely, meeting compliance and regulatory requirements. 
+ Monitor and report on project performance, including measurable outcomes and benefits realisation. 
+ Identify and mitigate risks and issues throughout the project lifecycle. 
+ Facilitate communication and collaboration among stakeholders to maintain alignment and resolve conflicts. 
+
+ Required Qualifications and Skills: 
+
+ Proven experience managing technology or cybersecurity projects, preferably involving AI or data-driven solutions. 
+ Strong understanding of AI technologies and cybersecurity principles. 
+ Experience coordinating cross-functional teams and managing multiple stakeholders. 
+ Knowledge of compliance, regulatory frameworks, and risk management in technology projects. 
+ Excellent organisational, communication, and problem-solving skills. 
+ Familiarity with project management methodologies such as Agile, PRINCE2, or PMP. 
+
+ Preferred Qualifications: 
+
+ Experience in financial services or regulated environments. 
+ Understanding of AI ethics and responsible AI deployment. 
+ Certification in project management or related disciplines. 
+
+ Soft Skills: 
+
+ Strong leadership and team coordination abilities. 
+ Ability to manage ambiguity and adapt to changing priorities. 
+ Effective stakeholder engagement and conflict resolution skills. 
+
+ Additional Information: 
+
+ This is a hybrid role requiring 3 days per week onsite in London or Sheffield. 
+ The contract is inside IR35. 
+ Opportunity to contribute to impactful AI cybersecurity projects within a leading financial services organisation.

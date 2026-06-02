@@ -1,0 +1,57 @@
+Source: LinkedIn
+Date: 28th May 2026
+
+Url: https://www.linkedin.com/jobs/view/4412017282/
+
+
+About the job
+Senior Technical Delivery Manager (Agile / SaaS / Multi-Squad Ownership)
+
+Permanent | London (2-3 Days Per Week Onsite)
+
+
+We are partnering with a large global technology organisation delivering cloud-based SaaS and bespoke software solutions to more than 20 million users worldwide.
+As part of continued growth across Product and Engineering, they are looking for a Senior Technical Delivery Manager to lead complex engineering delivery across multiple squads within a large-scale, dependency-heavy environment.
+
+
+Important
+
+This role requires strong technical delivery expertise. 
+While not a hands-on engineering role, you must be technically credible and comfortable working closely with Engineering Managers and Architects across complex software environments.
+
+
+You should have a solid understanding of APIs, microservices, cloud platforms, CI/CD, technical dependencies, and the delivery challenges associated with large-scale engineering environments.
+This role is focused on engineering delivery leadership rather than governance-led project management. 
+Candidates whose experience is primarily centered around PMO coordination, milestone tracking, or governance-only delivery are unlikely to be a fit.
+
+
+Reporting to the VP of Delivery, you will help drive execution maturity, delivery predictability, and cross-team coordination across product, platform, and operational initiatives.
+
+
+Key Responsibilities
+
+Own delivery across 3–4 engineering squads
+Drive clarity around priorities, scope, sequencing, and execution
+Manage delivery across feature work, technical debt, platform initiatives, and operational issues
+Coordinate cross-team and transversal initiatives
+Identify and manage delivery risks, dependencies, and technical constraints
+Work closely with Engineering, Architecture, and Product teams
+Improve delivery predictability, transparency, and execution maturity
+Coach teams toward stronger collaboration, accountability, and delivery practices
+
+
+What We’re Looking For
+
+Significant experience within Technical Delivery, Agile Delivery, or Engineering Delivery environments
+Experience managing delivery across multiple engineering squads
+Proven delivery experience within SaaS or bespoke software environments
+Strong understanding of modern software delivery practices and cloud-based systems
+Experience managing complex dependencies and delivery risk
+Ability to balance feature delivery against technical debt and platform stability
+Strong stakeholder management and communication skills
+Agile or Project Management certification (Scrum, SAFe, PRINCE2, PMP or equivalent)
+
+
+This role will suit a senior delivery professional who combines strong execution leadership with genuine technical understanding and is comfortable operating close to engineering teams in complex software delivery environments.
+
+

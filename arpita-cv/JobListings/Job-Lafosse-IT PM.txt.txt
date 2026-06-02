@@ -1,0 +1,124 @@
+## Notes 28May26
+
+### Call Notes — Lauren Turley, 28 May 26
+- Asked for day rates at **Estée Lauder** and **Shell**, and current **availability**
+- Role context: **Royal Mail** undergoing major tech transformation
+- Business driver: reduce **compensation costs paid out for lost parcels**
+- Initiative: **delivery photo compliance automation** using ML
+- Strong preference for candidates from a **retail background** with **end-customer focus**
+- Worked closely with customers is a differentiator they're looking for
+- Action: share **updated CV** with relevant experience more prominently emphasised
+
+### Email from Lauren Turley (La Fosse) — Summary
+- Lauren is working alongside **Royal Mail Group** to source a day rate **Technical Project Manager**
+- The role centres on **improving delivery photo compliance using machine learning and modern technology**
+- She wants to present Arpita's profile to the **Hiring Manager**
+- Requested before submission:
+  - Updated CV tweaked to reflect relevant experience (familiarise with job spec)
+
+### Candidate Briefing — PM (AI/ML Transformation) — Royal Mail Group
+
+**Overview**
+- Improving delivery photo compliance using ML and modern tech
+- Goal: reduce compensation costs and improve operational quality
+- PoC and technical foundation already in place — role is about **rollout, adoption, and business impact**
+- Engagement runs to **end of March 2027**, strong potential to extend or convert perm
+- Hybrid: **3 days/week onsite (Farringdon)**
+
+**Responsibilities**
+- End-to-end delivery: rollout through to adoption
+- Manage and align multiple stakeholder groups (operations, finance, technical, customer-facing)
+- Drive behavioural change within frontline operations (photo compliance standards)
+- Partner with remote technical team — no technical build required
+- Own project tracking, budgeting, and financial forecasting
+- Embed new metrics and processes into day-to-day operations
+- Navigate a complex, legacy organisation to drive outcomes
+
+**What the HM is Looking For**
+- Strong PM experience in complex, cross-functional environments
+- Proven stakeholder management and influence at multiple levels
+- Proactive, ownership-led mindset; confident in ambiguous environments
+- High-level understanding of AI/ML or modern tech transformations (credibility over depth — honesty is key)
+- Comparable experience: cloud migrations or enterprise tech transformations
+- Comfortable in legacy/clunky environments; ideally background in faster-paced settings (retail, e-commerce)
+
+**Key Stakeholders**
+- Hiring Manager: **Jonathan**
+- Remote technical/engineering teams
+- Finance (budget tracking)
+- Operational/frontline teams (delivery offices)
+- Customer/contact centre teams
+- 4+ stakeholder groups with differing priorities
+
+**What Success Looks Like**
+- Successful rollout and adoption across the organisation
+- Measurable reduction in compensation costs
+- Improved operational compliance driven by better data and metrics
+- Strong stakeholder alignment
+- Potential to influence future AI use cases
+
+**Interview Emphasis**
+- Complex, multi-stakeholder project delivery examples
+- Driving change/adoption in operational environments
+- Stakeholder management in challenging or resistant settings
+- Budget ownership / financial tracking experience
+- AI/ML/modern tech understanding at a conceptual level (be clear and honest — don't overstate)
+- Ownership and problem-solving in ambiguous situations
+
+**Watch-outs**
+- Do not overstate AI/ML expertise
+- Strong interpersonal skills as important as delivery capability
+- Stakeholder navigation and resilience are critical
+
+---
+
+Source: LinkedIn
+Date: 23 May 26
+Url: https://www.linkedin.com/jobs/view/4417134282/
+
+La Fosse
+Information Technology Project Manager 
+London Area, United Kingdom
+
+JD: 
+About the job
+📣🚨 Project Manager (IT & Data/AI) – FTSE100 – Inside IR35 – Hybrid (London) – £550-£600 p/d - 10 months initial🚨📣
+
+
+
+We’re looking for an experienced Project Manager to join a FTSE100 organisation undergoing a major technology transformation. This is a large‑scale, complex environment, so we need people who have operated at enterprise scale and can truly drive delivery across multiple workstreams at pace.
+You must be, first and foremost, a strong Project Manager, someone who can deliver to timelines, manage risks and issues, engage effectively with senior stakeholders, run workshops, and roll your sleeves up to make things happen. This role is delivery-focused, so we’re not looking for subject matter experts; we need a PM who can navigate complexity, coordinate teams, and keep programmes moving.
+
+You’ll play a key role in enabling the organisation’s IT & Data/AI transformation, working closely with cross‑functional teams, vendor partners, and executive stakeholders.
+
+What we’re looking for:
+
+Proven experience delivering large-scale projects within complex, enterprise environments
+Ability to manage multiple stakeholders and run effective workshops
+Strong project governance, RAID management, planning, and reporting
+Someone pragmatic, hands-on, organised, and confident operating at pace in high-pressure environments
+Experience within Tech modernisation, Data, AI, Machine Learning is beneficial, but the priority is strong project delivery capability
+
+
+📆 9‑month initial contract (part of a multi‑year transformation)
+
+⏱ Start: June 8th
+
+🏢 Hybrid – London 2x weekly
+
+📃 Inside IR35
+
+💸 £550 - £600
+
+
+
+If interested, please apply and send the following to Lauren.Turley@lafosse.com :
+
+CV
+Minimum day rate
+Availability
+Relevant experience aligned to the requirements above
+List of Data/AI/Machine Learning projects delivered (desirable)
+
+
+Recommendations & referrals are very welcome!

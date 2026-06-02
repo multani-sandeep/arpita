@@ -1,0 +1,66 @@
+Source: LinkedIn
+Date: 7th May 2026 
+Url: https://www.linkedin.com/jobs/view/4405306513/
+Mountain Warehouse
+Web Delivery Manager
+
+JD: 
+About the job
+Application Deadline: 31 May 2026
+
+Department: IT
+
+Location: London
+
+Description
+
+Mountain Warehouse is scaling its digital and e-commerce capabilities, and our Web Development team is growing to support this. We are looking for an experienced Technology Delivery Manager to take ownership of delivery within one of our web development teams.
+
+This role is focused on web delivery in an agile environment, with exposure to emerging areas such as AI and automation. You will be responsible for driving the end-to-end delivery of initiatives that enhance both customer experience and operational efficiency.
+
+You’ll join a team of Delivery Managers and play a key role in shaping how we deliver value across the business.
+
+The role
+
+As a Technology Delivery Manager, you will own the end-to-end delivery lifecycle for the web development team.
+
+You’ll work closely with Engineering, UX and senior stakeholders to ensure initiatives are delivered effectively, pragmatically and at pace.
+
+You will also build a strong understanding of the systems your team owns, how they integrate across the wider business, and how we can consider AI capabilities.
+
+Key Responsibilities
+
+ Own and drive end-to-end delivery of web development initiatives
+ Lead agile delivery practices (primarily Kanban), ensuring a consistent flow of work and continuous improvement
+ Translate business and product priorities into clear roadmaps
+ Manage team capacity, priorities, and workflow using tools such as Jira, Monday.com and Lucid
+ Act as the bridge between technical teams and business stakeholders
+ Build strong relationships with stakeholders, including senior leadership (SLT)
+ Facilitate decision-making to maintain delivery momentum
+ Support the delivery of AI/ML-driven features (e.g. recommendations, agentic experiences), while building an understanding of how these can be applied within e-commerce
+ Support testing, release, and continuous improvement practices
+ Ensure compliance with GDPR and data privacy standards, particularly when working with customer data
+ Provide clear delivery updates, timelines and trade-offs
+ Be comfortable getting into the detail when needed, while maintaining a high-level view of delivery
+
+We Would Like To Meet Someone Who Is
+
+We’re looking for a Delivery Manager with a proactive, engaging style, who thrives in a fast-paced digital environment and is confident navigating complex business and delivery challenges.
+
+ Proven experience as a Delivery Manager (or similar) in a web or digital environment
+ Strong experience delivering medium to large-scale software projects
+ Excellent stakeholder management and communication skills
+ Highly organised, with strong planning and prioritisation skills
+ Comfortable managing multiple initiatives simultaneously
+ Proactive in identifying problems and driving solutions
+ Calm under pressure, with a pragmatic and delivery-focused mindset
+ Interest in AI and emerging technologies
+
+Benefits
+
+Competitive salary and benefits package
+Hybrid working, 3 days in London based office & 2 working from home
+Holiday allowance
+50% staff discount & 25% for family and friends
+Pension scheme
+

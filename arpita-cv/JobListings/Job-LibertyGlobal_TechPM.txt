@@ -1,0 +1,66 @@
+Source: linkedin
+Date: 18 May 26
+Url: https://www.linkedin.com/jobs/view/4414642009/
+
+Liberty Global
+Technical Project Manager 
+
+JD:
+About the job
+We’re looking for a Technical Project Manager to join us in London
+
+This is the role that decides whether our (AI) platform programmes actually land. We work with external build partners – SIs, vendors, specialist firm and we need someone who can run those engagements with real grip. We are looking to a true delivery lead who sets the pace, holds partners to their commitments, and intervenes when things start to drift. You’ll be the connective tissue between our Development and Engineering team, the build partner doing the work, and our external customers, making sure scope, timelines, dependencies and quality stay where they need to be. This is technical project management at the sharper end: you understand what’s being built, you can read a delivery plan critically, and you don’t take a vendor’s word for it when something doesn’t add up.
+
+What will you be doing?
+Run external build partners end-to-end – setting expectations, managing delivery against them, and holding partners accountable when scope, timelines or quality slip
+Own delivery planning across the AI platform programme – milestones, dependencies, critical path, risk – and keep it accurate as things move
+Translate between engineering and the business – turning technical detail into clear status, decisions and trade-offs that stakeholders can act on
+Manage SOWs, change requests and commercial conversations with partners – making sure what’s contracted is what gets delivered, and that scope changes are properly governed
+Run the governance that keeps decisions moving – steering committees, delivery reviews, risk registers – lightweight enough to be useful, rigorous enough to hold up
+Spot problems early and escalate cleanly – surface the issue, frame the options, recommend a path, and drive resolution
+Coordinate across OpCos and group functions – keeping the right people informed, aligned and unblocked across multiple markets
+
+Essential
+
+We tend to look for people with:
+Strong technical project management experience delivering complex platform or software programmes – you’ve done this in environments where the technology is genuinely complicated
+Proven track record of managing external SI and vendor partners – not just attending their status meetings, but actually steering them and pushing back when needed
+Enough technical literacy to challenge constructively – you don’t need to write the code, but you need to read an architecture diagram, understand the trade-offs, and know when a vendor estimate doesn’t pass the smell test
+Solid commercial instincts – comfortable with SOWs, change control, vendor performance management and the conversations that come with them
+Experience working in matrixed, multi-stakeholder environments – keeping things moving across competing priorities and different reporting lines
+Sharp written and verbal communication – status that’s actually useful, escalations that frame the decision, updates that respect people’s time
+
+The Kind Of Operator Who
+
+
+Owns outcomes, not activity – the plan exists to deliver the thing, not to be admired
+Is calm under pressure and direct when it matters – won’t let a partner drift to keep the relationship comfortable
+Brings rigour without bureaucracy – lightweight process when that’s enough, tighter grip when the stakes demand it
+Has good judgment on when to escalate, when to absorb, and when to push back
+
+What’s in it for you?
+
+
+Competitive salary + Bonus
+25 days annual leave with the option to purchase 5 more
+Access to wellbeing and mental health benefits such as the Calm app, personal medical, critical illness cover and dental insurance
+Matched pension contribution up to 10%
+24 hours of paid Volunteer Time Off
+Discounted gym and wellness memberships
+Access to our car benefit scheme
+Access to our online learning platform to continue to develop and grow your career with us
+The chance to join an innovative, fast-paced and passionate team
+
+Who We Are
+
+Liberty Global is a dynamic team of operators and investors committed to generating and delivering value through the strategic management of our three platforms: Liberty Telecom, Liberty Growth and Liberty Services.
+
+Liberty Telecom delivers next-generation products through our advanced fibre and 5G networks, providing over 80 million fixed and mobile connections across Europe through well-known brands such as Virgin Media O2, VodafoneZiggo and Telenet.
+
+Liberty Growth is our $3bn investment portfolio of fast-growing businesses in content, tech, and infrastructure which includes stakes in ITV, Televisa Univision, Plume, Lionsgate and the Formula E racing series, as well brands such as Wyre, nexfibre, Egg and Believ.
+
+Liberty Services is our newest platform spearheaded by Liberty Blume, providing tech-enabled professional services to the Liberty Global Group and 3rd party businesses.
+
+Working at Liberty Global means a career at the heart of a vibrant, innovative group of companies driving value for shareholders, people and society.
+
+Liberty Global is an equal opportunity employer. If you are curious and resilient with a limitless mindset, we’re eager to hear from you, no matter your background.

@@ -1,0 +1,64 @@
+Source: LinkdIn
+Date:11May
+Url: https://www.linkedin.com/jobs/view/4404363899/ 
+
+
+About the job
+OUR MISSION
+To become the car-changing destination of choice. By combining technology, media and deep automotive expertise, we've turned how people buy, sell, advertise and lease cars on its head.
+What started as a simple reviews site is now one of the largest online car-changing destinations in Europe. Last year alone we grew over 50% with nearly £3bn worth of cars bought on site, while £1.8bn of cars were listed for sale through our Sell My Car service.
+In 2024 we went big and acquired Autovia - creators of AutoExpress and Evo magazines - doubling our audience overnight. Together we now have one of the biggest YouTube channels in the world with almost 10m subscribers and over 1.1 billion annual views, while we sell 1.2 million print copies of our magazines and have an annual web content reach over 350million.
+And we’re a long way from done!
+
+THE ROLE
+Carwow is evolving. We are moving our entire Data Warehouse from Snowflake to Google Cloud Platform (GCP) and launching Looker as our primary BI tool to democratise insights across the business. This isn't just a "lift and shift"—it’s about building a faster, more scalable foundation that fuels our mission to be the car-changing destination of choice.
+As our Data Project Manager, you are the Expert Navigator for this transition. You’ll own the roadmap, manage the migration lifecycle, and ensure our teams transition seamlessly without losing a mile of momentum.
+
+WHAT YOU’LL DO
+Driving the Migration: Take full ownership of the end-to-end migration from Snowflake to BigQuery. You’ll coordinate with our external partner and internal data engineers and analysts to ensure schemas, pipelines, and historical data move accurately and on schedule.
+Third-Party Orchestration: Act as the primary point of contact and driver for our external delivery partner. You will hold them accountable to milestones, manage the statement of work (SOW), and ensure their output aligns with carwow’s architectural standards and quality standards.
+Looker Implementation: Lead the rollout of Looker. This includes managing the transition from legacy reporting, overseeing LookML development cycles, and driving user adoption across our UK, German, and Spanish markets.
+Stakeholder Navigation: Act as the bridge between the technical Data team and business stakeholders (Marketing, Product, Commercial). You’ll manage expectations, communicate progress, and ensure the "new" data world meets their "real-world" needs.
+Risk & Resource Management: Identify potential roadblocks—from data parity issues to API bottlenecks—and solve them before they stall the engine.
+Agile Delivery: Bring structure to the chaos. You’ll run stand-ups, manage the project backlog, and keep us "Road Trip Ready" by ensuring documentation and processes are clear for the long haul.
+
+WHAT YOU’LL NEED
+Please note: We know that no candidate will be the perfect match for all we've listed in this posting, so we’d encourage you to apply if you feel you're close to the brief but not an exact match.
+
+Proven Track Record: You’ve successfully managed complex cloud data migrations (ideally Snowflake to BigQuery/GCP).
+External Partner Management: You have experience steering 3rd party consultancies or delivery partners. You know how to manage an SOW, keep external teams aligned with internal culture, and aren't afraid to have candid conversations to keep a project on track.
+BI Expertise: You have experience implementing or managing Looker rollouts. You understand how LookML works and why data governance matters.
+Technical Fluency: You can speak "Data" fluently. You don’t need to write the SQL, but you understand the difference between ELT and ETL and can challenge technical timelines effectively.
+Operational Excellence: You are highly organised and comfortable in a fast-paced environment.
+Autonomy: You are "Fearless at the Wheel." We don't micromanage; we expect you to identify what needs to be done and drive it to completion.
+
+INTERVIEW PROCESS
+
+Step 1: People Team Interview / Screening
+Step 2: Hiring Manager Interview
+Step 3: Values Interview with Stakeholders
+
+WHAT’S IN IT FOR YOU
+
+Hybrid working 
+Competitive salary to fund that dream holiday to Bali
+Matched pension contributions for a peaceful retirement
+Share options - when we thrive, so do you!
+Vitality Private Healthcare, for peace of mind, plus eyecare vouchers
+Life Assurance for (even more) peace of mind
+Monthly coaching sessions with Spill - our mental wellbeing partner
+Enhanced holiday package, plus Bank Holidays
+28 days annual leave
+1 day for your wedding
+1 day off when you move house - because moving is hard enough without work!
+For your third year anniversary, get 30 days of annual leave per year
+For your tenth year anniversary, get 35 days of annual leave per year 
+Option to buy 3 extra days of holiday per year 
+Work from abroad for a month
+Inclusive parental, partner and shared parental leave, fertility treatment and pregnancy loss policies
+Bubble childcare support and discounted nanny fees for little ones
+The latest tech (Macbook or Surface) to power your gif-sending talents
+Up to £500/€550 home office allowance for that massage chair you’ve been talking about
+Generous learning and development budget to help you master your craft
+Regular social events: tech lunches, coffee with the exec sessions, lunch 8 learns, book clubs, social events/anything else you pester us for
+Refer a friend, get paid. Repeat for infinite money
