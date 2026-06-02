@@ -1,0 +1,39 @@
+Source: https://www.linkedin.com/jobs/view/4315719078/
+Date: 9th April 2026
+
+About the job
+talabat is part of the Delivery Hero Group, the world’s pioneering local delivery platform, our mission is to deliver an amazing experience—fast, easy, and to your door. We operate in over 70+ countries worldwide. Headquartered in Berlin, Germany. Delivery Hero has been listed on the Frankfurt Stock Exchange since 2017 and is part of the MDAX stock market index.
+
+Job Description
+
+We are seeking a Senior Product Manager with a strong background in artificial intelligence and a passion for building tools that empower commercial, account management, and operations teams. The role focuses on designing and delivering AI-powered solutions and agentic workflows to enhance sales productivity, drive B2B customer acquisition, accelerate onboarding, and improve account management and retention outcomes.
+Lead the strategy and product roadmap for AI-powered features focused on B2B sales acquisition, account onboarding, and retention workflows.
+Build, deploy, and refine agentic workflows and intelligent automation that support commercial and sales teams with prospecting, pipeline management, deal execution, and renewal processes.
+Launch AI-driven capabilities that personalize outreach, automate onboarding processes, and proactively surface account growth opportunities and churn risks.
+Partner with Data Science and Engineering to develop solutions that analyze customer and account data, delivering actionable insights for the commercial organization.
+Own the end-to-end delivery of new AI tools—ensuring internal adoption by sales and account management teams, and continuous improvement based on user feedback and business impact.
+Collaborate with cross-functional stakeholders (including Marketing, Revenue Operations, and Support) to align product enhancements with go-to-market priorities and customer needs.
+
+Qualifications
+
+What Success Looks Like:
+
+Higher volume and improved quality of B2B lead acquisition, with measurable improvements to onboarding speed and customer satisfaction.
+Increased sales team productivity, faster deal cycles, and higher win rates supported by AI-driven tools.
+Scalable onboarding and account management journeys, leading to increased retention and expansion of key accounts.
+Strong adoption and advocacy from commercial teams for the AI-powered features and workflows built.
+
+Basic Qualifications
+
+5+ years in product management or product leadership, with at least 2 years building AI-driven products or workflow automation tools.
+Experience delivering commercial/B2B-focused product features that support sales, onboarding, or account retention processes.
+Demonstrated ability to collaborate with commercial, sales, and data science stakeholders to deliver business-impacting tools.
+Familiarity with AI/ML concepts (agentic workflows, workflow automation, predictive analytics) in a commercial context.
+Excellent communication skills, with proven ability to drive adoption and deliver value for internal business teams.
+
+Preferred Qualifications
+
+Experience building AI-powered solutions for B2B SaaS, marketplaces, or enterprise software environments.
+Practical experience with CRM, sales enablement platforms, or customer success tooling enhanced by AI.
+Background in launching agentic workflows that automate or augment B2B sales and customer onboarding.
+MBA or advanced degree in a business, technical, or quantitative field preferred

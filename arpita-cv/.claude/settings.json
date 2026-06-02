@@ -1,0 +1,50 @@
+{
+  "model": "haiku",
+  "permissions": {
+    "allow": [
+      "Bash(python3 -c \"import markdown; print\\(''markdown ok''\\)\")",
+      "Bash(pip install:*)",
+      "Bash(python3 -m pip install markdown)",
+      "Skill(update-config)"
+    ],
+    "additionalDirectories": [
+      ".claude"
+    ]
+  },
+  "agents": {
+    "cv-generator-claude": {
+      "file": ".claude/cv-generator-claude.md",
+      "description": "Generate tailored CVs with strict rule compliance",
+      "model": "haiku",
+      "auto_load": true,
+      "context": {
+        "reference_guide": "CV-Generator.md",
+        "source_cv": "ArpitaNarula.md",
+        "application_log": "ApplicationLog.md"
+      }
+    },
+    "cv-generator-gemini": {
+      "file": ".claude/cv-generator-gemini.md",
+      "description": "Fast keyword analysis and gap assessment",
+      "model": "haiku",
+      "auto_load": false,
+      "context": {
+        "reference_guide": "CV-Generator.md",
+        "source_cv": "ArpitaNarula.md"
+      }
+    }
+  },
+  "hooks": {
+    "UserPromptSubmit": [
+      {
+        "matcher": "/cv-gen",
+        "hooks": [
+          {
+            "type": "agent",
+            "prompt": "User is requesting CV generation via /cv-gen shorthand. Route to cv-generator-claude agent with the job reference provided."
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,53 @@
+Source: https://www.linkedin.com/jobs/view/4365563218/
+Date: 26-Mar-2026
+
+About the job
+Job Description
+
+Shape the future of product delivery while crafting solutions that enhance and optimize customer experiences. Lead end-to-end processes, manage dependencies, and liaise with stakeholders as part of a team at the forefront of innovation.
+
+The Chief Data and Analytics Office is responsible for building enterprise-scale, cutting-edge platforms for Data Management & Analytics and AI/ML Operations that are used firm-wide by the JPMC workforce for Artificial Intelligence (including generative AI)/Machine Learning (AI/ML) development and Data Management. 
+
+As a Fusion Product Delivery Manager within JPMorganChase CDAO Function, you will oversee the strategic direction and execution of firmwide data/ML/AI projects and programs across various Line of Businesses. You will drive innovation, influence senior leadership, and ensure alignment with the bank’s strategic objectives, including road mapping and long-term planning.
+
+Job Responsibilities
+
+Set and execute the strategic direction for data-driven projects and programs, ensuring alignment with the bank’s vision and delivery of transformative value.
+Oversee the end-to-end execution and delivery of complex, firmwide strategic initiatives, managing resources, budgets, and timelines to ensure successful outcomes.
+Lead and drive data management initiatives, with a strong focus on data lineage, data controls, and compliance with regulatory frameworks such as BCBS.
+Structure and deliver pragmatic, actionable plans at pace, balancing rigor with the need for practical, results-oriented execution.
+Operate autonomously, driving project streams independently while maintaining effective reporting and communication with management and stakeholders.
+Engage and influence senior stakeholders across the organization, presenting well and excelling in communication with both technical and non-technical audiences.
+Foster a culture of innovation and continuous improvement, encouraging creative solutions and the adoption of new technologies and methodologies.
+Demonstrate a strong appetite for new technology, with a particular interest in AI and emerging tech trends.
+Develop comprehensive roadmaps to guide strategic project initiatives, ensuring alignment with the bank’s strategic vision and objectives.
+Represent the CDAO function in executive meetings and forums, advocating for data-driven initiatives and their impact on the organization.
+Manage and engage with a diverse range of stakeholders, ensuring effective collaboration and delivery across multiple teams and functions.
+
+Required Qualifications, Capabilities, And Skills
+
+Significant experience in product delivery, project management, or program management roles, with a strong focus on data management (especially data lineage and data controls) within the financial services industry.
+Demonstrated experience or exposure to BCBS regulatory requirements.
+Strong leadership, strategic thinking, and stakeholder management skills, with the ability to drive change and influence organizational direction.
+Proven ability to structure plans and ideas, deliver at pace, and “get things done” in a complex, fast-moving environment.
+Autonomous and pragmatic, with a track record of independently driving initiatives while balancing effective communication and reporting.
+Tech-savvy, with familiarity in data architecture, data flow methodologies (e.g., APIs), and the ability to read and interpret technical documentation such as Swagger pages.
+Excellent communication and presentation skills, with the ability to engage effectively with both technical and non-technical stakeholders.
+Fast learner, adaptable, and comfortable working on high-impact, firmwide strategic programs.
+Appetite for new technology and innovation; AI-savvy is a strong plus.
+
+Preferred Qualifications, Capabilities, And Skills
+
+Bachelor’s degree in Business, Computer Science, Information Technology, or a related field; Master’s or MBA preferred.
+Recognized thought leader within data management or financial services.
+Familiarity with centralized Chief Data and Analytics Office (CDAO) operations.
+
+ABOUT US
+
+J.P. Morgan is a global leader in financial services, providing strategic advice and products to the world’s most prominent corporations, governments, wealthy individuals and institutional investors. Our first-class business in a first-class way approach to serving clients drives everything we do. We strive to build trusted, long-term partnerships to help our clients achieve their business objectives.
+
+We recognize that our people are our strength and the diverse talents they bring to our global workforce are directly linked to our success. We are an equal opportunity employer and place a high value on diversity and inclusion at our company. We do not discriminate on the basis of any protected attribute, including race, religion, color, national origin, gender, sexual orientation, gender identity, gender expression, age, marital or veteran status, pregnancy or disability, or any other basis protected under applicable law. We also make reasonable accommodations for applicants’ and employees’ religious practices and beliefs, as well as mental health or physical disability needs. Visit our FAQs for more information about requesting an accommodation.
+
+About The Team
+
+Our professionals in our Corporate Functions cover a diverse range of areas from finance and risk to human resources and marketing. Our corporate teams are an essential part of our company, ensuring that we’re setting our businesses, clients, customers and employees up for success.
