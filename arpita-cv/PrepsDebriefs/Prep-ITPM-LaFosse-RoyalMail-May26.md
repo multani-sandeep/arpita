@@ -217,7 +217,7 @@ Punchline: First 90 days is prep and pilot validation, not full rollout. Get the
 
 **You:**
 
-"I'd start with understanding what we're actually trying to fix. The PoC proved the model works technically. But rolling it out nationwide to thousands of couriers operating under time pressure—that's a different challenge. The ML model is the enabler. The real problem is behavioural. If couriers don't understand why compliance matters, or if taking a compliant photo adds friction to their day, adoption collapses at scale.
+"I'd start with understanding what we're actually trying to fix. The PoC proved the model works technically. But rolling it out nationwide to thousands of couriers operating under time pressure-that's a different challenge. The ML model is the enabler. The real problem is behavioural. If couriers don't understand why compliance matters, or if taking a compliant photo adds friction to their day, adoption collapses at scale.
 
 I'd structure this in phases, each with a clear focus:"
 
@@ -236,11 +236,11 @@ I'd structure this in phases, each with a clear focus:"
 
 ### Key Principle Throughout
 
-"The pilot phase—1-2 depot cohorts for 4-6 weeks—is operational validation, not technical proof. If compliance jumps to 80% in week 1 but drops to 60% in week 4, that tells us something about sustainability. Then scaling is evidence-based, not hopeful.
+"The pilot phase-1-2 depot cohorts for 4-6 weeks-is operational validation, not technical proof. If compliance jumps to 80% in week 1 but drops to 60% in week 4, that tells us something about sustainability. Then scaling is evidence-based, not hopeful.
 
 I'm tracking compliance rates by depot, compensation cost reduction, and where adoption is weak. Feeding that back weekly to you and the Steering Committee so we're never surprised.
 
-And the framing matters: Operations teams can see this as 'head office making their job harder.' But it's actually about protecting couriers and the business—better photo evidence means fewer wrongful compensation claims, which protects everyone's margin. Local managers buy it when they understand that."
+And the framing matters: Operations teams can see this as 'head office making their job harder.' But it's actually about protecting couriers and the business-better photo evidence means fewer wrongful compensation claims, which protects everyone's margin. Local managers buy it when they understand that."
 
 ---
 
@@ -248,7 +248,7 @@ And the framing matters: Operations teams can see this as 'head office making th
 
 ### a. Operational Reality Probe
 
-**Q: You've worked in retail and faster-paced environments. Royal Mail is 360 years old. Couriers are under time pressure, depot managers have competing priorities, there's skepticism about head office initiatives. How do you actually get adoption to stick at 10,000 couriers across the UK—not just in a pilot?**
+**Q: You've worked in retail and faster-paced environments. Royal Mail is 360 years old. Couriers are under time pressure, depot managers have competing priorities, there's skepticism about head office initiatives. How do you actually get adoption to stick at 10,000 couriers across the UK-not just in a pilot?**
 
 **Understanding the friction:**
 - Friction is structural, not comms: couriers have 100+ deliveries/day, photo compliance adds operational steps, time pressure makes them cut corners under load
@@ -339,7 +339,7 @@ And the framing matters: Operations teams can see this as 'head office making th
 - Are there known accuracy differences across regions or by courier device type
 - What's the plan if the model performs significantly differently in rural vs urban areas
 - How are false rejections escalated and resolved (courier appeals, manual review)
-- What happens to rejected photos—are they logged, analyzed, used to improve the model
+- What happens to rejected photos-are they logged, analyzed, used to improve the model
 
 ---
 
