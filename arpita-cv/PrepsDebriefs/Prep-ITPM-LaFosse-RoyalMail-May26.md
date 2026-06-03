@@ -241,6 +241,163 @@ I'd structure this in phases, each with a clear focus:"
 I'm tracking compliance rates by depot, compensation cost reduction, and where adoption is weak. Feeding that back weekly to you and the Steering Committee so we're never surprised.
 
 And the framing matters: Operations teams can see this as 'head office making their job harder.' But it's actually about protecting couriers and the business—better photo evidence means fewer wrongful compensation claims, which protects everyone's margin. Local managers buy it when they understand that."
+
+---
+
+## Interview Q&A
+
+### a. Operational Reality Probe
+
+**Q: You've worked in retail and faster-paced environments. Royal Mail is 360 years old. Couriers are under time pressure, depot managers have competing priorities, there's skepticism about head office initiatives. How do you actually get adoption to stick at 10,000 couriers across the UK—not just in a pilot?**
+
+**Understanding the friction:**
+- Friction is structural, not comms: couriers have 100+ deliveries/day, photo compliance adds operational steps, time pressure makes them cut corners under load
+- Peak periods: late morning, afternoon delivery windows when couriers are busiest
+- Current incentives favor speed over compliance; photo compliance competes with delivery targets
+- What happens today when compliance fails: nothing visible to the courier, so no reason to prioritize it
+- How couriers get encouraged: immediate specific feedback (not rewards), understanding the why, operational visibility (compliance rates by depot), depot manager reinforcement, removing process friction
+- Who drives this: you (PM) design feedback loop and monitor, depot managers brief and reinforce, operations embeds into culture, engineering makes system user-friendly
+
+**What I need to understand in week 1:**
+- Exact delivery workflow: where does the photo step fit, how long does it take, can it be streamlined
+- Current operational pain points: device usability, connectivity gaps, environmental conditions (lighting, weather)
+- Depot manager priorities: are they measured on delivery speed, compliance, or both
+- What frontline already knows: has the PoC been visible to couriers, or is this a surprise
+
+**Dependencies and constraints:**
+- Device capability varies by depot and region; older devices may not support the photo functionality
+- Rural areas have poor connectivity; offline handling must work
+- Depot manager buy-in is critical: they set the tone and reinforce standards, or they undermine it
+- Operations team capacity: can they support additional monitoring and feedback without slowing delivery
+
+**How to approach it:**
+- Spend time on the ground at delivery offices, shadow couriers during peak periods
+- Understand what actually works operationally, not what the brief assumes
+- Work through depot managers, not around them
+- Frame it as operational support (fewer lost parcel disputes, better evidence for couriers), not head office control
+
+---
+
+### b. Commercial/Judgment Test
+
+**Q: Pilot shows compliance at 85% week 1, drops to 60% week 8. What does that tell you? What do you actually do about it?**
+
+**What this tells me:**
+- Initial enthusiasm fades when operational pressure returns; the motivation isn't sustained
+- The process adds genuine friction that couriers can't sustain under load
+- Couriers have found workarounds or are deprioritizing compliance when delivery volume spikes
+- Feedback loop isn't working: couriers don't see why compliance matters, so compliance becomes optional
+
+**Immediate actions:**
+- Go back to the pilot depots and observe in real conditions during peak periods
+- Ask couriers directly why compliance is dropping: is it time pressure, unclear standards, device issues, or lack of understanding
+- Check if the photo step is genuinely slowing down deliveries or if resistance is behavioral
+- Review feedback being given to couriers: are they getting immediate, specific guidance on what's wrong
+- Talk to depot managers: are they reinforcing the standard, or have they deprioritized it
+
+**What this means for the plan:**
+- Not a go/no-go yet, but the adoption model needs refinement before wave 1 rollout
+- The issue isn't the model, it's operational sustainability
+- Need to identify which levers work: streamlining the process, stronger manager reinforcement, adding recognition/incentive, or improving feedback
+
+**Options to consider:**
+- Option 1: reduce friction in the process (can photo be faster, lighter weight, less intrusive)
+- Option 2: strengthen accountability and reinforcement (depot managers explicitly driving standards)
+- Option 3: add positive incentive or recognition for consistent compliance
+- Option 4: extend pilot to test intervention and retest before scaling
+
+**Escalation to Jonathan:**
+- Present the data and the root cause hypothesis, not just the problem
+- Include recommendation for next steps
+- Don't hide behind constraints; own the decision
+
+---
+
+### c. AI/Tech Credibility
+
+**Q: Walk me through what you understand about how the photo compliance model works. What would concern you? What questions would you ask the engineering team?**
+
+**How the model works:**
+- Trained on photos labeled as compliant or non-compliant based on defined standards
+- Classifies each new photo in real-time, outputs compliant/non-compliant with a confidence score
+- Compliant photo: angle sufficient to show parcel condition, lighting clear enough to read label/address, image quality high enough for evidence
+- Works locally or cloud-based depending on connectivity constraints
+
+**What concerns me:**
+- False positives: model rejects genuinely good photos, couriers lose trust in the system, adoption fails
+- False negatives: model accepts poor-quality photos, we lose the operational benefit
+- Depot variation: model trained in certain conditions (lighting, weather, device types), may perform very differently across UK regions and rural areas
+- Immediate feedback: if couriers don't get instant, specific feedback on WHY a photo failed, they can't improve or get frustrated
+- Model drift over time: real-world photos (bad weather, night delivery, moving vehicles, time pressure) differ from training data distribution
+
+**Questions for engineering team:**
+- What are the false positive and false negative rates across different scenarios (weather, lighting, time of day, region)
+- What confidence threshold triggers a rejection, and what happens if a photo falls between thresholds
+- How does the system handle edge cases (night delivery, poor lighting, courier movement, bad weather)
+- Can couriers retry immediately with feedback, or is there a delay that disrupts workflow
+- How frequently is the model retrained, and what operational data informs retraining
+- Are there known accuracy differences across regions or by courier device type
+- What's the plan if the model performs significantly differently in rural vs urban areas
+- How are false rejections escalated and resolved (courier appeals, manual review)
+- What happens to rejected photos—are they logged, analyzed, used to improve the model
+
+---
+
+### d. Ambiguity/First Steps
+
+**Q: What's the one thing you need to figure out in week 1 that would change your entire approach? Walk me through your first 2 weeks.**
+
+**The critical week 1 priority:**
+- Understand real operational reality vs. the brief assumption
+- Identify where the actual friction points are: is it the photo step, device constraints, comms failure, genuine time pressure, or behavioral resistance
+- This could completely change the strategy: if friction is worse than the brief suggests, timeline or approach needs to shift
+
+**Week 1: Listen and Observe**
+- Attend programme standups and governance meetings; understand decision-making and stakeholder structure
+- Visit 2-3 delivery offices during peak delivery hours; shadow couriers and observe the actual workflow
+- Ask: where does photo fit in the delivery sequence, how long does it take, what gets in the way
+- Talk to depot managers: what's their biggest concern about this rollout, do they see the benefit
+- Review PoC results with engineering team: what worked, what surprised you, what failed in real conditions
+- Map the current state: baseline compliance rates, device capability by depot, connectivity reliability, comms awareness
+
+**Week 2: Understand and Plan**
+- Synthesize week 1 learnings; identify the real adoption risks vs. the assumed risks
+- Define pilot readiness criteria: what conditions need to be true to launch
+- Clarify success metrics with finance and operations: compliance targets, adoption rate targets, timeline expectations
+- Identify operational friction: is it solvable (device upgrade, faster process), or is it behavioral (needs management reinforcement)
+- Design the pilot approach based on what you learned, not what the brief assumes
+- Get alignment with Jonathan and operations leadership on the plan before piloting
+
+---
+
+### e. Potential Blocker/Ownership
+
+**Q: What's the biggest risk to this programme that's NOT in the JD? What would make you escalate to me?**
+
+**Biggest risk NOT in the JD:**
+- Operational pushback and adoption resistance
+  - Couriers may perceive photo compliance as surveillance, not operational support
+  - Depot managers may resist if they think it's adding workload without benefit
+  - If frontline doesn't understand the commercial rationale (fewer lost parcel claims protects everyone), adoption becomes forced compliance, not sustained behavior
+  - Organizational fatigue: if Royal Mail is running multiple tech changes simultaneously, adoption suffers across all programmes
+
+**When I'd escalate to you:**
+- Adoption drops below target after week 4 of pilot (signal of deeper structural issue, not just teething)
+- Device or connectivity infrastructure gaps are blocking the process and technical team can't resolve within timeline
+- Depot managers are actively discouraging or deprioritizing compliance (indicates leadership misalignment on strategy)
+- Model is generating consistent false positives or false negatives in specific regions or depot types (fairness issue affecting trust)
+- Commercial case is shifting (timeline compressed, budget reduced, targets changed mid-rollout)
+
+**What I'd do before escalating:**
+- Go back to the source and diagnose the root cause, not just the symptom
+- Test a localized intervention or workaround to validate my hypothesis
+- Identify 2-3 options with trade-offs and recommendation
+- Present with specific data and a path forward, not just the problem
+
+**Ownership principle:**
+- Own the outcome and the decision, not pass it up
+- Escalate only when the constraint is genuinely outside my sphere of influence
+- Escalate with a recommendation, not a question
 ### Q1: Stakeholder Map
 
 | Stakeholder and Their Needs | PM (IT & Data/AI) - What You Do |
