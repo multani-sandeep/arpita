@@ -602,6 +602,133 @@ If probed: what was the risk of going live on partial data?
 
 ---
 
+## Context Clarity Q&A
+
+### Q: Are couriers external courier companies that deliver parcels for Royal Mail?
+
+- No. Couriers are Royal Mail's own frontline delivery staff
+- ~100,000+ employees or contractors working for Royal Mail
+- Based at Royal Mail delivery offices across the UK
+- They physically deliver parcels to customer doorsteps daily
+- This is internal organizational change, not managing external suppliers
+
+### Q: Is this initiative about Lost parcels or Lost AND Damaged parcels?
+
+**Specifically about LOST parcels** (per JD and job posting)
+
+- Job posting: "Business driver: reduce compensation costs paid out for **lost parcels**" (Line 6, Job-Lafosse-IT PM.txt.txt)
+- Initiative focus: "**delivery photo compliance** using ML" = proof of delivery occurred
+- Compliant photo = evidence that courier handed over parcel to customer
+- Protects against unproven "parcel never arrived" claims
+
+**Damaged parcels:**
+- A delivery photo COULD theoretically show condition at handover (secondary benefit)
+- But compliance standards focus on proof-of-delivery, not condition documentation
+- Not the primary business driver or scope
+- Stay grounded: the compensation cost problem is lost parcels, not damage claims
+
+### Q: Do retailers (e.g. Temu, Amazon) work with Royal Mail to deliver? Does this initiative touch that?
+
+**Yes to both, but with important distinction:**
+
+- E-commerce companies use Royal Mail as a logistics partner
+- They send parcels to Royal Mail network → Royal Mail delivers to customer doorstep
+- Retailers pay Royal Mail per parcel delivered
+
+**Initiative's relationship to this:**
+- Scope: NOT changing retailer behavior. Only changing Royal Mail courier behavior.
+- Business case: Compensation claims largely come from retailer/customer disputes ("parcel never arrived")
+- Better photo compliance = proof of delivery = fewer unproven claims = lower compensation costs (JD Line 23: "Goal: reduce compensation costs")
+- This protects Royal Mail's margins and relationship with retailers
+
+**For interview prep:**
+- Understanding retailer relationships explains the business case (why compensation costs matter)
+- Operational scope is entirely internal: couriers, delivery offices, depot managers
+- You're not negotiating with external retailers
+- You're managing Royal Mail's own frontline to protect against retailer/customer claim disputes
+
+### Q: Why does the JD prefer a retail background for this role?
+
+**What the JD says:**
+- "Strong preference for candidates from a **retail background** with **end-customer focus**" (Line 8)
+- "Worked closely with customers is a differentiator they're looking for" (Line 9)
+- "Ideally background in faster-paced settings (retail, e-commerce)" (Line 43)
+
+**Why it matters:**
+
+Retail background teaches what this role needs:
+
+| Retail Skill | How It Applies to Royal Mail |
+|---|---|
+| **End-customer focus** | Understand that better delivery photos = fewer lost parcel claims = better customer experience for Royal Mail's retail customers |
+| **Behavior change at scale** | Retail requires getting shop floor and warehouse staff to behave consistently. Royal Mail couriers face the same challenge. |
+| **Operational complexity** | Retail has multiple stakeholders, supply chain constraints, time pressure. Royal Mail delivery is structurally similar. |
+| **Fast-paced change** | Retail moves quickly; shows you can drive adoption in operational environments (unlike legacy IT environments) |
+| **Frontline perspective** | Retail teaches how frontline staff actually work (time pressure, conflicting priorities, operational friction). This is essential for understanding courier behavior. |
+
+**Real connection:**
+- Retail is NOT about understanding retail as a customer
+- It's about understanding operational behavior change, frontline constraints, and end-customer impact
+- These directly translate to managing courier adoption and compliance at Royal Mail
+
+**For interview:**
+- Emphasize your retail/e-commerce experience as evidence you understand frontline operational change
+- Show how you've driven behavior change under time/operational pressure
+- Your Shell, Costa, Estée Lauder examples all have this retail-like operational complexity
+
+---
+
+## AI Basics Refresher
+
+### AI vs Machine Learning vs Generative AI
+
+| Term | Definition | Examples |
+|---|---|---|
+| **Artificial Intelligence (AI)** | Broad field: machines that replicate cognitive tasks (problem-solving, reasoning, perception, language understanding) | YouTube recommendations, recommendation engines, chatbots, classification systems |
+| **Machine Learning (ML)** | Subset of AI: discovers patterns in data to make predictions or decisions autonomously | Fraud detection, recommendation engines, photo compliance classification, predictive analytics |
+| **Generative AI (Gen AI)** | Subset of AI: generates new original content (text, images, code, video, audio) | ChatGPT, DALL-E, Claude, Copilot, image generators |
+
+**For Royal Mail photo compliance model:**
+- Type: **Machine Learning (predictive)**
+- What it does: Classifies delivery photos as compliant or non-compliant
+- NOT Generative AI (not creating new content)
+
+---
+
+### AI Risk Classification - EU AI Act (4 Tiers)
+
+| Risk Tier | Definition | Compliance | Examples |
+|---|---|---|---|
+| **Unacceptable Risk** | Fundamentally incompatible with EU values. **BANNED.** | Cannot be deployed in EU at all | Social scoring systems, behavior manipulation without consent, emotion recognition in workplaces, unfair biometric scraping |
+| **High Risk** | Could significantly affect health, safety, fundamental rights, employment, education, financial services, law enforcement, justice | Strict compliance required: conformity assessments, technical docs, human oversight, traceability logs, risk management | Medical devices, autonomous vehicles, employment decisions, credit decisions, law enforcement, border control |
+| **Limited Risk** | Societal impact but not high-risk. Requires transparency. | Transparency documentation, user disclosure | Most commercial AI tools (Copilot, ChatGPT for general use) |
+| **Minimal Risk** | Low societal impact. Largely unregulated. | Minimal requirements | Spell-checkers, content filters, low-stakes automation |
+
+**For Royal Mail photo compliance model:**
+- Classification: Likely **Limited or High Risk** (depends on implementation)
+- Reason: Affects courier employment decisions, operational behavior, evaluation
+- Governance checkpoint: Should be classified BEFORE development (not deployment)
+- Key principle: Risk classification drives compliance obligations, not technology type
+
+---
+
+### Key Governance Questions for Jonathan
+
+When discussing AI aspects of this initiative:
+
+- "What's the risk classification of the photo compliance model under the EU AI Act?"
+- "How is human oversight structured? (Couriers can appeal/contest model decisions)"
+- "What fairness metrics are being tracked? (Does the model treat all depots/couriers equally)"
+- "How is the model monitored post-launch for drift or bias?" (Real-world conditions may differ from training data)
+- "What's the data governance approach? (How is photo data stored, accessed, retained)"
+
+**Framing for interview:**
+- You don't need deep technical ML expertise
+- You DO need to understand risk governance and operational fairness
+- Royal Mail's compliance posture (especially with EU AI Act) may influence rollout approach
+
+---
+
 # APPENDIX
 
 ## Admin
