@@ -1,5 +1,5 @@
 {
-  "model": "haiku",
+  "model": "sonnet",
   "permissions": {
     "allow": [
       "Bash(python3 -c \"import markdown; print\\(''markdown ok''\\)\")",
@@ -33,18 +33,5 @@
         "source_cv": "ArpitaNarula.md"
       }
     }
-  },
-  "hooks": {
-    "UserPromptSubmit": [
-      {
-        "matcher": "/cv-gen",
-        "hooks": [
-          {
-            "type": "agent",
-            "prompt": "User is requesting CV generation via /cv-gen shorthand. Route to cv-generator-claude agent with the job reference provided."
-          }
-        ]
-      }
-    ]
   }
 }
