@@ -33,7 +33,7 @@
 | Cover Letter | N/A |
 | Req # | 4409260339 |
 | Location | London (2-3 days/week onsite) |
-| Status | Generated |
+| Status | Applied |
 | Notes | Job spec: Job-Tria-IntegrationPM.txt. Source: LinkedIn (job ID 4409260339). Contract, Inside IR35, £675/day. Company-wide transformation in a complex logistics organisation; data platform changes and technical transition coordination. Summary repositioned to Senior Project Manager. Skills and experience bullets unchanged from TwoPage-Mar26 template. Contract positions (Shell, Estee, Argos) already flagged. Strongest alignments: Shell (MuleSoft API orchestration, systems integration, S&B vendor dependency decoupling, enterprise-scale EMEA delivery), Costa (Azure DWH data platform, 12+ ingestion sources, data pipelines, MuleSoft APIs — directly matches data platform bonus requirement), Worldpay (external dependency and vendor management, governance shaping, ambiguity and hard deadlines), Lodestone/Ricoh (data platform migration). Rating: 8.5/10. |
 
 ---
@@ -52,7 +52,7 @@
 | Cover Letter | N/A |
 | Req # | 4419928431 |
 | Location | London hybrid |
-| Status | Generated |
+| Status | Applied |
 | Notes | Job spec: Job-FinconsGroup-AgileDelMgr.txt. Source: LinkedIn (job ID 4419928431). Permanent. IT consulting placement into Media & Broadcasting client. Summary repositioned to Senior Agile Delivery Manager. Skills and experience bullets unchanged from TwoPage-Mar26 template. Strongest alignments: Shell (squad-embedded Agile delivery, backlog prioritisation, sprint orchestration, programme governance — Steering Committee), Costa (Agile ceremonies, squad delivery, coaching, concurrent workstreams), Worldpay (programme-level RAID and governance, bridging Agile delivery with stakeholder reporting), Lodestone (7 years consulting delivery model — directly mirrors Fincons consulting placement model). CSM meets Scrum cert requirement. Media sector advantageous but not must-have — no direct media experience but Lodestone/Vodafone is adjacent. Rating: 8/10. |
 
 ---
@@ -71,7 +71,7 @@
 | Cover Letter | N/A |
 | Req # | N/A (LinkedIn post) |
 | Location | Remote first, occasional Leeds travel |
-| Status | Generated |
+| Status | Applied |
 | Notes | Job spec: Job-DominicLinkedINTA-SnrPM.txt. Source: LinkedIn post from TA Dominic Mousley-Dean. Contract, Outside IR35, £600/day. Greenfield system implementation — brand-new platform delivery. Summary repositioned to Senior Project Manager. All Skills and experience bullets unchanged from TwoPage-Mar26 template. Contract positions (Shell, Estee, Argos) already flagged. Strongest alignments: Worldpay (vendor management, SLA, complex system delivery), Shell (third-party vendor dependency — S&B, multi-workstream), Lodestone (PM/BA hybrid title — directly matches nice-to-have), Past Experience (Consultant PM/BA — Argos/Homebase). Hybrid PM/BA capacity is evidenced directly in job titles. Rating: 8/10. |
 
 ---
@@ -90,7 +90,7 @@
 | Cover Letter | N/A |
 | Req # | 4412017282 |
 | Location | London hybrid (2-3 days/week) |
-| Status | Generated |
+| Status | Applied |
 | Notes | Job spec: Job-RobsonBale-SnrTechDeliveryManager.txt. Source: LinkedIn (job ID 4412017282). Permanent. Summary repositioned to Senior Delivery Manager. Skills unchanged from TwoPage-Mar26 template. Strongest alignments: Shell (multi-squad Agile delivery across Web/Mobile/POS/MuleSoft/App teams, 2 confirmed Agile squads, API dependency decoupling via MuleSoft, budget management), Worldpay (ServiceNow ITSM as SaaS platform delivery, multi-workstream dependency management), Costa (concurrent workstream delivery, coaching 3x velocity improvement, Azure DWH platform). SaaS covered by ServiceNow. API/microservices understanding covered by MuleSoft/Apigee orchestration. CI/CD understanding implicit from engineering-adjacent delivery. PRINCE2 and CSM meet certification requirement. Rating: 7/10. |
 
 ---
@@ -109,7 +109,7 @@
 | Cover Letter | N/A |
 | Req # | 4413378661 |
 | Location | Newbury hybrid (2-3 days/week) |
-| Status | Generated |
+| Status | Applied |
 | Notes | Job spec: Job-VodafoneThree-AgileDM.txt. Source: LinkedIn (job ID 4413378661). Permanent. Summary repositioned to Agile Delivery Manager — title change only from template. Skills and experience bullets unchanged from TwoPage-Mar26 template. Vodafone prior experience (Lodestone — Adobe Analytics and Quad Play integration into global eCommerce platform) is a genuine connection point for this employer. SAFe and PI Planning in Skills directly meets "ideally SAFe" requirement. Shell budget delivery (multi-market rollout, 10% under forecast) covers £1m+ budget requirement. Strongest alignments: Shell (SAFe/PI Planning, multi-region product delivery, budget management, cross-functional Web/Mobile/POS/MuleSoft/App teams), Worldpay (RAID, dependency management, multi-workstream enterprise IT), Costa (Agile ceremonies, coaching, backlog prioritisation), Lodestone/Vodafone (prior Vodafone delivery experience). Telecoms gap mitigated by JD explicitly accepting similar IT agile delivery industry experience. CSM directly meets cert requirement. Rating: 8/10. |
 
 ---
@@ -128,7 +128,7 @@
 | Cover Letter | N/A |
 | Req # | 4407413829 |
 | Location | London hybrid (1-2 days) |
-| Status | Generated |
+| Status | Applied |
 | Notes | Job spec: Job-Elsevier-DeliveryManagerIII.txt. Source: LinkedIn (job ID 4407413829). Permanent. Data Engineering organisation — knowledge graph and data platform delivery. Different role and team from prior Elsevier application (Project Manager, Mar 2026, rejected Round 1 May 2026). Summary unchanged from template — "Delivery Manager" title is exact match. Skills and experience bullets unchanged from TwoPage-Mar26 template. Strongest alignments: Costa Coffee (Azure DWH data platform, Agile ceremonies, dependency management, coaching, data governance — primary match for Data Engineering context), Worldpay (RAID, multi-workstream dependency management, outcome-focused delivery), Shell (cross-functional multi-team, scaled delivery, GDPR), CSM directly meets desirable cert. AI Delivery & Governance section aligns with JD's "curiosity about AI shaping delivery" angle. Notable gap: no knowledge graph or search platform background; data platform engineering (as an engineering discipline) not in CV — Arpita's role is always delivery/PM not engineering. Rating: 8/10. |
 
 ---
@@ -147,7 +147,7 @@
 | Cover Letter | N/A |
 | Req # | 4388342892 |
 | Location | London / Sheffield hybrid (3 days on site) |
-| Status | Generated |
+| Status | Applied |
 | Notes | Job spec: Job-Deloitte-ProjMgr-AI.txt. Source: LinkedIn (job ID 4388342892). Contract 6 months, Inside IR35. AI-enabled cybersecurity capability delivery within a leading FS organisation. Summary repositioned to Project Manager leading with technology and AI-enabled programmes. Skills and experience bullets unchanged from TwoPage-Mar26 template. Contract positions highlighted (Shell, Estee, Argos). Strongest alignments: Worldpay (AI Copilot rollout, GenAI risk classification, ITSM compliance, coordinated Legal/Security/IT teams, regulated FS environment), AI Delivery & Governance skills section (GenAI Risk Classification, Responsible AI steering, AI policy enforcement — directly meets preferred AI ethics qualifier), Shell (regulatory compliance, cross-functional multi-team, GDPR), PRINCE2 and CSM meet certification requirement. Notable gap: no cybersecurity project management experience; cybersecurity domain knowledge not in CV. Rating: 7/10. |
 
 ---
@@ -166,7 +166,7 @@
 | Cover Letter | CoverLetter-SeniorPM-ApplyDigital-May26.md |
 | Req # | 4387491834 |
 | Location | London hybrid (Shoreditch) |
-| Status | Generated |
+| Status | Applied |
 | Notes | Job spec: Job-ApplyDigital-SeniorPM.txt. Source: LinkedIn (job ID 4387491834). Permanent. Global AI-native digital transformation agency. Summary repositioned to Senior Project Manager — title change only from template. Skills and experience bullets unchanged from TwoPage-Mar26 template. Miro not added (used by UX/journey creators in team, not directly by Arpita); CI/CD not added (Release Engineer's responsibility at Shell). Jira/Confluence and Smartsheet already in Skills template. Strongest alignments: Lodestone Consulting (7 years client-facing agency/consultancy delivery across Vodafone/GSK/Ricoh — primary bridge for agency PM model), Estee Lauder (digital commerce roadmap, 17 brands, ecommerce features, multi-stakeholder), Argos/Homebase Past Experience (ecommerce checkout/payment/loyalty), Shell (multi-platform web/mobile/POS agile delivery, budget management), CSM certification directly meets Scrum Master desirable. Notable gaps: Miro essential per JD (team tool, not Arpita's direct tool); headless platform experience (CommerceTools, Contentful, Talon.one etc.) not in CV; CI/CD not explicitly in CV. Rating: 7.5/10. |
 
 ---
@@ -185,7 +185,7 @@
 | Cover Letter | N/A |
 | Req # | 4418136884 |
 | Location | TBC |
-| Status | Generated |
+| Status | Closed — Not shortlisted |
 | Notes | Job spec: Job-Worldpay-PM Specialist Technology.txt. Source: LinkedIn (job ID 4418136884). Permanent. Technology PM role at Worldpay (Arpita's prior employer — internal advantage). Summary repositioned to Project Manager — title change only from template; "Project Manager" already appears in the Worldpay experience block. Skills and experience bullets unchanged from TwoPage-Mar26 template. JD is high-level; no domain-specific skills gap. Strongest alignments: Worldpay (direct company experience, ITSM/ServiceNow, RAID, Steering Board, multi-workstream, carve-out complexity — strongest possible match), Shell (budget management, Steering Committee, cross-functional, multi-region), Costa (concurrent workstreams, Agile, coaching), Lodestone (technical/non-technical liaison across multiple clients). PRINCE2 and CSM meet methodology requirement; PMP listed as "may be required" — not in CV, flagged. Rating: 9/10. Notable gap: PMP not held (PRINCE2 and CSM are UK/European equivalents). |
 
 ---
@@ -223,7 +223,7 @@
 | Cover Letter | N/A |
 | Req # | 4413424021 |
 | Location | London Area (Hybrid) |
-| Status | Generated |
+| Status | Applied |
 | Notes | Job spec: Job-EML-ClientDeliveryTeamLead.txt. Source: LinkedIn (job ID 4413424021). Permanent, hybrid London. Fintech/payments platform (global, HQ Brisbane). Summary and skills unchanged from TwoPage-Mar26 template — already well-aligned; Financial Services leads the sector list, overlap count at limit of 3 (complex, cross-functional, product/engineering). Experience unchanged from template. Strongest alignments: Worldpay (Financial Services, ITSM, vendor management, service readiness — closest domain match), Shell (API orchestration via MuleSoft, multi-team delivery), Costa (MuleSoft APIs, coaching PMs and BAs — transferable team mentoring evidence), Lodestone (client-facing delivery model across Vodafone/GSK/Ricoh), Worldpay Copilot/AI automation (matches JD AI and automation emphasis). Notable gaps: SaaS product architecture not named; REST/JSON/auth specifics (desirable only, not in template); external client delivery model last held at Lodestone (pre-2019). Rating: 7.5/10. |
 
 ---
@@ -242,7 +242,7 @@
 | Cover Letter | N/A |
 | Req # | 4417436998 |
 | Location | Uxbridge, UK (hybrid) |
-| Status | Generated |
+| Status | Applied |
 | Notes | Job spec: Job-giffgaff-ProjectDeliveryManager.txt. Source: LinkedIn (job ID 4417436998). Permanent, hybrid Uxbridge. Summary repositioned to Project Delivery Manager — title change only from template. Costa Coffee coaching bullet updated to include outcome-led backlog prioritisation (coaching teams toward value delivery, away from output tracking). All other skills and bullets unchanged from TwoPage-Mar26 template. Strongest alignments: Agile/Scrum/Kanban delivery (all roles, CSM cert), cross-functional multi-team coordination (Shell, Worldpay, Costa), dependency and risk management (all roles), influencing without direct authority (Shell, Estee Lauder), vendor management (Worldpay, Shell). Notable gaps: empowered product teams vs feature teams operating model — addressed directionally in Costa coaching bullet; architecture risk and deployment pipeline engagement not explicitly named. Rating: 8/10. |
 
 ---
@@ -296,7 +296,7 @@
 | CV Used | CV-ApplnDevPM-SpartaGlobal-May26.md |
 | CV Git Version | TBC |
 | Cover Letter | N/A |
-| Status | CV Generated |
+| Status | Applied |
 | Notes | Job spec: Job-SpartaGlobal-ApplnDev PM.txt. Source: LinkedIn (job ID 4411159627). 12-month FTC. 3 days/week on-site London. Summary repositioned to Project Manager with concurrent technology delivery framing. Skills unchanged from TwoPage-Mar26 template. Experience bullets unchanged from template. Contract positions highlighted (Shell, Estee, Argos already marked). Strongest alignments: Costa (concurrent delivery across 12+ workstreams -- directly mirrors 4-5 concurrent projects ask), Estee Lauder (multiple concurrent brand workstreams, third-party dependencies), Worldpay (RAID, governance documentation, UAT and deployment handover), Shell (Agile delivery, cross-functional Web/Mobile/POS/MuleSoft/App teams, Steering Committee). Skills: Application migration and project management, Web and Mobile apps, Agile (Scrum/Kanban/SAFe), CSM certification. Notable gap: JD focuses on application development (greenfield build) whereas CV shows application migration and delivery -- subtle but worth noting. Rating: 8.5/10. |
 
 ---
@@ -313,7 +313,7 @@
 | CV Used | CV-BizChangePM-ProjectPeople-May26.md |
 | CV Git Version | TBC |
 | Cover Letter | N/A |
-| Status | Applied |
+| Status | Closed — Not shortlisted |
 | Notes | Job spec: Job-FlutterUKI-SnrTransfmnPM.txt. Source: LinkedIn (jr138567). Flexible/remote. People Change and Transformation team, reporting to UKI Transformation Programme Manager. CV was not specifically tailored for Flutter -- applied using CV-BizChangePM-ProjectPeople-May26.md. Strongest alignments: Worldpay (RAID, Steering Board, multi-workstream governance, business change), Shell (Steering Committee, budget management, cross-functional), Costa (coaching/building internal change capability, concurrent workstreams), Estee Lauder (multi-brand large organisation). PRINCE2 directly meets methodology requirement. Notable gap: People/HR Transformation is the specific domain focus -- no HR system or operating model HR delivery in CV. Benefits: uncapped leave, bonus, private healthcare, £1k learning fund. |
 
 ---
@@ -330,7 +330,7 @@
 | CV Used | CV-BizChangePM-ProjectPeople-May26.md |
 | CV Git Version | TBC |
 | Cover Letter | N/A |
-| Status | CV Generated |
+| Status | Applied |
 | Notes | Job spec: Job-ProjectPeople-PM BusinessChange.txt. Source: LinkedIn (job ID 4411187939). Hybrid, minimum 2 days/week central Reading. Permanent (no contract indicators). Client unnamed. Summary repositioned to Business Project Manager with business change and transformation framing. Skills unchanged from TwoPage-Mar26 template. Experience bullets unchanged from template. Strongest alignments: Worldpay (RAID, Steering Board, business change perspective, multi-workstream governance, service transition and operational readiness), Shell (Steering Committee, budget 10% under forecast, cross-functional Legal/Marketing/Tech, multi-workstream EMEA), Costa (RAID coaching, concurrent workstreams, continuous improvement, 25% onboarding effort reduction). PRINCE2 and CSM both directly meet PMO frameworks requirement. Notable gap: no explicit procurement experience (commercial awareness covered via Shell budget management). Rating: 9/10. |
 
 ---
@@ -398,7 +398,7 @@
 | CV Used | CV-DigitalPM-DEPT-May26.md |
 | CV Git Version | TBC |
 | Cover Letter | N/A |
-| Status | CV Generated |
+| Status | Applied |
 | Notes | Job spec: Job-DEPT-DigitalPM.txt. Source: LinkedIn (job ID 4414647094). Permanent, London/Manchester hybrid. Digital agency - large-scale web design and build projects, client-facing PM role. Summary repositioned to Digital Project Manager with concurrent client projects, ecommerce/digital programmes and client relationship framing. Skills unchanged from TwoPage-Mar26 template. Experience bullets unchanged from template. Strongest alignments: Estee Lauder (digital commerce, 17 global brands, client stakeholder management, third-party dependencies), Lodestone Consulting (multi-client agency delivery model across Vodafone/GSK/Ricoh), Shell (web/mobile delivery, agile, budget 10% under). Agency experience requirement met via Lodestone (2012-2019). Notable gap: No direct web design/build agency background as recent experience; Lodestone is the bridge (pre-2019). Rating: 7/10. |
 
 ---
@@ -415,7 +415,7 @@
 | CV Used | CV-AdvSpeclstPM-Pearson-May26.md |
 | CV Git Version | TBC |
 | Cover Letter | CoverLetter-AdvSpeclstPM-Pearson-May26.md |
-| Status | CV Generated |
+| Status | Applied |
 | Notes | Job spec: Job-Pearson-AdvSpeclstPM.txt. Source: LinkedIn (job ID 4414735670). Permanent, hybrid. Centralised PMO within Pearson Qualifications. Summary repositioned to Project Manager with concurrent projects, structured governance and cross-functional coordination framing. Skills unchanged from TwoPage-Mar26 template. Experience bullets unchanged from template. Strongest alignments: Worldpay (RAID, Steering Board, cutover, operational readiness, ServiceNow ITSM, BAU handover, multi-workstream), Shell (budget 10% under, Steering Committee, regulatory compliance, staggered rollouts), Costa (concurrent workstreams, Power BI, Lean/Agile delivery coaching, data governance). PRINCE2 and CSM are both preferred certs - strong match. Notable gaps: Lean Six Sigma cert (Yellow/Green Belt - preferred, not essential; Lean delivery is present via Costa coaching bullet); ISO accreditation change control (mentioned as a "when needed" responsibility - not in CV). Rating: 8.5/10. |
 
 ---
@@ -449,7 +449,7 @@
 | CV Used | CV-SnrDeliveryMgr-UBDSDigital-May26.md |
 | CV Git Version | TBC |
 | Cover Letter | N/A |
-| Status | CV Generated |
+| Status | Applied |
 | Notes | Job spec: Job-UBDSDigital-SnrDM.txt. Source: LinkedIn (job ID 4371997287). Permanent, flexible/remote, offices London and Manchester. Digital transformation consultancy (public and private sector). Summary repositioned to Delivery Manager with digital transformation and technology framing. PRINCE2 is explicitly preferred — strong match. Lodestone Consulting (7 years) is the primary bridge for client-facing consultancy model. Strongest alignments: Shell (large-scale, on time and 10% under budget, cross-functional, EMEA), Worldpay (RAID, governance, enterprise software/ServiceNow), Costa (Azure DWH data intelligence, coaching PMs), Lodestone (client delivery across Vodafone/GSK/Ricoh). Notable gaps: no cloud infrastructure/cloud transformation delivery (Azure DWH is bridge for data intelligence); no public sector experience; client-facing consulting model last held at Lodestone (pre-2019). Rating: 7.5/10. |
 
 ---
@@ -466,7 +466,7 @@
 | CV Used | CV-ProgDeliveryMgr-Whitbread-May26.md |
 | CV Git Version | TBC |
 | Cover Letter | N/A |
-| Status | CV Generated |
+| Status | Applied |
 | Notes | Job spec: Job-whitBread-ProgrammeDeliveryManager.txt. Source: LinkedIn (job ID 4411345326). Permanent, Dunstable hybrid (3 days in office). Hotels and Restaurants technology team. Summary repositioned to Programme Delivery Manager with transformation, technology and business change framing. Skills unchanged from TwoPage-Mar26 template. Experience bullets unchanged from template. Strongest alignments: Shell (multi-site EMEA rollouts, POS, budget management 10% under forecast, product roadmap), Worldpay (RAID, governance, multi-workstream), Estee Lauder (customer-facing roadmap, 17 brands), Costa (POS/Kiosk telemetry, concurrent workstreams), Argos/Homebase (retail estate). Notable gap: no direct hotel or restaurant technology experience; retail/POS/multi-site delivery is the bridge. Adjacent term flagged: "business change" added to Summary, derived from Worldpay bullet and Skills. Rating: 8/10. |
 
 ---
@@ -500,7 +500,7 @@
 | CV Used | CV-TransformationMgr-dunnhumby-May26.md |
 | CV Git Version | TBC |
 | Cover Letter | CoverLetter-TransformationMgr-dunnhumby-May26.md |
-| Status | CV Generated |
+| Status | Applied |
 | Notes | Job spec: Job-TransformationMgr_dunnhumby.txt. Source: LinkedIn. Permanent. Tesco Media / dunnhumby transformation team. Summary repositioned to Senior Project Manager with transformation programme and digital/operational change framing. Skills unchanged from TwoPage-Mar26 template. Experience bullets unchanged from template. Strongest alignments: Worldpay (TSA Exit - transformation, multi-workstream governance, business change), Shell (GO+ replatforming, senior stakeholder management, budget delivery 10% under forecast, 15% time-to-market reduction), Lodestone (Digital Transformation PM/BA across Vodafone/GSK/Ricoh). Desirable: media sector not in CV (retail/data is the bridge via Estee Lauder, Costa); no formal change management cert. Rating: 8/10. |
 
 ---
@@ -517,7 +517,7 @@
 | CV Used | CV-EcommPM-NakedWines-May26.md |
 | CV Git Version | TBC |
 | Cover Letter | CoverLetter-EcommPM-NakedWines-May26.md |
-| Status | CV Generated |
+| Status | Applied |
 | Notes | Job spec: Job-NakedWines-EcommPM.txt. Source: https://www.linkedin.com/jobs/view/4407614601/. Contract, 9-12 months, £600/day Outside IR35, London/Norwich hybrid. Separate role from prior NakedWines application (#50 Ecommerce Change Manager, applied 7 May, no response). Summary repositioned to lead with Retail/digital commerce delivery. Past Experience bullets updated with confirmed platform context: WebSphere Commerce (Argos/Homebase) and ATG Commerce/Oracle (Jewson/LeasePlan) — user confirmed delivery work was on these platforms. SAP Hybris already in Skills (Shell). Magento NOT added for Costa (back-end dependency only, not delivery platform). Skills section unchanged from TwoPage-Mar26 template. Experience bullets unchanged from template. Rating: 8/10. Notable gaps: Shopify Plus not in CV; however WebSphere Commerce, ATG Commerce and SAP Hybris establish enterprise ecommerce platform credibility. PRINCE2 and CSM both listed as preferred — Arpita has both. Contract positions highlighted. |
 
 ### Kinetech - Implementation Project Manager
@@ -532,7 +532,7 @@
 | CV Used | CV-ImplementationPM-Kinetech-May26.md |
 | CV Git Version | TBC |
 | Cover Letter | N/A |
-| Status | CV Generated |
+| Status | Applied |
 | Notes | Job spec: Job-Kinetech-ImplementationPM-Contract.txt. Source: https://www.linkedin.com/jobs/view/4405525577/. 6-month contract, Outside IR35, up to £375/day. Sporadic UK-wide travel to client sites (stadiums, venues, universities). Summary repositioned to hands-on PM with multi-vendor and concurrent workstream delivery. Skills unchanged from TwoPage-Mar26 template. Experience bullets unchanged from template. Notable gaps: no direct hospitality or venue/stadium tech experience; physical install/deployment delivery less prominent in CV. Strongest alignments: Shell (multi-site/market rollouts, vendor alignment, POS/multi-region), Worldpay (go-live cutover, vendor management), Costa (concurrent workstreams), Lodestone (multi-client on-site delivery). Contract positions highlighted per contract role guidance. Rating: 6.5/10. |
 
 ### Carwow - Data Project Manager (FTC)
@@ -547,7 +547,7 @@
 | CV Used | CV-DataPM-Carwow-May26.md |
 | CV Git Version | TBC |
 | Cover Letter | CoverLetter-DataPM-Carwow-May26.md |
-| Status | CV Generated |
+| Status | Applied |
 | Notes | Job spec: Job-Carwow-DataPM FTC.txt. Source: https://www.linkedin.com/jobs/view/4404363899/. FTC (Fixed Term Contract). Snowflake to BigQuery/GCP migration; Looker rollout. Summary repositioned to lead with data platform migration and external delivery partner/SoW management. Costa bullets updated: added vendor/SoW ownership and product master data standards. Shell bullets updated: SoW oversight and customer/subscription/product master data migration during legacy decommission. Skills unchanged from TwoPage-Mar26 template. Rating: ~70-75%. Notable gaps: Snowflake/BigQuery/GCP not in CV (Azure DWH is analogue); Looker/LookML not in CV (Power BI is analogue). FTC role - contract positions highlighted as suggested. |
 
 ### Global - Delivery Manager
@@ -563,7 +563,7 @@
 | CV Git Version | c80cdff |
 | Cover Letter | N/A |
 | Salary Range | £65,000–£70,000 |
-| Status | Interview — Round 1 confirmed (1 June 2026, Teams, Jack Kelly Head of Delivery + one other) |
+| Status | Closed — Did not progress to Round 2 |
 | Notes | Job spec: Job-Global-DeliveryManager.txt. Application deadline: 11 May 2026. Delivery function within Global's Technology & Digital Transformation team. Squad-based delivery alongside Product Owner and Tech Lead. AI tooling (Claude, ChatGPT) explicitly listed as a requirement — strong match. |
 
 ### itecopeople - Data and Integration Project Manager
@@ -593,7 +593,7 @@
 | CV Used | CV-InterimPM-A2DominionGroup-May26.md |
 | CV Git Version | TBC |
 | Cover Letter | N/A |
-| Status | CV Generated |
+| Status | Applied |
 | Notes | Job spec: Job-A2DominionGroup-PM.txt. Source: https://www.linkedin.com/jobs/view/4412129352/. Contract, 12 months, Outside IR35, Ealing hybrid. Transformation and change delivery across the organisation. Summary repositioned to Project Manager. Skills unchanged from TwoPage-Mar26 template. Experience bullets unchanged from template. Contact: Danny Banks - danny.banks@a2dominion.co.uk. Rating: 7.5/10. Notable gap: housing/property/public sector experience (desirable, not essential). PRINCE2 level (Foundation vs Practitioner) unconfirmed - see post-generation note. |
 
 ### TrueNorth - Senior Data Project Manager (Agile Delivery)
@@ -608,7 +608,7 @@
 | CV Used | CV-SnrDataPM-TrueNorth-May26.md |
 | CV Git Version | TBC |
 | Cover Letter | N/A |
-| Status | CV Generated |
+| Status | Applied |
 | Notes | Job spec: Job-TrueNorth-SnrDataPM-DM.txt. Source: https://www.linkedin.com/jobs/view/4412165285/. Contract, £550/day Outside IR35, 100% remote UK. Start ASAP. Summary repositioned to lead with Agile delivery of data platform programmes. Costa Coffee (Azure DWH, Agile ceremonies, coaching, pipelines) is primary alignment; Lodestone/Ricoh (data platform migration) as secondary. Skills unchanged from template. No new skills added. Rating: 8/10. Notable gaps: ETL/ELT and data lakes not explicit in CV (data platform ingestion is adjacent); specific Agile metrics (velocity, burn-down/up) not named; Azure only (AWS/GCP not in CV). |
 
 ### GlobalData - Senior Project Manager
@@ -623,7 +623,7 @@
 | CV Used | CV-SPM-GlobalData-May26.md |
 | CV Git Version | TBC |
 | Cover Letter | N/A |
-| Status | CV Generated |
+| Status | Applied |
 | Notes | Job spec: Job-GlobalData-SPM.txt. Source: https://www.linkedin.com/jobs/view/4399782115/. Different role from prior GlobalData PM application (#29, Job-GlobalData-PM.txt). Summary repositioned to Senior Project Manager. Governance and programme management angle emphasised (Worldpay RAID/Steering Board, Shell Steering Committee). PRINCE2 is a strong match against certification requirement. No new skills added. Notable gaps: no direct SaaS/intelligence platform experience; no explicit commercial team coordination (Marketing/Sales/CS) - Estee Lauder and Shell bridge this. Rating: 8/10. |
 
 ### Mountain Warehouse - Web Delivery Manager
@@ -653,7 +653,7 @@
 | CV Used | CV-EcommChangeMgr-NakedWines-May26.md |
 | CV Git Version | TBC |
 | Cover Letter | N/A |
-| Status | CV Generated |
+| Status | Applied |
 | Notes | Job spec: Job-EcommChangeMgr-NakedWines.txt. Source: https://www.linkedin.com/jobs/view/4407617592/. Contract, 9-12 months, £600/day Outside IR35. London/Norwich hybrid. Shopify re-platforming change management lead. Summary repositioned to emphasise service transition, business readiness and adoption delivery. Notable gap: formal change management qualification (Prosci/ADKAR, ACMP/CCMP or APMG) listed as must-have in spec - not in CV. Strengths: Worldpay service transition and ITSM business change delivery, Shell re-platforming, Lodestone/Ricoh 90% adoption via train-the-trainer. Rating: 5.5/10. |
 
 ### Aventum Group - Agile Project Manager & Scrum Master
@@ -940,7 +940,7 @@
 | CV Used | ArpitaNarula-TwoPage-EngagementMgr-Adobe-Apr26.md |
 | CV Git Version | TBC |
 | Cover Letter | N/A |
-| Status | Applied |
+| Status | Closed — Not shortlisted |
 | Notes | Job spec: Job-EngagementManager-Adobe.tct. Source: https://www.linkedin.com/jobs/view/4382440086/. Permanent. Summary repositioned toward client-facing delivery leadership and trusted advisor angle, drawing on Lodestone consulting background. No new skills added. Experience bullets unchanged from TwoPage-Mar26 template. Notable gaps: revenue/margin management (Shell budget tracking is closest bridge), services expansion/opportunity development, team staffing in a commercial services context. Strong bridge: Vodafone (Adobe Analytics delivery in Lodestone), GSK (global CMS - adjacent to Adobe Experience Manager), MBA (Warwick). |
 
 ### GlobalData - Project Manager
