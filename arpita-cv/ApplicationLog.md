@@ -242,7 +242,7 @@
 | Cover Letter | N/A |
 | Req # | 4417436998 |
 | Location | Uxbridge, UK (hybrid) |
-| Status | Applied |
+| Status | Interview — Round 1 confirmed (12 Jun 2026, 10:30am, Hiring Manager) |
 | Notes | Job spec: Job-giffgaff-ProjectDeliveryManager.txt. Source: LinkedIn (job ID 4417436998). Permanent, hybrid Uxbridge. Summary repositioned to Project Delivery Manager — title change only from template. Costa Coffee coaching bullet updated to include outcome-led backlog prioritisation (coaching teams toward value delivery, away from output tracking). All other skills and bullets unchanged from TwoPage-Mar26 template. Strongest alignments: Agile/Scrum/Kanban delivery (all roles, CSM cert), cross-functional multi-team coordination (Shell, Worldpay, Costa), dependency and risk management (all roles), influencing without direct authority (Shell, Estee Lauder), vendor management (Worldpay, Shell). Notable gaps: empowered product teams vs feature teams operating model — addressed directionally in Costa coaching bullet; architecture risk and deployment pipeline engagement not explicitly named. Rating: 8/10. |
 
 ---
