@@ -32,52 +32,21 @@ See also: [Interview-giffgaff-ProjectDeliveryManager-Debrief.md](Interview-giffg
 
 _Visualise this person before the interview. The closer Arpita can embody this, the stronger the signal._
 
----
-
-**With the squad**
+**How they operate**
 
 - Sits in backlog refinement alongside the PO, not just delivery ceremonies
-- Blocker surfaces in standup; by end of day they have identified the exact person to resolve it, the impacted ticket and the next action - dev time is never lost waiting for someone to figure out who owns the problem
-- Retro produces one change the team implements immediately; not a list that sits in Confluence
-- While the current sprint runs, working with the PO to get ACs clear on the next sprint's backlog items before devs reach them - squad never hits a ticket that is not ready
-- When the PO is heads-down on discovery, the DM is clearing the path for the next sprint - no handholding needed
-
-**With ambiguity**
-
-- New initiative arrives with a vague brief; first move is a quick 1:1 with the PO to understand what is driving it, what the priority is and what is already known - before deciding whether a squad session is even needed
+- Blocker in standup: same day, exact person named, impacted ticket, next action - dev time never lost
+- Retro produces one change the team implements immediately; not a list in Confluence
+- Working ahead on ACs for the next sprint while the current one runs; squad never hits an unready ticket
+- Vague brief arrives: 1:1 with the PO first, before deciding whether a squad session is even needed
 - Gets across the product quickly; within the first week knows more about what is being built than the delivery history
-- When goal ambiguity surfaces in standup, asks "what does a member experience differently after we ship this?" - cuts through internal confusion about what the work is for
-- Three questions are still unresolved; keeps the squad moving on everything else and puts a date and a named owner against each
-- Business pivots the roadmap mid-sprint; protects the current sprint and replans the next one - no escalation, no drama
-- Technical unknown surfaces; proposes a one-sprint spike with a single question to answer and a named owner
-- Does not wait for the org structure to settle before being useful
-
-**What they are NOT**
-
-- Does not ask in Round 1: "how does decision-making work here?" or "what does the governance look like?"
-- Does not arrive with a programme framework to share
-- Does not need a full requirements doc before sprint 1 starts; but will not let a dev pick up a ticket without clear ACs - that is a waste of dev time, not agility
-- Does not block sprint planning because the brief is not complete enough
-- Does not send a weekly status deck; sends one paragraph
-
-**How they communicate**
-
+- Ambiguity in standup: "what does a member experience differently after we ship this?"
+- Open questions get a date and a named owner; the squad keeps moving on everything else
+- Business pivots mid-sprint: protects the current sprint, replans the next - no escalation, no drama
+- Technical unknown: proposes a one-sprint spike with a single question and a named owner
 - Status update: "we shipped X, Y is blocked on Z, unblocking by [date]" - one paragraph, not a deck
-- Same facts, different framing: squad gets the technical detail, stakeholder gets the risk and the date, executive gets one sentence
-- When they do not know something: "I will have an answer by [date]" - not silence, not a guess
-
-**Technical conversations**
-
-- In sprint planning, asks the EM/TL: "what is the one thing most likely to slip the timeline and what do we need to know to prevent that?"
-- Spots a deployment dependency missing from the sprint plan; surfaces it before it becomes a blocker
-- Does not need to understand how the API is built; needs to know when the release is and what it blocks
-
-**What Colin hears from this person in Round 1**
-
-- First question is about the squad or the product - not about process or reporting lines
-- Worldpay story: no inherited process, no formed team, anchored on business continuity as the one thing that could not fail
-- "I do not need the brief to be perfect before I start being useful"
-- Every story ends with what the team did, not what the DM controlled
+- Same facts, different framing: squad gets technical detail, stakeholder gets risk and date, executive gets one sentence
+- Sprint planning question to EM/TL: "what is the one thing most likely to slip and what do we need to know to prevent it?"
 
 ---
 
@@ -90,15 +59,16 @@ _Visualise this person before the interview. The closer Arpita can embody this, 
 - Founded 2009; lean team; startup culture despite 15+ years of operation
 - Owned jointly by Liberty Global (Virgin Media - fibre and cable) and Telefonica (O2)
 - Member-led model: members (customers) contribute to running the business - answering questions in the community, recommending friends, creating content - in exchange for Payback (cash, airtime credit or charity donation)
-- B Corp certified
+- B Corp certified: independently verified to meet standards on social and environmental impact, not just profit; audited and requalified every 3 years - it is a legal and operational commitment, not a marketing badge; business decisions are weighed against impact on people and planet alongside revenue
 
 **What giffgaff is building**
 
 Core products today:
+- Acquisition and checkout flows: the commercial engine for bringing in new members; no stores, so the digital journey is everything
 - The giffgaff app: SIM activation, plan management, top-ups and account management
 - Community platform: members answer each other's questions here instead of a call centre; central to keeping costs lean
 - Payback system: tracks each member's contributions and calculates their reward; pays out as cash, airtime credit or charity donation
-- Acquisition and checkout flows: the commercial engine for bringing in new members; no stores, so the digital journey is everything
+- Reconditioned phones marketplace: sells refurbished handsets online, not new; fits the B Corp sustainability angle and keeps the cost model lean
 
 In flight:
 - giffgaff Broadband: launched 2025/26 using Virgin Media O2's fibre network; first product outside mobile; new technical infrastructure, new member journey, new billing model
@@ -112,10 +82,47 @@ What this means for squads:
 
 **Who the customers are**
 
-**All products - the member model**
-- Customers called members; contribute to the business (community answers, referrals, content) in exchange for Payback
-- Community reacts immediately when something ships - forum posts, referrals and Payback redemption all shift fast
-- Feedback louder and more honest than a normal customer base because members are invested in giffgaff doing well
+**How it works - simple customer journey**
+
+1. You want cheap mobile data, no contract. You go to giffgaff.com and order a free SIM
+2. It arrives in the post; you activate it online in a few minutes
+3. You pick a "goodybag" - a rolling monthly plan, e.g. £10 for a set amount of data, calls and texts
+4. Your phone works on O2's network. Done.
+5. Next month you can change the plan, pause it or leave - no penalty
+
+giffgaff has no call centre. If something goes wrong - SIM won't activate, billing issue, network query - there is no number to call. Instead you post in the community forum and other giffgaff members answer your question, often within minutes. giffgaff saves on support costs; the members who help get rewarded through Payback.
+
+Payback: every time you help someone in the community, refer a friend or create content for giffgaff, you earn Payback points. You can cash them out as money to your bank, free airtime credit or a charity donation. The most active helpers are effectively being paid to do the support work a call centre would normally do - giffgaff keeps costs low and passes some of that saving back to the people who make it work.
+
+**Why the community and Payback matter for delivery:** they are not nice-to-haves - they are load-bearing parts of the cost model. Any squad touching those systems is working on infrastructure that keeps giffgaff cheap enough to exist.
+
+**How distinctive is this?**
+- Community forums exist elsewhere (Apple, Microsoft, Sky) but are supplementary - you can still call an agent; at giffgaff the community is the only channel
+- Paying members cash is rarer still - most companies offer badges or recognition, not money to your bank
+- Every other major UK provider (EE, O2, Vodafone, Three, Tesco Mobile) has a call centre; giffgaff is the outlier
+
+**Does it actually work?**
+- For the majority yes - simple use cases are seamless and common problems get answered fast
+- Falls down on complex problems (fraud, account locked, billing dispute) - no human escalation path, no agent to call
+- SIM swap fraud has been a specific criticism
+- Works for digitally confident, low-maintenance users; not designed for people who want to pick up the phone
+- Keeping core journeys (activation, billing, account management) frictionless is critical - when those break, there is no safety net
+
+**What do customers do when the community can't help?**
+- Submit a contact form - slow, days to respond, no SLA
+- Pressure via social media - Twitter/X tends to get faster responses
+- Escalate to CISAS - the independent telecoms dispute scheme; formal, binding, last resort
+- Many simply leave - no contract means no friction to switching
+
+**Why someone chooses giffgaff**
+- Wants SIM-only on a rolling monthly plan - no contract, no phone bundled
+- Price-sensitive; giffgaff is consistently one of the cheapest options on O2's network
+- Wants flexibility - change or pause monthly, no penalty for leaving
+- Happy to self-serve; no call centre or store, everything through the app or community forum
+- Often burned by a big telco; hidden charges, locked contracts, poor service from EE, Vodafone or Three
+- Trade-off: support comes from the community, not an agent - works for digitally confident users, puts off anyone who wants to pick up the phone
+- Customers are called members; they contribute to the business (community answers, referrals, content) in exchange for Payback - they are invested in giffgaff doing well, not just using it
+- Community reacts immediately when something ships - feedback is faster and more unfiltered than any normal customer base
 
 **Mobile SIMs and plans**
 - 18-35, budget-conscious, digitally native
@@ -170,22 +177,6 @@ What this means for squads:
 - Startup energy with the stability of a Virgin Media O2-backed business
 - Informal and conversational tone throughout; wordplay and warmth are deliberate
 - Diversity, equity and inclusion formally embedded alongside the values
-
-**What excites you about giffgaff - prepared answer**
-
-_Mollie explicitly asked Arpita to prepare this. Mirror their language where natural._
-
-- The squad model - DM, PO and engineering as one coherent unit - removes the handoff problem that slows most squads down; the work stays in the room
-- The fail-fast culture is genuinely appealing; being in an environment where pivoting is expected rather than treated as a failure changes how a squad operates day to day
-- The member model is distinctive; building products for people who are actively invested in giffgaff succeeding creates a feedback loop that is immediate and authentic
-- The connectivity pivot interests me specifically; moving from mobile-only to broadband and subscription changes what squads need to build, how quickly and for whom
-- The B Corp commitment matters to me; "up to good" is embedded in how the business is structured, not a communications line
-
-**Why this matters for Colin**
-
-- Not looking for a DM who brings structure via process
-- Looking for clarity, momentum and delivery confidence in a fast-moving squad
-- Looking for someone who operates inside ambiguity, not someone who waits for it to resolve
 
 ---
 
@@ -251,24 +242,15 @@ _Variations: "how would you describe how you operate?", "what does your day-to-d
 
 ---
 
-### Employment Gap - Worldpay August 2025 to Now
-
-_Keep this to two sentences. Crisp, factual, forward-looking. Do not over-explain._
-
-- Role at Worldpay ended when the programme reached its key milestones and the team was reorganised as the carve-out completed
-- Been applying deliberately rather than rushing; market has a lot of strong candidates; keeping delivery skills sharp by volunteering with an organisation in the same capacity
-
----
-
 ### Why giffgaff - Why This Role
 
 _Mollie explicitly flagged: prepare an authentic answer. Generic answers will not land with Colin._
 
-- The squad model - DM, PO and engineering working as one unit - removes the handoff problem; blockers get resolved in the room, not via a chain
-- The fail-fast culture is genuinely appealing; worked in environments where changing direction felt like a failure; here it is expected and designed for
-- The broadband launch and shift to a subscription connectivity provider is an interesting delivery moment - changes what squads need to build and how quickly
-- The member model is distinctive; building products for people who are also invested in the company succeeding creates immediate and authentic feedback
-- B Corp certification matters; doing work where social impact is built into the business model is something I actively look for
+- The squad model - DM, PO and engineering as one unit - keeps decisions inside the room and momentum never lost to a chain of approvals
+- The fail-fast culture means moving inside ambiguity rather than waiting for the brief to be complete; that changes how a squad operates day to day
+- The broadband and subscription pivot is a genuinely interesting delivery challenge; moving from single-product to multi-product is exactly where delivery confidence matters most
+- The member model creates a feedback loop that is immediate and unfiltered - community reaction after a release is faster and more honest than any internal dashboard
+- "Up to good" is embedded in how the business is structured, not a communications line; social impact built into the model, not layered on top
 
 ---
 
@@ -475,21 +457,14 @@ _Critical: Colin expects substantive questions. Minimum 3-4. Not about process o
 
 ### Employment gap
 
-- 10 months is a long gap; be factual, two sentences, no defensiveness
-- Prepared answer is in the Tell Me About Yourself section above
+- Role at Worldpay ended when the programme reached its key milestones and the team was reorganised as the carve-out completed
+- Been applying deliberately rather than rushing; keeping delivery skills sharp by volunteering with an organisation in the same capacity
 
 ### Risk of sounding process-heavy
 
 - The strongest risk in this interview
 - Every time instinct says governance, RAID, steering committee or reporting cadence - stop
 - Reframe as: making dependencies visible, surfacing blockers, keeping the team focused on the outcome
-
-### Technical depth question
-
-- Delivery background, not engineering - honest about that
-- Enough working knowledge to ask the right questions of a EM/TL and surface the right risks
-- MuleSoft API orchestration (Shell), Azure Data Warehouse and pipelines (Costa), ServiceNow and ITSM tooling (Worldpay), frontend component delivery (Estee Lauder)
-- Value I add is clarity, unblocking and accountability - not technical execution
 
 ---
 
@@ -506,6 +481,45 @@ _Critical: Colin expects substantive questions. Minimum 3-4. Not about process o
 
 ---
 
+## CV Walk
+
+_Colin will move through the CV chronologically. One or two sentences per role maximum. These are the keywords to anchor on - not a full answer._
+
+**Eco Centre (Oct 2025 - Present) - Volunteer**
+- Structured delivery in an unstructured environment; keeping skills sharp between roles
+- Community-led initiative; no budget, no authority - just delivery
+
+**Worldpay (Nov 2024 - Aug 2025) - Delivery Lead**
+- TSA exit; Worldpay carving out from FIS; no inherited process, no formed team, hard deadline
+- Business continuity was the one thing that could not fail - everything anchored on that
+- ServiceNow, endpoint migration, Copilot rollout across three workstreams simultaneously
+- AI tooling to accelerate delivery - 80% faster on content redaction and service documentation
+
+**Estée Lauder (Nov 2023 - Oct 2024) - Contract**
+- 17 prestige global brands; digital commerce feature delivery across NA and EMEA
+- Checkout conversion up 3%; modular design so each brand did not need custom build
+- Influence without authority - 17 brand managers, none reporting to me
+
+**Shell (Apr 2022 - Oct 2023) - Contract**
+- Loyalty API platform; 10M+ customers; £100M+ annual transactions
+- Multi-region EMEA rollouts; staggered delivery to manage cross-market dependencies
+- TPM and DM hybrid; embedded across UX, POS, MuleSoft and App teams
+- GDPR-compliant data migration across regulated markets
+
+**Costa Coffee (May 2019 - Mar 2022)**
+- Azure Data Warehouse; 12+ data sources; reporting lag reduced from months to days
+- PO and PM hybrid - owned the backlog and ran the delivery
+- Loyalty app features alongside the data platform; concurrent streams, no cross-team delays
+
+**Lodestone Consulting (Jul 2012 - May 2019)**
+- 7 years consulting across global brands - Vodafone, GSK, Ricoh
+- Vodafone: Adobe Analytics and Quad Play into eCommerce platform
+- GSK: global CMS rollout, faster content publishing
+- Ricoh: data platform migration, 90% adoption in three months via train-the-trainer
+- Foundation in digital transformation before moving into dedicated delivery roles
+
+---
+
 ## Pacing Note
 
 - 30 minutes is short; Colin will move through the CV quickly
@@ -513,6 +527,7 @@ _Critical: Colin expects substantive questions. Minimum 3-4. Not about process o
 - Pause after each punchline; let silence work
 - Content is strong; delivery speed is the risk
 - From La Fosse debrief: explicit feedback was to slow down and pause so the interviewer can note responses
+- Every story ends with what the team did, not what the DM controlled
 
 ---
 
