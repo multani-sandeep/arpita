@@ -134,3 +134,103 @@ Mollie explicitly flagged: Colin views Round 1 as a two-way interview, not a one
 ## Notes
 
 - See [Prep-giffgaff-ProjectDeliveryManager-Jun26.md](Prep-giffgaff-ProjectDeliveryManager-Jun26.md) for Round 1 preparation guide
+
+---
+
+# Round 1 Debrief - Colin Woods
+
+**Date:** Friday 12 June 2026, 10:30am
+**Interviewer:** Colin Woods, Director of Technical Partnerships and Delivery
+**Format:** Zoom, 30 minutes
+**Outcome:** Colin to feed back to Mollie; Round 2 competency with James if progressed
+
+---
+
+## About Colin
+
+- Been at giffgaff three times; 6 years in total across tenures; now back in this role
+- Looks after Technical Partnerships
+- 100% remote, based in Bristol
+- Wife has mobility issues; recently moved, got rid of the garden - threw the lawnmower in the tip ("best feeling")
+- Warm, conversational tone; genuinely curious about the person, not just the candidate
+
+---
+
+## Organisation Intel
+
+**Size and structure**
+- 320 people total; 160 are software engineers
+- Multiple business units; DM headcount by unit: BU1 has 8 DMs, BU2 has 3 DMs, BU3 has 1 DM
+- Strong at squad-based delivery internally; struggle with delivery that cuts across squads and external partners (VMO2, finance, marketing)
+
+**Key partners (Colin's remit)**
+- **VMO2** — owner and infrastructure provider; giffgaff rents mobile and broadband network capacity from them
+- **Ericsson** — provides the Mediation system; sits between the network and billing, collects and standardises data for charging accuracy; giffgaff migrated Ericsson Mediation from on-premises to AWS in early 2025
+
+**Colin's current PDM team**
+- James — running Round 2 competency interview; will go deeper
+- Kent — hired from a Costa background (same as Arpita's experience); Colin asked Kent about Arpita before the interview — Kent said he had heard of her but did not know her well; Arpita confirmed she knew him briefly when leaving Costa
+- Laura — on maternity leave; currently looking after the Broadband initiative
+- Shri — recently moved to India
+
+**This role**
+- Will pick up either the Broadband initiative (if Laura's handover is needed) or Marketing initiatives depending on when the hire joins
+
+**Leadership**
+- New CEO: Katy Dahoney — American, described as a workaholic; many plans, fast pace, significant change agenda
+- Steve (CTO) — Colin's boss; Round 3 culture fit; explicitly anti-SAFe; views SAFe as counter-productive and non-agile
+- giffgaff operates a lightweight, squad-based agile model; no appetite for frameworks
+
+---
+
+## Questions Asked and Answers Given
+
+### 1. Tell me about yourself
+
+**Answer given:** Covered types of programmes delivered — data, ecommerce, loyalty platforms. Mentioned starting career with system integrators, which built curiosity about how businesses decide on initiatives. That curiosity led to joining Costa. Colin followed up asking how Arpita differentiates product vs project delivery.
+
+**Follow-up: Product vs project delivery**
+
+Answer given:
+- Product delivery follows the product lifecycle; teams are focused on their product, think about how to grow it, add features; products have a lifecycle
+- Projects cut across different products; more focused on delivery milestones and timelines
+- Noted that organisations define products differently — at one org a product was a Loyalty platform, at another it was a value stream
+
+**Colin's response:** Recommended reading **Transformed: Moving to the Product Operating Model by Marty Cagan (2024)** — said he read it recently and it describes exactly how giffgaff operates. Core message: teams built around products and outcomes, not projects and milestones.
+
+**Assessment:** The product vs project answer was broadly right but could be sharper. Cagan's book is worth reading before Round 2 — James will likely go deeper on product thinking. Key framing from the book: product teams are given problems to solve, not features to build.
+
+---
+
+### 2. Why giffgaff
+
+**Answer given:** Looking to continue working with Agile squads; the startup culture Mollie described is exciting — gives opportunity to take initiative, not tightly bound by process or rigid role definitions.
+
+**Colin's response:** Confirmed they are super agile; view SAFe as not agile enough and counter-productive. Expects this person to be comfortable in a fast-changing environment. Mentioned Katy Dahoney as the new CEO — described as someone with many plans and a lot of energy.
+
+**Arpita's response:** Added "workaholic?" — Colin confirmed yes, that's a good way to describe it. Also mentioned having seen Katy's post on the giffgaff community, which landed well as a signal of genuine research.
+
+**Assessment:** Good instinct to use "workaholic" — it was natural and showed active listening. The community reference was exactly the right kind of specific detail. The SAFe point is important context for Round 2 — do not reference SAFe, PI planning or any scaled framework positively.
+
+---
+
+### 3. What do you do to relax
+
+**Answer given:** Hiking — including Snowdon; locally with kids. Son currently on Duke of Edinburgh trip, returning today; not too worried as family has done hikes before. Also gardening.
+
+**Colin's response:** Shared that his wife has mobility issues so they got rid of the garden when moving to Bristol. Threw the lawnmower in the tip — described it as the best feeling.
+
+**Arpita's response:** Added "cathartic" — which landed well.
+
+**Assessment:** Genuinely warm exchange. Colin is a human interviewer; this kind of conversation builds rapport and is not wasted time. It confirmed his remote lifestyle and gave a window into his personality.
+
+---
+
+## Key Takeaways for Round 2
+
+1. **Read Transformed by Marty Cagan** — Colin recommended it directly; James will probe product thinking more deeply; understanding the product operating model framing will sharpen every answer
+2. **The weakness is cross-functional delivery** — giffgaff squads are strong internally but struggle working with VMO2, finance and marketing; this is the delivery gap this role is hired to address; lead stories should reflect this
+3. **No SAFe references** — Steve and Colin both view it negatively; avoid any mention of scaled agile frameworks
+4. **Kent came from Costa** — Arpita's Costa experience is validated again; use it confidently
+5. **The role may be Broadband** — if Laura's handover is needed; worth understanding the broadband initiative more deeply before Round 2
+6. **James runs Round 2** — competency-based, deeper; different style to Colin likely; prepare STAR stories in full

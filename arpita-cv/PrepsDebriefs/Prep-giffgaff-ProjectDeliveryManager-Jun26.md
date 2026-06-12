@@ -531,6 +531,212 @@ _Colin will move through the CV chronologically. One or two sentences per role m
 
 ---
 
+## Round 2 - Questions to Prepare
+
+_Competency-based, 1 hour with James. Colin flagged James will go deeper. Questions drawn from JD must-haves, Round 1 intel and the cross-functional delivery gap Colin identified._
+
+---
+
+### Product Thinking and Coaching Away from Project Mindset
+
+_Colin recommended Transformed by Marty Cagan; this is the primary probe area for Round 2._
+
+**1. What is the difference between an empowered product team and a feature team?**
+- Empowered teams are given problems to solve, not features to build; they own the outcome
+- Discovery and delivery happen together; the team is continuously learning and adjusting
+- Feature teams are handed a roadmap; they measure completion, not impact
+- PO in an empowered team makes decisions; PO in a feature team relays requirements from above
+- Reference: Transformed by Marty Cagan — this is exactly the model giffgaff operates
+
+**2. Tell me about a time you coached a team away from project thinking towards product thinking**
+- Diagnose the symptom first — what behaviours show project thinking?
+- Change how work is defined — outcomes not tasks, ACs as member benefits
+- Introduce outcome-based sprint goals — team agrees them, not imposed
+- Retros ask "did it work?" not just "did we ship?"
+- Measure the shift — what changed in how the team operated
+
+**3. How do you ensure a squad is focused on outcomes rather than outputs?**
+- Sprint goals written as member benefits, not feature lists
+- ACs written as "a member can do X" not "the system displays Y"
+- Retro includes outcome data — "did the member experience change after we shipped?"
+- Success criteria agreed before build starts; one sentence maximum
+- Done is when the outcome is measurably achieved, not when the feature ships
+
+**4. How would you work with a PO who is acting as a requirements conduit rather than a decision-maker?**
+- Diagnose first — is it a confidence issue, an authority issue or an org design issue?
+- Have a 1:1 conversation before any team intervention
+- Create space for them to make decisions in standup — "what do you think we should do?"
+- Protect their decisions upwards — don't let stakeholders bypass them
+- Gradual shift; don't restructure their role overnight
+
+**5. How do you define done in a product delivery context?**
+- Not when the feature ships; when the outcome is measurably achieved
+- Success criteria agreed before build starts — what does a member experience differently after this ships?
+- Includes post-launch monitoring and hypercare — go-live is not the finish line
+- The squad should be able to answer "did it work?" before closing the initiative
+
+---
+
+### Cross-Functional and External Delivery
+
+_Colin explicitly said giffgaff squads are strong internally but struggle working with VMO2, finance, legal and marketing — this is the delivery gap this role is hired to address._
+
+**6. Tell me about a time you delivered something that required alignment across teams outside your squad**
+- Map all external dependencies early — named owner for each
+- External timelines built into the delivery plan as first-class items, not assumptions
+- Regular touchpoints with external teams, not just escalation when things slip
+- What happened when an external team slipped and how it was resolved
+
+**7. How do you manage dependencies on external partners or third-party vendors?**
+- Named contact, agreed cadence, clear deliverables with dates — confirmed in writing
+- Never assume; never accept "it should be fine" without a date
+- Build contingency for vendor slippage — what is the fallback path?
+- Escalate early when signals appear, not when the deadline is missed
+- Treat the vendor's timeline as a delivery risk from day one
+
+**8. Tell me about a time finance, legal or marketing became a blocker — how did you resolve it?**
+- Found the real concern first — blockers usually have a risk behind them
+- Did not chase or escalate immediately; understood what they needed
+- Brought a proposed solution, not just the problem
+- Used the shared delivery commitment to create urgency without pressure
+- If unresolved: stated a default and proceeded — "proceeding on basis of X unless I hear otherwise by [date]"
+
+**9. How do you keep internal squads moving when external dependencies slip?**
+- Identified immediately what can proceed without the dependency
+- Protected the current sprint; reprioritised the next sprint
+- Made the dependency visible and named — not the squad's fault, but their concern to track
+- Built a contingency path in parallel where possible
+- Did not let the external slip become permission for the squad to slow down
+
+---
+
+### Influence Without Authority
+
+**10. Tell me about a time you had to align people who did not report to you**
+- Establish credibility first — make their job easier before asking for anything
+- Find the shared goal both parties care about
+- Make the consequence of misalignment visible as a fact, not pressure
+- Gain consent, not compliance — propose and get agreement
+- End with the outcome — what changed as a result
+
+**11. How do you build credibility with engineering teams quickly?**
+- Listen before suggesting — understand how they work before proposing changes
+- Remove a blocker fast in the first few days — action builds more credibility than any introduction meeting
+- Ask good questions: "what is the one thing most likely to slip and what do we need to prevent it?"
+- Be honest about the boundary of your technical knowledge; don't pretend
+- Protect their time from unnecessary meetings and status requests
+
+**12. Tell me about a time a stakeholder was resistant — what did you do?**
+- Find the resistance behind the resistance — what are they actually worried about?
+- Address the concern directly rather than pushing harder or going around them
+- Use data or a shared goal to reframe
+- If unresolvable: surface it with a recommendation, not a standoff
+
+---
+
+### Ambiguity and Delivery Under Uncertainty
+
+**13. Tell me about the most ambiguous delivery you have managed — what did you anchor on?**
+- Anchor on the one thing that must not fail — business continuity, member outcome, hard deadline
+- Make unknowns explicit and visible early — known/unknown list
+- Timebox each unknown: named owner, date
+- Keep the squad moving on what is clear; do not stop for an incomplete brief
+- [Worldpay TSA exit is the primary anchor — use it here]
+
+**14. How do you keep a squad moving when requirements are still being defined?**
+- Start with what is known; build what is certain without waiting for the full picture
+- Timebox the discovery of what is unknown — give it a date, not an open end
+- Use spikes to answer specific technical or product questions in parallel with delivery
+- Stop the squad for an unclear outcome; do not stop for an incomplete brief
+
+**15. Tell me about a time the roadmap changed mid-sprint — how did you respond?**
+- Protected the current sprint — the pivot affected the next sprint, not the one in motion
+- Communicated the why to the squad quickly: "the business learned X, so we are now doing Y"
+- Documented the rationale so it did not get relitigated in three weeks
+- Treated the pivot as expected, not exceptional — direction changes are evidence of learning
+
+**16. How do you handle a situation where no-one knows who owns a decision?**
+- Named the decision-maker explicitly: "who needs to say yes to this?"
+- Defaulted to the closest owner and proceeded with a stated assumption
+- Made the gap visible rather than assuming someone else had it
+- Resolved in standup, not a separate meeting; the heavier the process, the longer the wait
+
+---
+
+### Taking Over Mid-Flight
+
+_Relevant if this role picks up Laura's Broadband initiative._
+
+**17. Tell me about a time you joined a programme or initiative that was already in flight**
+- Read the existing state before forming any view
+- 1:1s with the PO and EM/TL before any team session
+- Establish what must not fail first
+- Do not change anything in week 1 — observe, understand, then act
+- Protect what is working; change what is not — be clear why
+
+**18. How do you get up to speed on a product you have not worked on before?**
+- PO first — they know the why behind what is being built
+- Within the first week: know more about what is being built than the delivery history
+- Member/community feedback is a fast signal — what are users actually saying?
+- Ask the EM/TL for the top technical risks; understand the risks, not the full architecture
+
+**19. What is the first thing you do when taking over delivery from someone else?**
+- Find the open risks and blockers — what is most likely to blow up?
+- Understand what commitments have already been made and to whom
+- Do not change the team's rhythm immediately — earn the right to suggest changes
+- Identify the relationships that matter most and make contact within the first few days
+
+---
+
+### Engineering and Technical Engagement
+
+**20. How do you engage with Engineering Managers and Tech Leads on technical risks and dependencies?**
+- Opening question in sprint planning: "what is the one thing most likely to slip and what do we need to know to prevent it?"
+- Frame technical unknowns as delivery risks with a named resolution path and a date
+- Build technical risks into the delivery plan as first-class items, not footnotes
+- The EM/TL answers the technical question; the DM creates the time and space to answer it
+- Do not pretend to understand technical decisions outside your knowledge — ask the right questions instead
+
+**21. How do you surface a technical risk you do not fully understand yourself?**
+- Ask the EM/TL to translate it into delivery impact: "what does this mean for the timeline and the release?"
+- Do not hide the uncertainty — "help me understand the delivery risk so I can surface it correctly"
+- Escalate the risk, not the technical debate
+- Propose a spike: one question, one sprint, one named owner, one decision as output
+
+**22. Tell me about a time a technical dependency nearly derailed a delivery — what did you do?**
+- Spotted early — dependency mapping or sprint planning conversation with EM/TL
+- Built a contingency path in parallel
+- Escalated with a recommendation, not just a problem
+- Worked with EM/TL to decouple or work around the dependency
+- End with the delivery outcome
+
+---
+
+### Communication and Stakeholder Management
+
+**23. How do you tailor your communication for different audiences — squad, stakeholder, executive?**
+- Squad: current sprint, specific blockers, named next actions and owners
+- Stakeholder: risk and date — what is the issue, what is the impact, when will it be resolved
+- Executive: one sentence — on track / at risk because X, resolving by Y
+- Same facts, different framing; never send a deck to someone who needs a paragraph
+- Format follows the audience's need, not a default weekly cadence
+
+**24. Tell me about a time you had to deliver difficult news to a senior stakeholder**
+- Lead with the fact — "we are going to miss the date because X"
+- Come with a plan, not just a problem
+- Be honest about recovery — do not oversell
+- Give space to react before proposing next steps
+- Follow up in writing
+
+**25. How do you report on delivery health without creating unnecessary overhead?**
+- One paragraph: shipped X, Y is blocked on Z, unblocking by [date]
+- Outcome-focused: is the member experience on track to improve?
+- Reporting cadence matched to the stakeholder's need, not a default weekly deck
+- Make risks visible early — do not hide problems until they become crises
+- The report should prompt a decision or action, not just acknowledge progress
+
+---
+
 ## Notes from Round 1
 
 _Add notes here during or after the call._
