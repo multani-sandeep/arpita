@@ -8,8 +8,9 @@
 | Round 1 date | Friday 12 June 2026, 10:30am - 11:00am |
 | Round 1 format | Zoom, 30 minutes - introductory: CV review, skills discussion, role overview |
 | Round 1 interviewer | Colin Woods, Director of Technical Partnerships and Delivery (100% remote, Bristol) |
-| Round 2 | 1 hour competency - Colin Woods (+TBC) |
-| Round 3 | CTO Steve - culture fit |
+| Round 2 | 1 hour competency - James (surname TBC) |
+| Round 1 outcome | Colin to feed back to Mollie - awaiting |
+| Round 3 | Steve McDonald, CTO - culture fit |
 | CV used | CV-ProjectDeliveryManager-giffgaff-May26.md |
 
 ---
@@ -56,8 +57,10 @@ _Visualise this person before the interview. The closer Arpita can embody this, 
 
 - Mobile phone company that owns no network infrastructure - rents capacity from O2 and sells it under the giffgaff brand; O2 runs the masts, giffgaff handles everything customer-facing (SIM, app, plans, billing, community)
 - No physical stores, no call centres - lean cost base is only possible because they carry no infrastructure overhead
-- Founded 2009; lean team; startup culture despite 15+ years of operation
+- Founded 2009; lean team; startup culture despite 15+ years of operation; 320 people, 160 software engineers
 - Owned jointly by Liberty Global (Virgin Media - fibre and cable) and Telefonica (O2)
+- New CEO: Katy Dahoney (American, joined recently; described as high-energy with a significant change agenda)
+- Two key technical partners: VMO2 (infrastructure owner and provider) and Ericsson (Mediation system - sits between network and billing, handles charging accuracy)
 - Member-led model: members (customers) contribute to running the business - answering questions in the community, recommending friends, creating content - in exchange for Payback (cash, airtime credit or charity donation)
 - B Corp certified: independently verified to meet standards on social and environmental impact, not just profit; audited and requalified every 3 years - it is a legal and operational commitment, not a marketing badge; business decisions are weighed against impact on people and planet alongside revenue
 
@@ -186,15 +189,25 @@ Payback: every time you help someone in the community, refer a friend or create 
 |--------|---------|
 | DM + PO + Engineering = one coherent unit (trinity model) | Not a governance layer; an embedded delivery partner |
 | Previously tried squads across multiple initiatives - did not work | Squad needs a DM who focuses deep, not broad |
-| Not process-heavy or governance-heavy | Do not use words like governance, RAID, steering committee in this round |
+| Not process-heavy or governance-heavy | Do not use words like governance, RAID, steering committee, SAFe |
 | Agile coaching but not changing current processes | Enable and improve; do not restructure or impose |
 | Another hire from Costa background | Arpita's Costa experience is directly relevant and validated by the hiring pattern |
+| Squads strong internally; weak on cross-functional delivery | The gap this role is hired to address - VMO2, finance, legal, marketing |
+| This role will cover Broadband or Marketing initiatives | Depends on start date and Laura's handover |
+| 320 people, 160 software engineers | Lean headcount relative to scope; multiple business units with different DM ratios |
+| Steve McDonald (CTO) is explicitly anti-SAFe | Do not reference scaled frameworks positively in any round |
 
 **Lead stories for Round 1**
 
 - **Worldpay TSA Exit** - primary anchor for ambiguity; new org, no inherited process, no formed team, hard deadline
 - **Shell (DoR and DoD approach)** - primary anchor for enabling a team without imposing; team-agreed not mandated
 - **Shell GO+** - end-to-end delivery at scale, multi-team, outcome-focused
+
+**Lead stories for Round 2**
+
+- **Cross-functional delivery** - any example of aligning finance, legal, marketing or external partners alongside squad delivery
+- **Product thinking coaching** - moving a team from feature/project mindset to outcome ownership
+- **Taking over mid-flight** - if Broadband handover from Laura is the context
 
 ---
 
@@ -439,17 +452,27 @@ _Variations: "how do you get things done when you have no direct authority?", "t
 
 ---
 
-## Questions to Ask Colin
+## Questions to Ask - Round 1 (Done)
 
-_Critical: Colin expects substantive questions. Minimum 3-4. Not about process or structure. Mix of substantive and personal - shows genuine curiosity about the role and about him._
-
-**About the squad and the work**
+_Asked in Round 1 with Colin. Retained for reference._
 
 1. What product area or initiative is this squad currently working on, and where are they in the delivery lifecycle?
 2. giffgaff has just launched broadband and is pivoting towards a subscription model - how is that shaping what squads are being asked to build in the next 6 to 12 months?
 3. Where is the squad right now in terms of what they're building - are you still figuring out the problem or are you already in delivery?
 4. What would the squad be doing differently if this DM is getting it right?
 5. What do you enjoy most about working here - and has anything surprised you since you joined?
+
+---
+
+## Questions to Ask James - Round 2
+
+_James runs a 1-hour competency round. He will go deeper than Colin. These questions are for the end of the session - show genuine curiosity about the work, not the process._
+
+1. You mentioned giffgaff is strong at internal squad delivery but the gap is cross-functional - what does that look like in practice and where does it tend to break down?
+2. If this role picks up the Broadband initiative, where is that currently in the delivery lifecycle and what is the most pressing challenge right now?
+3. What does good look like for this DM after the first 90 days?
+4. How does the PDM team work together - do you share approaches across squads or does each DM operate independently?
+5. What is the one thing you would want this person to do differently from how it has been done before?
 
 ---
 
@@ -522,12 +545,16 @@ _Colin will move through the CV chronologically. One or two sentences per role m
 
 ## Pacing Note
 
-- 30 minutes is short; Colin will move through the CV quickly
-- Deliver Tell Me About Yourself in 90 seconds maximum
-- Pause after each punchline; let silence work
-- Content is strong; delivery speed is the risk
-- From La Fosse debrief: explicit feedback was to slow down and pause so the interviewer can note responses
+**Round 1 (done)**
+- 30 minutes; Colin moved through the CV quickly
+- Explicit feedback from La Fosse: slow down and pause so the interviewer can note responses
+
+**Round 2 (James - 1 hour)**
+- 1 hour gives more room but James will go deeper on each answer; expect follow-up probes on every story
+- Pause after each answer - James will signal when he wants more, do not fill silence with elaboration
 - Every story ends with what the team did, not what the DM controlled
+- Product thinking is the primary probe; read Transformed by Marty Cagan before this round
+- Do not reference SAFe, governance frameworks or structured escalation paths
 
 ---
 
@@ -546,65 +573,65 @@ _Colin recommended Transformed by Marty Cagan; this is the primary probe area fo
 - Discovery and delivery happen together; the team is continuously learning and adjusting
 - Feature teams are handed a roadmap; they measure completion, not impact
 - PO in an empowered team makes decisions; PO in a feature team relays requirements from above
-- Reference: Transformed by Marty Cagan — this is exactly the model giffgaff operates
+- Reference: Transformed by Marty Cagan - this is exactly the model giffgaff operates
 
 **2. Tell me about a time you coached a team away from project thinking towards product thinking**
-- Diagnose the symptom first — what behaviours show project thinking?
-- Change how work is defined — outcomes not tasks, ACs as member benefits
-- Introduce outcome-based sprint goals — team agrees them, not imposed
+- Diagnose the symptom first - what behaviours show project thinking?
+- Change how work is defined - outcomes not tasks, ACs as member benefits
+- Introduce outcome-based sprint goals - team agrees them, not imposed
 - Retros ask "did it work?" not just "did we ship?"
-- Measure the shift — what changed in how the team operated
+- Measure the shift - what changed in how the team operated
 
 **3. How do you ensure a squad is focused on outcomes rather than outputs?**
 - Sprint goals written as member benefits, not feature lists
 - ACs written as "a member can do X" not "the system displays Y"
-- Retro includes outcome data — "did the member experience change after we shipped?"
+- Retro includes outcome data - "did the member experience change after we shipped?"
 - Success criteria agreed before build starts; one sentence maximum
 - Done is when the outcome is measurably achieved, not when the feature ships
 
 **4. How would you work with a PO who is acting as a requirements conduit rather than a decision-maker?**
-- Diagnose first — is it a confidence issue, an authority issue or an org design issue?
+- Diagnose first - is it a confidence issue, an authority issue or an org design issue?
 - Have a 1:1 conversation before any team intervention
-- Create space for them to make decisions in standup — "what do you think we should do?"
-- Protect their decisions upwards — don't let stakeholders bypass them
+- Create space for them to make decisions in standup - "what do you think we should do?"
+- Protect their decisions upwards - don't let stakeholders bypass them
 - Gradual shift; don't restructure their role overnight
 
 **5. How do you define done in a product delivery context?**
 - Not when the feature ships; when the outcome is measurably achieved
-- Success criteria agreed before build starts — what does a member experience differently after this ships?
-- Includes post-launch monitoring and hypercare — go-live is not the finish line
+- Success criteria agreed before build starts - what does a member experience differently after this ships?
+- Includes post-launch monitoring and hypercare - go-live is not the finish line
 - The squad should be able to answer "did it work?" before closing the initiative
 
 ---
 
 ### Cross-Functional and External Delivery
 
-_Colin explicitly said giffgaff squads are strong internally but struggle working with VMO2, finance, legal and marketing — this is the delivery gap this role is hired to address._
+_Colin explicitly said giffgaff squads are strong internally but struggle working with VMO2, finance, legal and marketing - this is the delivery gap this role is hired to address._
 
 **6. Tell me about a time you delivered something that required alignment across teams outside your squad**
-- Map all external dependencies early — named owner for each
+- Map all external dependencies early - named owner for each
 - External timelines built into the delivery plan as first-class items, not assumptions
 - Regular touchpoints with external teams, not just escalation when things slip
 - What happened when an external team slipped and how it was resolved
 
 **7. How do you manage dependencies on external partners or third-party vendors?**
-- Named contact, agreed cadence, clear deliverables with dates — confirmed in writing
+- Named contact, agreed cadence, clear deliverables with dates - confirmed in writing
 - Never assume; never accept "it should be fine" without a date
-- Build contingency for vendor slippage — what is the fallback path?
+- Build contingency for vendor slippage - what is the fallback path?
 - Escalate early when signals appear, not when the deadline is missed
 - Treat the vendor's timeline as a delivery risk from day one
 
-**8. Tell me about a time finance, legal or marketing became a blocker — how did you resolve it?**
-- Found the real concern first — blockers usually have a risk behind them
+**8. Tell me about a time finance, legal or marketing became a blocker - how did you resolve it?**
+- Found the real concern first - blockers usually have a risk behind them
 - Did not chase or escalate immediately; understood what they needed
 - Brought a proposed solution, not just the problem
 - Used the shared delivery commitment to create urgency without pressure
-- If unresolved: stated a default and proceeded — "proceeding on basis of X unless I hear otherwise by [date]"
+- If unresolved: stated a default and proceeded - "proceeding on basis of X unless I hear otherwise by [date]"
 
 **9. How do you keep internal squads moving when external dependencies slip?**
 - Identified immediately what can proceed without the dependency
 - Protected the current sprint; reprioritised the next sprint
-- Made the dependency visible and named — not the squad's fault, but their concern to track
+- Made the dependency visible and named - not the squad's fault, but their concern to track
 - Built a contingency path in parallel where possible
 - Did not let the external slip become permission for the squad to slow down
 
@@ -613,21 +640,21 @@ _Colin explicitly said giffgaff squads are strong internally but struggle workin
 ### Influence Without Authority
 
 **10. Tell me about a time you had to align people who did not report to you**
-- Establish credibility first — make their job easier before asking for anything
+- Establish credibility first - make their job easier before asking for anything
 - Find the shared goal both parties care about
 - Make the consequence of misalignment visible as a fact, not pressure
-- Gain consent, not compliance — propose and get agreement
-- End with the outcome — what changed as a result
+- Gain consent, not compliance - propose and get agreement
+- End with the outcome - what changed as a result
 
 **11. How do you build credibility with engineering teams quickly?**
-- Listen before suggesting — understand how they work before proposing changes
-- Remove a blocker fast in the first few days — action builds more credibility than any introduction meeting
+- Listen before suggesting - understand how they work before proposing changes
+- Remove a blocker fast in the first few days - action builds more credibility than any introduction meeting
 - Ask good questions: "what is the one thing most likely to slip and what do we need to prevent it?"
 - Be honest about the boundary of your technical knowledge; don't pretend
 - Protect their time from unnecessary meetings and status requests
 
-**12. Tell me about a time a stakeholder was resistant — what did you do?**
-- Find the resistance behind the resistance — what are they actually worried about?
+**12. Tell me about a time a stakeholder was resistant - what did you do?**
+- Find the resistance behind the resistance - what are they actually worried about?
 - Address the concern directly rather than pushing harder or going around them
 - Use data or a shared goal to reframe
 - If unresolvable: surface it with a recommendation, not a standoff
@@ -636,24 +663,24 @@ _Colin explicitly said giffgaff squads are strong internally but struggle workin
 
 ### Ambiguity and Delivery Under Uncertainty
 
-**13. Tell me about the most ambiguous delivery you have managed — what did you anchor on?**
-- Anchor on the one thing that must not fail — business continuity, member outcome, hard deadline
-- Make unknowns explicit and visible early — known/unknown list
+**13. Tell me about the most ambiguous delivery you have managed - what did you anchor on?**
+- Anchor on the one thing that must not fail - business continuity, member outcome, hard deadline
+- Make unknowns explicit and visible early - known/unknown list
 - Timebox each unknown: named owner, date
 - Keep the squad moving on what is clear; do not stop for an incomplete brief
-- [Worldpay TSA exit is the primary anchor — use it here]
+- [Worldpay TSA exit is the primary anchor - use it here]
 
 **14. How do you keep a squad moving when requirements are still being defined?**
 - Start with what is known; build what is certain without waiting for the full picture
-- Timebox the discovery of what is unknown — give it a date, not an open end
+- Timebox the discovery of what is unknown - give it a date, not an open end
 - Use spikes to answer specific technical or product questions in parallel with delivery
 - Stop the squad for an unclear outcome; do not stop for an incomplete brief
 
-**15. Tell me about a time the roadmap changed mid-sprint — how did you respond?**
-- Protected the current sprint — the pivot affected the next sprint, not the one in motion
+**15. Tell me about a time the roadmap changed mid-sprint - how did you respond?**
+- Protected the current sprint - the pivot affected the next sprint, not the one in motion
 - Communicated the why to the squad quickly: "the business learned X, so we are now doing Y"
 - Documented the rationale so it did not get relitigated in three weeks
-- Treated the pivot as expected, not exceptional — direction changes are evidence of learning
+- Treated the pivot as expected, not exceptional - direction changes are evidence of learning
 
 **16. How do you handle a situation where no-one knows who owns a decision?**
 - Named the decision-maker explicitly: "who needs to say yes to this?"
@@ -671,19 +698,19 @@ _Relevant if this role picks up Laura's Broadband initiative._
 - Read the existing state before forming any view
 - 1:1s with the PO and EM/TL before any team session
 - Establish what must not fail first
-- Do not change anything in week 1 — observe, understand, then act
-- Protect what is working; change what is not — be clear why
+- Do not change anything in week 1 - observe, understand, then act
+- Protect what is working; change what is not - be clear why
 
 **18. How do you get up to speed on a product you have not worked on before?**
-- PO first — they know the why behind what is being built
+- PO first - they know the why behind what is being built
 - Within the first week: know more about what is being built than the delivery history
-- Member/community feedback is a fast signal — what are users actually saying?
+- Member/community feedback is a fast signal - what are users actually saying?
 - Ask the EM/TL for the top technical risks; understand the risks, not the full architecture
 
 **19. What is the first thing you do when taking over delivery from someone else?**
-- Find the open risks and blockers — what is most likely to blow up?
+- Find the open risks and blockers - what is most likely to blow up?
 - Understand what commitments have already been made and to whom
-- Do not change the team's rhythm immediately — earn the right to suggest changes
+- Do not change the team's rhythm immediately - earn the right to suggest changes
 - Identify the relationships that matter most and make contact within the first few days
 
 ---
@@ -695,16 +722,16 @@ _Relevant if this role picks up Laura's Broadband initiative._
 - Frame technical unknowns as delivery risks with a named resolution path and a date
 - Build technical risks into the delivery plan as first-class items, not footnotes
 - The EM/TL answers the technical question; the DM creates the time and space to answer it
-- Do not pretend to understand technical decisions outside your knowledge — ask the right questions instead
+- Do not pretend to understand technical decisions outside your knowledge - ask the right questions instead
 
 **21. How do you surface a technical risk you do not fully understand yourself?**
 - Ask the EM/TL to translate it into delivery impact: "what does this mean for the timeline and the release?"
-- Do not hide the uncertainty — "help me understand the delivery risk so I can surface it correctly"
+- Do not hide the uncertainty - "help me understand the delivery risk so I can surface it correctly"
 - Escalate the risk, not the technical debate
 - Propose a spike: one question, one sprint, one named owner, one decision as output
 
-**22. Tell me about a time a technical dependency nearly derailed a delivery — what did you do?**
-- Spotted early — dependency mapping or sprint planning conversation with EM/TL
+**22. Tell me about a time a technical dependency nearly derailed a delivery - what did you do?**
+- Spotted early - dependency mapping or sprint planning conversation with EM/TL
 - Built a contingency path in parallel
 - Escalated with a recommendation, not just a problem
 - Worked with EM/TL to decouple or work around the dependency
@@ -714,17 +741,17 @@ _Relevant if this role picks up Laura's Broadband initiative._
 
 ### Communication and Stakeholder Management
 
-**23. How do you tailor your communication for different audiences — squad, stakeholder, executive?**
+**23. How do you tailor your communication for different audiences - squad, stakeholder, executive?**
 - Squad: current sprint, specific blockers, named next actions and owners
-- Stakeholder: risk and date — what is the issue, what is the impact, when will it be resolved
-- Executive: one sentence — on track / at risk because X, resolving by Y
+- Stakeholder: risk and date - what is the issue, what is the impact, when will it be resolved
+- Executive: one sentence - on track / at risk because X, resolving by Y
 - Same facts, different framing; never send a deck to someone who needs a paragraph
 - Format follows the audience's need, not a default weekly cadence
 
 **24. Tell me about a time you had to deliver difficult news to a senior stakeholder**
-- Lead with the fact — "we are going to miss the date because X"
+- Lead with the fact - "we are going to miss the date because X"
 - Come with a plan, not just a problem
-- Be honest about recovery — do not oversell
+- Be honest about recovery - do not oversell
 - Give space to react before proposing next steps
 - Follow up in writing
 
@@ -732,15 +759,18 @@ _Relevant if this role picks up Laura's Broadband initiative._
 - One paragraph: shipped X, Y is blocked on Z, unblocking by [date]
 - Outcome-focused: is the member experience on track to improve?
 - Reporting cadence matched to the stakeholder's need, not a default weekly deck
-- Make risks visible early — do not hide problems until they become crises
+- Make risks visible early - do not hide problems until they become crises
 - The report should prompt a decision or action, not just acknowledge progress
 
 ---
 
 ## Notes from Round 1
 
-_Add notes here during or after the call._
+See [Interview-giffgaff-ProjectDeliveryManager-Debrief.md](Interview-giffgaff-ProjectDeliveryManager-Debrief.md) for full Round 1 debrief.
 
----
-
-_Round 2 prep will be built after Round 1 outcome and any feedback from Mollie._
+Key outcomes:
+- Warm call; Colin recommended Transformed by Marty Cagan - read before Round 2
+- James confirmed as Round 2 interviewer; competency-based, 1 hour
+- Role will be Broadband or Marketing depending on start date
+- No SAFe references in any round; Steve McDonald (CTO) is explicitly anti-SAFe
+- Cross-functional delivery is the primary gap giffgaff is hiring to address
