@@ -41,13 +41,13 @@ _Visualise this person before the interview. The closer Arpita can embody this, 
 - Working ahead on ACs for the next sprint while the current one runs; squad never hits an unready ticket
 - Vague brief arrives: 1:1 with the PO first, before deciding whether a squad session is even needed
 - Gets across the product quickly; within the first week knows more about what is being built than the delivery history
-- Ambiguity in standup: "what does a member experience differently after we ship this?"
+- Ambiguity in standup: what does a member experience differently after we ship this?
 - Open questions get a date and a named owner; the squad keeps moving on everything else
 - Business pivots mid-sprint: protects the current sprint, replans the next - no escalation, no drama
 - Technical unknown: proposes a one-sprint spike with a single question and a named owner
-- Status update: "we shipped X, Y is blocked on Z, unblocking by [date]" - one paragraph, not a deck
+- Status update: we shipped X, Y is blocked on Z, unblocking by [date] - one paragraph, not a deck
 - Same facts, different framing: squad gets technical detail, stakeholder gets risk and date, executive gets one sentence
-- Sprint planning question to EM/TL: "what is the one thing most likely to slip and what do we need to know to prevent it?"
+- Sprint planning question to EM/TL: what is the one thing most likely to slip and what do we need to know to prevent it?
 
 ---
 
@@ -89,7 +89,7 @@ What this means for squads:
 
 1. You want cheap mobile data, no contract. You go to giffgaff.com and order a free SIM
 2. It arrives in the post; you activate it online in a few minutes
-3. You pick a "goodybag" - a rolling monthly plan, e.g. £10 for a set amount of data, calls and texts
+3. You pick a goodybag - a rolling monthly plan, e.g. £10 for a set amount of data, calls and texts
 4. Your phone works on O2's network. Done.
 5. Next month you can change the plan, pause it or leave - no penalty
 
@@ -161,16 +161,16 @@ Payback: every time you help someone in the community, refer a friend or create 
 
 | Their word | What it means | How to use it |
 |-----------|--------------|---------------|
-| "Up to good" | Their mission statement - doing mobile and business differently, as a force for good | "What draws me to giffgaff is that it's genuinely up to good - the B Corp commitment isn't marketing, it's how the business is structured" |
-| "The gaff" | What they call their Uxbridge office | "I'm comfortable coming into the gaff regularly" - shows you have read their materials |
-| "Good folks" | How they refer to the team | Awareness of tone; informal and values-led, not corporate |
-| "Mutual good" | Core value - good for members, good for the business, good for the world | Reference when talking about why the member model is distinctive |
-| "Force for good" | B Corp framing - business as a vehicle for positive impact | Shows you understand the B Corp commitment is operational, not just a badge |
-| "Find your happy place" | Their employer brand for the team experience | Signals informal, human culture - not hierarchy and process |
+| Up to good | Their mission statement - doing mobile and business differently, as a force for good | What draws me to giffgaff is that it's genuinely up to good - the B Corp commitment isn't marketing, it's how the business is structured |
+| The gaff | What they call their Uxbridge office | I'm comfortable coming into the gaff regularly - shows you have read their materials |
+| Good folks | How they refer to the team | Awareness of tone; informal and values-led, not corporate |
+| Mutual good | Core value - good for members, good for the business, good for the world | Reference when talking about why the member model is distinctive |
+| Force for good | B Corp framing - business as a vehicle for positive impact | Shows you understand the B Corp commitment is operational, not just a badge |
+| Find your happy place | Their employer brand for the team experience | Signals informal, human culture - not hierarchy and process |
 
 **Culture**
 
-- Mission: "up to good" - calling out what is bad in the industry and finding a better way
+- Mission: up to good - calling out what is bad in the industry and finding a better way
 - Core focuses: flexibility, value and mutual good - all three equally weighted
 - B Corp certification is a source of genuine pride; a commitment, not an accreditation
 - Fast-paced; fail-fast; comfortable pivoting quickly
@@ -230,7 +230,7 @@ _30-minute intro round: keep this tight, 60-90 seconds maximum. Signal product d
 
 ### What Is Your Bread and Butter?
 
-_Colin may ask this or a version of it: "what do you enjoy most?", "what does good delivery look like to you?", "where do you add the most value?" Same answer._
+_Colin may ask this or a version of it: what do you enjoy most?, what does good delivery look like to you?, where do you add the most value? Same answer._
 
 - Being inside the problem, not above it - in the room when the business question is still being shaped, not handed a brief after the decisions have been made
 - End-to-end accountability: from the first conversation about what the squad is trying to achieve through to go-live and measuring whether it actually worked
@@ -242,7 +242,7 @@ _Colin may ask this or a version of it: "what do you enjoy most?", "what does go
 
 ### What Is Your Delivery Style? / How Do You Work?
 
-_Variations: "how would you describe how you operate?", "what does your day-to-day look like as a DM?", "how do you approach a new squad?"_
+_Variations: how would you describe how you operate?, what does your day-to-day look like as a DM?, how do you approach a new squad?_
 
 - Embedded alongside the PO and EM/TL as one unit - not a layer above the squad, working as part of it
 - New piece of work: quick 1:1 with the PO first to understand the priority and what is already known before committing squad time
@@ -251,7 +251,7 @@ _Variations: "how would you describe how you operate?", "what does your day-to-d
 - Outcome not milestone: delivery is not done when the feature ships; it is done when the outcome is measurably achieved
 - Every piece of work has one thing that must not fail; find it early and protect it - everything else is secondary to that
 - Retro: one change the team implements immediately, not a list that sits in Confluence
-- With the EM/TL on technical risk: "what is the thing most likely to slip the timeline and what do we need to know to prevent that?" - not telling them how to build it
+- With the EM/TL on technical risk: what is the thing most likely to slip the timeline and what do we need to know to prevent that? - not telling them how to build it
 
 ---
 
@@ -263,7 +263,7 @@ _Mollie explicitly flagged: prepare an authentic answer. Generic answers will no
 - The fail-fast culture means moving inside ambiguity rather than waiting for the brief to be complete; that changes how a squad operates day to day
 - The broadband and subscription pivot is a genuinely interesting delivery challenge; moving from single-product to multi-product is exactly where delivery confidence matters most
 - The member model creates a feedback loop that is immediate and unfiltered - community reaction after a release is faster and more honest than any internal dashboard
-- "Up to good" is embedded in how the business is structured, not a communications line; social impact built into the model, not layered on top
+- Up to good is embedded in how the business is structured, not a communications line; social impact built into the model, not layered on top
 
 ---
 
@@ -297,14 +297,14 @@ _Position every story as a collaboration with the PO and engineering team. Name 
 
 ---
 
-**1. Unclear problem definition - the "what" is not agreed**
+**1. Unclear problem definition - the what is not agreed**
 
 What it looks like:
 - Squad asked to build something but the problem is still being shaped
 - Requirements are vague; the PO is still discovering; the brief changes week to week
 
 Techniques:
-- Start with the outcome, not the feature: "what does a member experience that is better after this ships?"
+- Start with the outcome, not the feature: what does a member experience that is better after this ships?
 - Run a lightweight discovery: 3-5 targeted questions to PO and stakeholders before any sprint commitment
 - Use a simple known/unknown list: write down what is certain versus what is still open; makes the unknowns visible so the team cannot pretend they are not there
 - Timebox the discovery: 2 days clarifying the core question before committing to a sprint is not adding process - it is protecting the sprint from rework
@@ -313,7 +313,7 @@ Techniques:
 
 ---
 
-**2. Shifting priorities - the "what next" changes mid-flight**
+**2. Shifting priorities - the what next changes mid-flight**
 
 What it looks like:
 - Roadmap changes; a business decision pivots the squad's focus
@@ -322,8 +322,8 @@ What it looks like:
 Techniques:
 - Accept the pivot as a feature, not a failure; changing direction is evidence the business is learning
 - Protect current sprint commitments: a pivot affects the next sprint, not the one already in motion; finishing in-progress work is usually faster than abandoning it
-- Keep a lightweight "what we are not doing" list: prevents the new priority pulling in scope from the old priority under a different name
-- Communicate the pivot quickly and with context: the squad needs to know why, not just what; "the business learned X, so we are now doing Y" prevents confusion and resentment
+- Keep a lightweight what we are not doing list: prevents the new priority pulling in scope from the old priority under a different name
+- Communicate the pivot quickly and with context: the squad needs to know why, not just what; the business learned X, so we are now doing Y prevents confusion and resentment
 - Document the rationale when direction changes: if it is not written down, it gets relitigated in three weeks
 - Treat the pivot as expected, not exceptional - the question is not whether to change direction but how to do it without losing momentum
 
@@ -336,27 +336,27 @@ What it looks like:
 - Multiple stakeholders think they have a view; the squad waits because no-one wants to be wrong
 
 Techniques:
-- Name the decision-maker for each significant choice early: "who needs to say yes to this?" prevents weeks of drift
+- Name the decision-maker for each significant choice early: who needs to say yes to this? prevents weeks of drift
 - Default ownership clearly: product decisions to the PO, technical decisions to the EM/TL, delivery decisions to the DM; when it falls outside all three, surface it immediately
 - Make the gap visible rather than assuming someone else has it: the worst outcome is two people each assuming the other is accountable
 - Resolve ownership in a stand-up, not a separate meeting: the heavier the resolution process, the longer the team waits
-- If there is no answer, escalate with a recommended default: "I am going to proceed on the basis that X unless I hear otherwise by end of day" - forces a response without stopping the work
+- If there is no answer, escalate with a recommended default: I am going to proceed on the basis that X unless I hear otherwise by end of day - forces a response without stopping the work
 - In small lean teams ownership overlaps are common - act on a reasonable default rather than waiting for the org structure to clarify
 
 ---
 
-**4. Technical unknowns - the "how" has not been figured out**
+**4. Technical unknowns - the how has not been figured out**
 
 What it looks like:
 - The squad knows what needs to be built but not how
 - Multiple technical approaches exist; there is a risk the chosen approach will not work
 
 Techniques:
-- Propose a spike: a timebox (one sprint or less) with a single question - "is approach A technically viable?"; output is a decision, not a document
-- Frame technical unknowns as delivery risks with a named path: "we do not know yet how this will be built; here is the plan to find out by X date"
+- Propose a spike: a timebox (one sprint or less) with a single question - is approach A technically viable?; output is a decision, not a document
+- Frame technical unknowns as delivery risks with a named path: we do not know yet how this will be built; here is the plan to find out by X date
 - Rely on the EM/TL to answer the technical question; DM's job is to create the time and space to answer it, not to answer it
 - Build the spike into the sprint plan as a first-class item: it is the work, not overhead
-- Set a clear exit condition: "we know enough to proceed" or "we know enough to change approach" - not "we need more time"
+- Set a clear exit condition: we know enough to proceed or we know enough to change approach - not we need more time
 
 ---
 
@@ -367,11 +367,11 @@ What it looks like:
 - Definition of done shifts; at launch, the business is disappointed even though the squad delivered what was asked
 
 Techniques:
-- Agree what good looks like before any build begins: one sentence maximum - "this is successful if a member can do X and the squad can measure Y"
-- Use minimum viable success as a forcing question: "what is the one thing that must be true for this to be worth shipping?" cuts through preference and gets to the outcome
+- Agree what good looks like before any build begins: one sentence maximum - this is successful if a member can do X and the squad can measure Y
+- Use minimum viable success as a forcing question: what is the one thing that must be true for this to be worth shipping? cuts through preference and gets to the outcome
 - If stakeholders cannot agree, surface the disagreement early: it will not resolve itself at launch
 - Accept that criteria will evolve: document the current agreed version and update it explicitly when it changes; everyone must be working to the same version at all times
-- Connect delivery outcomes to member impact: "what does a member experience differently after this ships?" cuts through internal disagreement
+- Connect delivery outcomes to member impact: what does a member experience differently after this ships? cuts through internal disagreement
 - Success criteria are owned by the PO - DM's job is to make sure they are written down, agreed and visible before the sprint starts, not to define them
 
 ---
@@ -390,7 +390,7 @@ Techniques:
 
 ### Coaching Without Imposing
 
-_Variations: "how would you bring structure without changing what exists?", "tell me about improving a team's delivery", "how do you enable a team without imposing a framework?"_
+_Variations: how would you bring structure without changing what exists?, tell me about improving a team's delivery, how do you enable a team without imposing a framework?_
 
 - Diagnose before prescribing: run a session where the team names the problems themselves before introducing any change
 - The team owns the solution when they named the problem; change imposed from outside does not stick
@@ -404,7 +404,7 @@ _Variations: "how would you bring structure without changing what exists?", "tel
 
 ### End-to-End Delivery at Scale
 
-_Variations: "tell me about a complex end-to-end delivery", "what does end-to-end mean to you?", "how do you manage delivery across multiple teams or vendors?"_
+_Variations: tell me about a complex end-to-end delivery, what does end-to-end mean to you?, how do you manage delivery across multiple teams or vendors?_
 
 - Accountable from requirements and backlog shaping through to go-live and post-launch hypercare - not just the build phase
 - Owns every dependency, not just the workstream directly managed: vendor release cycles, third-party integrations, shared services
@@ -424,13 +424,13 @@ _These are JD must-haves Colin may probe in Round 1 or save for Round 2. Anchors
 
 ### Coaching Away from Project Thinking
 
-_Variations: "how do you coach a team away from project thinking?", "what is the difference between a project team and a product team?", "how do you help a squad think about outcomes?"_
+_Variations: how do you coach a team away from project thinking?, what is the difference between a project team and a product team?, how do you help a squad think about outcomes?_
 
-- Every ticket needs a member outcome before it enters the sprint - "build X" is not ready; "so that a member can do Y without needing to call support" is
+- Every ticket needs a member outcome before it enters the sprint - build X is not ready; so that a member can do Y without needing to call support is
 - Sprint goal must be written as a member benefit - if it cannot be, the squad is building the wrong thing
-- ACs written as member outcomes not system behaviours: "a member can do X" not "the system displays Y"
-- Scope change mid-sprint is framed as learning: "the business found out X so we are now doing Y" - not a failure, evidence of a product mindset
-- Retro includes outcome data: "we shipped it - did it work? What did the member do differently?" - squad accountable for impact, not just delivery
+- ACs written as member outcomes not system behaviours: a member can do X not the system displays Y
+- Scope change mid-sprint is framed as learning: the business found out X so we are now doing Y - not a failure, evidence of a product mindset
+- Retro includes outcome data: we shipped it - did it work? What did the member do differently? - squad accountable for impact, not just delivery
 - When something ships and the community reacts, use it as a coaching moment - the feedback is immediate and unambiguous
 - PO owns product decisions; if the PO is acting as a requirements conduit rather than a decision-maker, that is the coaching conversation to have first
 
@@ -440,13 +440,13 @@ _Variations: "how do you coach a team away from project thinking?", "what is the
 
 ### Influence Without Authority
 
-_Variations: "how do you get things done when you have no direct authority?", "tell me about a time you had to align people who didn't report to you", "how do you manage upwards or across?"_
+_Variations: how do you get things done when you have no direct authority?, tell me about a time you had to align people who didn't report to you, how do you manage upwards or across?_
 
 - Credibility comes from making people's jobs easier - engineers and POs follow a DM who unblocks, not one who chases and sends requests
-- Make the consequence visible, not the demand: "if this dependency is not resolved this sprint, here is what it costs the squad" - a fact, not pressure
+- Make the consequence visible, not the demand: if this dependency is not resolved this sprint, here is what it costs the squad - a fact, not pressure
 - A stakeholder blocking is not being awkward; they have a risk that needs mitigating - find it, address it, and the block clears
 - Use the sprint commitment as the anchor: if a dependency owner is not holding up their end, the team's shared commitment surfaces it - not the DM's authority
-- Propose and get consent: "here is what I am thinking, does that work for you?" - consent creates durable agreements; telling creates compliance that evaporates
+- Propose and get consent: here is what I am thinking, does that work for you? - consent creates durable agreements; telling creates compliance that evaporates
 
 **STAR anchor: Estée Lauder - 17 brand managers** - see Global prep guide line 329 (also La Fosse prep guide line 663) for full story (influencing without authority across competing stakeholder priorities)
 
@@ -568,6 +568,38 @@ _Competency-based, 1 hour with James. Colin flagged James will go deeper. Questi
 
 _Colin recommended Transformed by Marty Cagan; this is the primary probe area for Round 2._
 
+**Quick reference - empowered product team vs feature team**
+
+| | Feature/Project Team | Empowered Product Team |
+|---|---|---|
+| **Given** | A list of features to build | A problem to solve or outcome to achieve |
+| **Who decides what to build** | Business or stakeholders, outside the team | The team itself (PO + engineers + designer) |
+| **Discovery** | Happens outside the team before they start | Happens inside the team alongside delivery |
+| **Success measure** | Features shipped on time | Outcome measurably achieved |
+| **Accountability** | Did we build it? | Did it work? |
+| **If the feature ships but nothing changes** | Job done | Not done - back to discover why |
+| **PO role** | Relays requirements from above | Makes product decisions; owns the outcome |
+| **Team motivation** | Execute the plan | Solve the problem |
+| **KPIs optimised for** | Velocity, release frequency, on-time delivery rate, backlog burn rate, sprint completion rate | Conversion rate, retention rate, churn rate, activation rate, support ticket volume, drop-off rate, DAU/MAU, NPS, revenue per member |
+| **giffgaff-specific KPIs** | Features shipped per quarter, roadmap completion | SIM activation completion rate, checkout drop-off rate, community resolution rate, Payback redemption rate, broadband conversion from mobile members |
+| **Optimises for** | Being busy | Being effective |
+
+_Features can lead to outcomes - but in a feature team model nobody inside the team is accountable for whether they do. The feature ships, the ticket closes, and whether member behaviour changed is someone else's concern. In an empowered team, the team owns that question._
+
+**Quick reference - outcomes vs outputs - where does each live?**
+
+| Level | What it captures | Example (Costa contactless ordering) |
+|---|---|---|
+| **AC** | Does it work? Can a member do this? | A member can complete a contactless order without entering card details |
+| **Sprint goal** | What behaviour are we trying to move this sprint? | Members can discover and use contactless at the till |
+| **Initiative outcome** | Did it land? Did the business case hold? | 3% uptake within 3 months |
+
+_The business outcome (3% uptake) cannot and should not be in the ACs - it depends on factors outside the squad's control: marketing awareness, timing, member habit change. Engineering cannot test for it in a sprint._
+
+_The DM's job on cross-functional outcomes: surface the conditions the squad cannot meet alone. For 3% uptake the feature is necessary but not sufficient - marketing awareness must run in parallel. That is a launch readiness condition, not an AC. Name it early, track it alongside the build, make it a condition of go-live._
+
+_Arpita's honest position: I have always tracked business outcomes at the initiative level against the business case. I have managed cross-functional dependencies like marketing awareness as parallel workstreams alongside the build. I was doing outcome-led delivery - it was not always called that._
+
 **1. What is the difference between an empowered product team and a feature team?**
 - Empowered teams are given problems to solve, not features to build; they own the outcome
 - Discovery and delivery happen together; the team is continuously learning and adjusting
@@ -575,32 +607,50 @@ _Colin recommended Transformed by Marty Cagan; this is the primary probe area fo
 - PO in an empowered team makes decisions; PO in a feature team relays requirements from above
 - Reference: Transformed by Marty Cagan - this is exactly the model giffgaff operates
 
+**Honest position on empowered teams - what to say if James probes**
+- Empowered teams co-own the problem; that investment changes how they build - a team that shaped the problem solves it, a team handed a spec executes it
+- In practice: hybrid - requirements often came from above, but always pushed to bring the team into the why before building
+- A team that understands the problem statement proposes better solutions than one that just executes
+- The instinct and behaviour have been there; the fully empowered structure hasn't always been
+- What to say: I've consistently brought teams into the problem - requirements came from above but we were always in the discovery conversation and my teams gave their viewpoint
+- Frame giffgaff as the environment where the structure finally matches the instinct
+- Read Transformed before this round - the language is new but the operating model resonates with how I have worked
+
 **2. Tell me about a time you coached a team away from project thinking towards product thinking**
 - Diagnose the symptom first - what behaviours show project thinking?
 - Change how work is defined - outcomes not tasks, ACs as member benefits
 - Introduce outcome-based sprint goals - team agrees them, not imposed
-- Retros ask "did it work?" not just "did we ship?"
+- Retros ask did it work? not just did we ship?
 - Measure the shift - what changed in how the team operated
 
 **3. How do you ensure a squad is focused on outcomes rather than outputs?**
 - Sprint goals written as member benefits, not feature lists
-- ACs written as "a member can do X" not "the system displays Y"
-- Retro includes outcome data - "did the member experience change after we shipped?"
+- ACs written as a member can do X not the system displays Y
+- Retro includes outcome data - did the member experience change after we shipped?
 - Success criteria agreed before build starts; one sentence maximum
 - Done is when the outcome is measurably achieved, not when the feature ships
 
 **4. How would you work with a PO who is acting as a requirements conduit rather than a decision-maker?**
 - Diagnose first - is it a confidence issue, an authority issue or an org design issue?
 - Have a 1:1 conversation before any team intervention
-- Create space for them to make decisions in standup - "what do you think we should do?"
+- Create space for them to make decisions in standup - what do you think we should do?
 - Protect their decisions upwards - don't let stakeholders bypass them
 - Gradual shift; don't restructure their role overnight
+
+**Honest position - what if the org is set up that way and it works?**
+- If the conduit model is working, leave it alone - do not change things that work and create resistance for no gain
+- The conduit model has one specific failure mode: the team ships something, nobody agreed what success looked like, and the business is disappointed even though the team delivered exactly what was asked
+- The coaching conversation happens at that point of friction, not as a pre-emptive restructure
+- The practical fix is one question added to the process before build starts: what does success look like for the member? - the business still provides the requirement, but now they also have to answer that
+- Change what the PO carries back from the business, not who they talk to - same stakeholder, different conversation: what are you trying to achieve and how will you know it worked? instead of what do you want?
+- Introduce it as a suggestion at the point of pain, not a mandate - the team keeps it when they see it save them a sprint of rework
+- Imposed change creates compliance that evaporates; change the team adopts because it helps them sticks
 
 **5. How do you define done in a product delivery context?**
 - Not when the feature ships; when the outcome is measurably achieved
 - Success criteria agreed before build starts - what does a member experience differently after this ships?
 - Includes post-launch monitoring and hypercare - go-live is not the finish line
-- The squad should be able to answer "did it work?" before closing the initiative
+- The squad should be able to answer did it work? before closing the initiative
 
 ---
 
@@ -616,7 +666,7 @@ _Colin explicitly said giffgaff squads are strong internally but struggle workin
 
 **7. How do you manage dependencies on external partners or third-party vendors?**
 - Named contact, agreed cadence, clear deliverables with dates - confirmed in writing
-- Never assume; never accept "it should be fine" without a date
+- Never assume; never accept it should be fine without a date
 - Build contingency for vendor slippage - what is the fallback path?
 - Escalate early when signals appear, not when the deadline is missed
 - Treat the vendor's timeline as a delivery risk from day one
@@ -626,7 +676,15 @@ _Colin explicitly said giffgaff squads are strong internally but struggle workin
 - Did not chase or escalate immediately; understood what they needed
 - Brought a proposed solution, not just the problem
 - Used the shared delivery commitment to create urgency without pressure
-- If unresolved: stated a default and proceeded - "proceeding on basis of X unless I hear otherwise by [date]"
+- If unresolved: stated a default and proceeded - proceeding on basis of X unless I hear otherwise by [date]
+
+**Shell - GDPR/Legal blocker on Loyalty API platform**
+- GDPR sign-off was a known dependency on the EMEA rollout - what wasn't anticipated was the scope of what sign-off actually required
+- The GDPR team's initial review was scoped at platform level; when they reviewed the data flow, each handoff (Mulesoft orchestration, POS, mobile app) needed separate sign-off because PII handling differed at each point - one approval became multiple staged approvals
+- Mapping the data flow with engineering surfaced a second complexity: some downstream consumers were external partners (fuel station operators, retail partners), meaning data processing agreements were needed for each one - not on the original compliance plan
+- DPA drafting sat with Legal; Arpita's role was to name it as a hard delivery dependency, get Legal engaged with a named owner and a deadline, and track it as a gate
+- Decoupled engineering from the DPA dependency - identified which builds required DPA sign-off and which could safely proceed on the agreed data design
+- Result: compliant data migration shipped across EMEA markets; timeline protected without a sprint lost to the compliance gate
 
 **9. How do you keep internal squads moving when external dependencies slip?**
 - Identified immediately what can proceed without the dependency
@@ -649,7 +707,7 @@ _Colin explicitly said giffgaff squads are strong internally but struggle workin
 **11. How do you build credibility with engineering teams quickly?**
 - Listen before suggesting - understand how they work before proposing changes
 - Remove a blocker fast in the first few days - action builds more credibility than any introduction meeting
-- Ask good questions: "what is the one thing most likely to slip and what do we need to prevent it?"
+- Ask good questions: what is the one thing most likely to slip and what do we need to prevent it?
 - Be honest about the boundary of your technical knowledge; don't pretend
 - Protect their time from unnecessary meetings and status requests
 
@@ -678,12 +736,12 @@ _Colin explicitly said giffgaff squads are strong internally but struggle workin
 
 **15. Tell me about a time the roadmap changed mid-sprint - how did you respond?**
 - Protected the current sprint - the pivot affected the next sprint, not the one in motion
-- Communicated the why to the squad quickly: "the business learned X, so we are now doing Y"
+- Communicated the why to the squad quickly: the business learned X, so we are now doing Y
 - Documented the rationale so it did not get relitigated in three weeks
 - Treated the pivot as expected, not exceptional - direction changes are evidence of learning
 
 **16. How do you handle a situation where no-one knows who owns a decision?**
-- Named the decision-maker explicitly: "who needs to say yes to this?"
+- Named the decision-maker explicitly: who needs to say yes to this?
 - Defaulted to the closest owner and proceeded with a stated assumption
 - Made the gap visible rather than assuming someone else had it
 - Resolved in standup, not a separate meeting; the heavier the process, the longer the wait
@@ -718,15 +776,15 @@ _Relevant if this role picks up Laura's Broadband initiative._
 ### Engineering and Technical Engagement
 
 **20. How do you engage with Engineering Managers and Tech Leads on technical risks and dependencies?**
-- Opening question in sprint planning: "what is the one thing most likely to slip and what do we need to know to prevent it?"
+- Opening question in sprint planning: what is the one thing most likely to slip and what do we need to know to prevent it?
 - Frame technical unknowns as delivery risks with a named resolution path and a date
 - Build technical risks into the delivery plan as first-class items, not footnotes
 - The EM/TL answers the technical question; the DM creates the time and space to answer it
 - Do not pretend to understand technical decisions outside your knowledge - ask the right questions instead
 
 **21. How do you surface a technical risk you do not fully understand yourself?**
-- Ask the EM/TL to translate it into delivery impact: "what does this mean for the timeline and the release?"
-- Do not hide the uncertainty - "help me understand the delivery risk so I can surface it correctly"
+- Ask the EM/TL to translate it into delivery impact: what does this mean for the timeline and the release?
+- Do not hide the uncertainty - help me understand the delivery risk so I can surface it correctly
 - Escalate the risk, not the technical debate
 - Propose a spike: one question, one sprint, one named owner, one decision as output
 
@@ -749,7 +807,7 @@ _Relevant if this role picks up Laura's Broadband initiative._
 - Format follows the audience's need, not a default weekly cadence
 
 **24. Tell me about a time you had to deliver difficult news to a senior stakeholder**
-- Lead with the fact - "we are going to miss the date because X"
+- Lead with the fact - we are going to miss the date because X
 - Come with a plan, not just a problem
 - Be honest about recovery - do not oversell
 - Give space to react before proposing next steps
