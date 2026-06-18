@@ -136,6 +136,29 @@ These are appropriate and expected questions in enterprise or regulated environm
 
 ---
 
+## Career Development - Royal Mail Contract (June 2026 - March 2027)
+
+**Growth path: Change Management (people and adoption side)**
+
+Change management is a natural and well-evidenced growth path - not a pivot but a formalisation of what is already in the track record:
+- Worldpay: ServiceNow ITSM from a business change and user adoption perspective; Copilot rollout and embedding
+- Costa: DoR/DoD coaching that tripled team velocity - behaviour change, not process change
+- Shell: GDPR compliance adoption across EMEA markets; stakeholder influence without authority
+- Royal Mail: delivery photo compliance driving operational behaviour change across parcel handling teams - use this programme deliberately to build change management evidence, not just PM evidence
+
+**The distinction that matters**
+Change management in the market means two different things: ITIL change control (CAB, release management - process-heavy, not the target) and organisational / people-side change (adoption, embedding, behaviour change - where the track record sits). Always clarify which one when positioning.
+
+**Market positioning to build toward**
+Delivery lead with deep change management capability - not a pure change manager. This keeps execution credibility that pure change managers lack, and adds adoption and embedding depth that pure delivery managers skip.
+
+**Action during contract**
+- Pursue PROSCI certification (ADKAR framework) - formalises existing capability and gives language to position it deliberately
+- Frame Royal Mail deliverables in change management terms: adoption rates, behaviour change metrics, stakeholder engagement approach, resistance handling
+- At CV refresh time, add a Change Management thread to the skills and experience sections
+
+---
+
 ## Bear in Mind
 
 **Overqualified / age dynamic**
