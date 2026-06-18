@@ -372,9 +372,9 @@ Jack's jokes and Caroline's engaged follow-ups suggest both interviewers were co
 
 ## Next Steps
 
-**Outcome:** Still interviewing - expect to hear back within a couple of days
+**Outcome:** Not progressed after Round 1 — no feedback provided
 
-**Next stage:** Case study
+**Next stage:** N/A
 
 **Critical signal:** The interviewers referenced the hands-on answer directly and said it will be tested in the case study. Expect a scenario that requires active problem-solving - requirements thinking, technical decision-making, or how to unblock a squad - not just describing a process or governance approach.
 

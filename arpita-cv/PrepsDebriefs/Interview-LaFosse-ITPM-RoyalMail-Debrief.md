@@ -216,6 +216,15 @@ She did ask about the ecommerce/compensation link during the building walkout. J
 
 ---
 
+## Outcome
+
+**Result:** Offer made and accepted
+**Contract signed:** 2026-06-17
+**Role:** IT Project Manager - Royal Mail Group (AI/ML Transformation)
+**Contract end:** March 2027 (potential to extend)
+
+---
+
 ## Carry-Forward (If Round 2)
 
 1. **Ambiguity handling** — prepare a structured, repeatable version of the approach. Frame it as a method, not just a collection of experiences.

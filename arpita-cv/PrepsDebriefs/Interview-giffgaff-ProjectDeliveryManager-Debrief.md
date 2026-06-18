@@ -226,6 +226,29 @@ Answer given:
 
 ---
 
+## Round 1 Outcome
+
+**Result:** Not progressed
+**Feedback received:** Did not come across as someone who could work with ambiguity and get things done
+
+**Assessment of where it went wrong**
+
+Colin asked no STAR questions - the three questions were tell me about yourself, why giffgaff, and what do you do to relax. The ambiguity signal therefore had to come through unprompted, and it did not.
+
+This is not a blanket weakness - La Fosse asked directly about ambiguity and progressed Arpita on that answer. The gap here was format-specific: in an informal interview with no structured prompts, the candidate has to insert the evidence without being asked.
+
+Tell me about yourself was the controlled canvas and the right moment - but Mollie had already flagged ambiguity tolerance as the primary selection criterion before the interview. That made it known intelligence, not something to improvise in the room.
+
+**Learning for future informal-format interviews**
+
+Before walking in, identify the primary selection criterion from pre-interview intel. Write one sentence that lands it inside tell me about yourself - regardless of what questions follow. That sentence goes in every time.
+
+Example form: "I've often joined situations where the brief wasn't clear, the structure wasn't in place, and my job was to figure out what mattered and move it."
+
+Ten seconds. Does not require rambling. Plants the flag before the interviewer decides whether to ask a STAR question or not.
+
+---
+
 ## Key Takeaways for Round 2
 
 1. **Read Transformed by Marty Cagan** — Colin recommended it directly; James will probe product thinking more deeply; understanding the product operating model framing will sharpen every answer

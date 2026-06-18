@@ -204,7 +204,7 @@
 | Cover Letter | CoverLetter-ITPM-LaFosse-May26.md |
 | Req # | 4417134282 |
 | Location | Farringdon, 3 days/week onsite |
-| Status | Round 1 Complete — Awaiting feedback (Jonathan interviewing 2 more candidates) |
+| Status | Offer accepted — Contract signed (2026-06-17) |
 | Notes | Client confirmed as Royal Mail Group. Role: delivery photo compliance using ML to reduce compensation costs for lost parcels. Contract to end March 2027, potential to extend. TA call with Lauren Turley 28 May — asked for day rates at Estee Lauder and Shell, availability, and updated CV emphasising retail and customer-facing experience. Key differentiators: retail background (Estee Lauder, Costa, Argos/Homebase), customer-facing delivery, operational rollout (Costa Pre-Order/Baristas, Field Service automation). AI/ML at conceptual level only — do not overstate. v2 CV rating vs role: 8.5/10. Round 1 in person at Farringdon 4 Jun 2026 — went well. Worldpay ambiguity answer landed strongly (Jonathan noted it down). RAID/Jira+Confluence alignment noted positively. Building tour post-interview = warm signal. Jonathan interviewing 2 more candidates. See Interview-LaFosse-ITPM-RoyalMail-Debrief.md for full debrief. |
 
 ---
