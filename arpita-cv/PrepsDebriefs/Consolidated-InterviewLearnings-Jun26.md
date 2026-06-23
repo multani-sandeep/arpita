@@ -70,6 +70,12 @@ Do not open with a list of programme types or methodology frameworks. The ambigu
 - Plant the primary criterion in Tell Me About Yourself - do not wait for a question that fits
 - The Why This Company answer must close on what you connect with about the company's challenge or ambition - not on what the company offers you
 - The concrete doing story must surface unprompted; absence of evidence is read as absence of capability
+- Use questions to showcase skills - in an informal interview with no STAR prompts, one or two questions can do double duty: demonstrate how you think about delivery and invite the interviewer to describe their problem so you can connect your experience to it
+- Structure: brief credential statement + specific examples + pivot question that hands control back to the interviewer
+
+  Example: "In my experience, cross-functional delivery goes well beyond build and deploy - I tend to build things like cutover planning, business continuity, compliance sign-offs and non-functional requirements in as hard dependencies from the start, not as afterthoughts. Is that the kind of gap you are seeing in delivery here, or are there other challenges that are more pressing right now?"
+
+  This lands your skills without being asked, then invites the interviewer to describe their problem - their answer tells you exactly where to go next with your experience
 
 **Formal / structured (STAR prompts)**
 - Answer the question asked; bring evidence when prompted
@@ -110,19 +116,37 @@ Form: "The market has been competitive; I have been applying selectively and vol
 
 ## Questions to Ask (Framework)
 
-Ask about:
-- The specific product or initiative the squad is working on
-- What success looks like for this role in the first six months
-- What the biggest delivery challenge is right now
-- What the team dynamic is between DM, PO and engineering
-- What the interviewer has found most different about this company versus others
+**The problem with generic questions**
+Questions about team structure, reporting lines, stakeholders and ways of working are weak for two reasons: the HM often covers them unprompted in their opening description, leaving nothing to ask; and they do not differentiate you. At giffgaff, Colin described everything in his introduction, the three prepared questions had already been answered, and there was nothing substantive left. Generic questions depend on the HM not having covered them. Strategic questions cannot be pre-empted because they require the HM to think, not just describe.
 
-In lightweight agile or startup cultures, avoid asking about:
-- Process, ways of working frameworks or governance models
-- Reporting structures or escalation paths
-- How decisions get made formally
+**Mature question structure: JD reference + credential signal + open question**
 
-These are appropriate and expected questions in enterprise or regulated environments.
+Each question should do three things in sequence:
+1. Reference something specific from the JD or company research - shows preparation and that you read it carefully
+2. Play back a brief credential signal - surfaces your experience without waiting to be asked
+3. Ask a substantive open question the HM has to think about - invites a real answer, cannot be pre-empted by description
+
+**Example structures**
+
+*Cross-functional delivery (JD references external partner complexity):*
+"The JD mentions delivery that cuts across squads and external partners - in my experience that is where most slippage happens. I tend to build those external dependencies in as hard gates from the start rather than tracking them separately. What does that challenge look like in reality here - is it the dependency tracking, the governance, or more about how decisions get made across boundaries?"
+
+*Business continuity / non-functionals:*
+"I tend to build things like cutover planning, compliance sign-offs and non-functional requirements in as hard dependencies from the start rather than treating them as afterthoughts. Is that the kind of gap you are seeing in delivery here, or are there other challenges that are more pressing right now?"
+
+*Product and outcome framing:*
+"The JD talks about outcome-led delivery alongside a PO - in my experience the DM-PO dynamic works really well when the PO has clear product authority to make scope decisions within a sprint. How empowered are the POs here, and where does the DM typically need to step in to protect the team from scope pressure?"
+
+*Company-specific (research-based):*
+"I saw [specific recent news / product launch / change] - moving from [X] to [Y] usually creates interesting cross-functional delivery challenges. What has been the biggest delivery complexity that has come with that?"
+
+**Rules for preparing these questions**
+- Prepare 5-6 so that if 2-3 are answered in the HM's introduction, 3 remain
+- Each must reference something specific to that company or JD - never reuse questions verbatim across interviews
+- Each must contain a credential signal that could not have come from a junior candidate
+- The open question at the end must require the HM to reflect, not just describe - "what does that look like in reality" beats "can you tell me about the team"
+- In lightweight agile or startup cultures, avoid questions about process, governance, reporting structures and escalation paths - ask about product, delivery challenges and what success looks like
+- In enterprise or regulated environments, process and governance questions are appropriate and expected
 
 ---
 

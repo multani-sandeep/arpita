@@ -30,25 +30,44 @@ Additional considerations:
 - Always identify must-have requirements in the job spec and ask before adding them to the relevant sections of new CV
 - If a job spec requirement closely matches what's in my CV, then update the skill to align more closely to the job spec requirement. Donot try to match wording exactly to job spec and if its a close match then leave from source CV. 
 - Update application log following every CV generation
-- Skills section should not be more than 10% different from ArpitaNarula-TwoPage-Mar26.md. If its different by 10% then highlight post generation
 - If job role is clearly a contract position then suggest highlighting contract positions.
 - Donot remove the redundancy flag in the Worldpay employment
 - DONOT make the bullets or content concise when updating for job spec
 - Update Summary section to align with the role using the experience and roles provided in the CV. Donot invent a new role based on job specification, use similar roles to what are present in the experience section of the template 
 
-#### Validation
-- Check if a similar job exists by looking at Application Log and Job-* files. If duplicate found then inform user and stop generation & validation process
+#### Pre-Generation Fit Assessment (run before creating the CV)
+
+STRICT: Complete this step before any CV generation. Do not start writing the CV until the user has confirmed they want to proceed.
+
+**Step 1 — Duplicate check**
+- Check ApplicationLog.md and Job-* files for a similar role at the same company
+- If duplicate found: inform user and stop; do not proceed
+
+**Step 2 — Fit rating**
+- Extract must-have requirements from the job spec
+- Rate each must-have against ArpitaNarula-TwoPage-Mar26.md
+- Present as a table: Requirement | Covered in CV | Strength (Strong / Partial / Gap)
+- Include an overall fit score (X/10) with one-line rationale
+
+**Step 3 — Challenge areas**
+- List must-haves rated as Gap or Partial in a separate table
+- For each gap: note whether it is bridgeable (adjacent experience exists) or a hard gap (nothing in CV supports it)
+- Flag any terminology in the job spec that is not present in the CV and would require adding new information (not allowed under strict rules)
+
+**Step 4 — Recommendation and confirmation**
+- State a recommendation: proceed / proceed with caveats / do not proceed
+- Proceed: fit is 7.5/10 or above; gaps are bridgeable
+- Proceed with caveats: fit is 6-7.5/10; gaps are notable but not disqualifying; state what will be left uncovered
+- Do not proceed: fit is below 6/10 or hard gaps are in must-have requirements; generating a CV would not be a credible application
+- STRICT: Ask the user to confirm before generating the CV. Do not proceed without explicit confirmation.
+
+#### Post-Generation Validation (run after CV is created)
 - Check are there skills or technologies not mentioned in the original, show them in a tabular and concise format
 - Check for excessive use of C-level or related terms
-- Check for overstating responsibilities from original eg:  Steerco reporting being overstated as Steering committee leadership
+- Check for overstating responsibilities from original eg: Steerco reporting being overstated as Steering committee leadership
 - Check generated CV against template whether each bullet implies the same meaning and doesn't change scope of the bullet from template
-- Check contract roles, only Shell,Estee, Argos are contract roles
-
-#### Rating
-- Use key job requirements from the spec to rate the CV and show the rating in a tabular and concise format
-- In the tabular format suggest updates that improve alignment without changing the meaning of the original CV
-- Always provide a overall rating
-- Summarise notable gaps
+- Check contract roles, only Shell, Estee, Argos are contract roles
+- Skills section should not be more than 10% different from ArpitaNarula-TwoPage-Mar26.md. If different by more than 10% then highlight post generation
 
 ## Original Format
 

@@ -35,6 +35,19 @@ Ask: "How does this role interface with developers day-to-day? Is there a Produc
 
 STRICT: Complete both steps before generating any STARs. Do not start prep from the job title alone.
 
+**Step 3 — Layer in sector**
+
+Once role shape is confirmed, cross-reference the sector to select the right lead stories. Use both tables together — role shape tells you what the interview will probe; sector tells you which story to lead with.
+
+| Sector | Lead Stories | Watch For |
+|---|---|---|
+| Retail / ecommerce | Costa (3x velocity, intake redesign), Estee Lauder (17 brands, checkout conversion) | Brand fit question almost certain - prepare favourite site/app answer and customer/user pivot (see Culture and brand fit section) |
+| FinServ / payments | Worldpay TSA wave recommendation, Worldpay ServiceNow migration, Shell GO+ (£100M+ transactions) | PCI-DSS and compliance knowledge may be probed; Worldpay experience is still fresh and credible |
+| FMCG / loyalty platform | Shell GO+ multi-market EMEA, Costa loyalty platform context | Loyalty platform requirements depth is likely to be tested - rehearse Shell GO+ domain detail |
+| Data platform | Costa Azure DWH (primary story - pipelines, Power BI, multi-workstream mirrors DAX-type context) | Known gap: Azure DevOps, Databricks, Microsoft Fabric not in CV - prepare honest pivot (see Likely Challenges) |
+| Consulting / staffed placement | Worldpay SCDM client-facing STARs, Argos UAT and recovery story | Client accountability and commercial framing matter more than internal delivery metrics |
+| Change management / transformation | Worldpay ServiceNow adoption, Copilot rollout, Costa DoR/DoD velocity coaching, Royal Mail photo compliance | Clarify people-side change vs ITIL change control - they are different; position toward the former |
+
 ---
 
 ## Collateral Reference Library
@@ -54,6 +67,7 @@ The following artefacts are available in this directory to support interview pre
 | [AI Glossary.md](AI%20Glossary.md) | Glossary of AI terms - algorithms, models, key terminology; quick reference for AI/ML interviews |
 | [AI Governance.md](AI%20Governance.md) | AI governance frameworks, principles and implementation; based on LinkedIn Learning course by Vidhi Chugh |
 | [AI Risk Tiers - EU AI Act.md](AI%20Risk%20Tiers%20-%20EU%20AI%20Act.md) | EU AI Act risk-based model - high-risk AI classifications, compliance obligations, practical implications for delivery |
+| [PrepsDebriefs/Consolidated-InterviewLearnings-Jun26.md](PrepsDebriefs/Consolidated-InterviewLearnings-Jun26.md) | Cross-interview learnings from all rounds to date - Tell Me About Yourself master structure, anchor stories by theme, format rules (informal vs formal), mature questions framework, things to avoid, things that consistently land well, bear in mind notes; **read before starting every new prep guide** |
 
 ### Example Interview Prep Guides
 
@@ -69,12 +83,21 @@ Use these as quality benchmarks when generating new prep files. The Global guide
 
 ## Interview Preparation
 
+### Before Starting Prep
+
+STRICT: Read [Consolidated-InterviewLearnings-Jun26.md](PrepsDebriefs/Consolidated-InterviewLearnings-Jun26.md) before generating any prep content. Apply the learnings in that document throughout - specifically:
+- Before Every Interview checklist (primary criterion, culture signals, pacing practice)
+- Things to Avoid (SAFe framing, process language in agile cultures, Tell Me About Yourself opening mistakes)
+- Things That Consistently Land Well (ambiguity answer, GenAI exchange, Costa/Nero pivot)
+- Bear in Mind (overqualified/age dynamic; salary conversations with TA go into notes passed to HM)
+- Anchor Stories by Theme table - use to select the right story for each competency area
+
 ### Introduction
 
 Using CV (ask user for the name of the CV file) and the job spec (ask user for the name of the job spec file), draft a 3-sentence spoken intro: one sentence on background, one on the most relevant experience for this role, one on why they want it.
 
 Then prepare answers for the three standard opening questions that almost every interview begins with:
-- **Tell me about yourself** — 4–6 sentences, spoken register, not a CV recital
+- **Tell me about yourself** — 4–6 sentences, spoken register, not a CV recital. Use the master structure from Consolidated-InterviewLearnings-Jun26.md: (1) type of delivery and environments, (2) concrete ambiguity moment unprompted, (3) cross-functional breadth anchor, (4) one sentence on the gap. Do not open with programme types or methodology frameworks.
 - **Why [Company] — why this role?** — 3–5 sentences showing insider knowledge and genuine motivation
 - **What would your first 30-60-90 days look like?** — three bullet points, one per phase, concrete and role-specific
 - **Where do you see yourself in the next 3-5 years?** — role-specific and showing growth and ambition but not challenging the hiring manager's position. Ask for tone when generating the prep output as this might be influenced by the knowledge gathered about the interviewer.
@@ -194,7 +217,9 @@ Format as a table: # | Topic | Why it matters | CV hook | Gap / how to address -
 
 ### Behavioural Preparation
 
-Use the 9 STAR Worldpay examples below as-is for all Interview Prep. Additionally identify the 3 distinct areas most likely to be probed in the interview based on the job description and the feedback from previous interview if available. For each: competency name and a STAR answer drawn from the CV, with the key outcome to emphasise. STRICT: Always show the additional scenario topics in a table, so user can select if they want a different set to be proposed. Once user confirms that they are happy with the proposed set of additional scenario topics, proceed with generating the STAR answers for the additional scenario topics. 
+When selecting which stories to lead with, refer to the Anchor Stories by Theme table in [Consolidated-InterviewLearnings-Jun26.md](PrepsDebriefs/Consolidated-InterviewLearnings-Jun26.md) to choose the right STAR for each competency area.
+
+Use the 9 STAR Worldpay examples below as-is for all Interview Prep. Additionally identify the 3 distinct areas most likely to be probed in the interview based on the job description and the feedback from previous interview if available. For each: competency name and a STAR answer drawn from the CV, with the key outcome to emphasise. STRICT: Always show the additional scenario topics in a table, so user can select if they want a different set to be proposed. Once user confirms that they are happy with the proposed set of additional scenario topics, proceed with generating the STAR answers for the additional scenario topics.
 
 Validation: STAR scenarios created here will always be more than 9 because of the must have Worldpay scenarios.
 
@@ -617,10 +642,11 @@ For situational questions: **Frame** (restate the real objective) → **Actions*
 
 ### Questions to ask
 
-Suggest 3 tailored questions for the candidate to ask at interview close. Each question should:
-- Signal the candidate has read the JD carefully
-- Show strategic intent or genuine curiosity about the role
-- Provide useful intelligence about what the interviewer actually needs
+Suggest 5-6 tailored questions for the candidate to ask at interview close (5-6 so that 3 survive if the HM covers some in their opening description - a known failure mode from giffgaff where 3 prepared questions were all answered before they could be asked).
+
+Use the mature three-part structure from [Consolidated-InterviewLearnings-Jun26.md](PrepsDebriefs/Consolidated-InterviewLearnings-Jun26.md): each question must (1) reference something specific from the JD or company research, (2) play back a brief credential signal, (3) ask a substantive open question the HM has to think about rather than just describe. Generic questions (team structure, reporting lines, stakeholders) are weak because they can be pre-empted; the three-part structure cannot.
+
+In lightweight agile or startup cultures, avoid questions about process, governance and escalation paths - ask about product, delivery challenges and what success looks like. In enterprise or regulated environments, process and governance questions are appropriate.
 
 Add a 2-sentence reaffirmation statement — spoken register, closes on confidence and fit.
 
@@ -660,6 +686,14 @@ Validation: This section doesnot require the Worldpay examples because the chall
 **You don't have deep POS payments technical knowledge**
 
 > *My strength is translating technical complexity into delivery structure and client confidence. I work closely with technical consultants and I close domain gaps fast — as I did moving from FMCG data to Loyalty to Websites. I know what I don't know, and I close gaps quickly.*
+
+**Standing gap — data platform roles (Azure DevOps, Databricks, Microsoft Fabric)**
+
+*Likely question: Do you have hands-on experience with Azure DevOps / Databricks / Microsoft Fabric?*
+
+> No direct hands-on with Azure DevOps or Databricks - I have delivered a multi-source data platform end to end at Costa Coffee covering pipelines, Power BI reporting and multi-workstream coordination across engineering and analytics teams. I have also worked alongside teams building on Azure infrastructure at Shell and Worldpay. The tooling is the learning curve; the delivery pattern and data platform thinking are already there.
+
+*When to include:* Any data platform, analytics engineering or data PM role. This gap is consistent and predictable across those roles - include it without being asked.
 
 ---
 ### Domain knowledge 

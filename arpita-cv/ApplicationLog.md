@@ -17,7 +17,7 @@
 
 ---
 
-## Applications (85 total | 71 open)
+## Applications (85 total | 68 open)
 
 ### TRIA - Integration Project Manager
 
@@ -242,7 +242,7 @@
 | Cover Letter | N/A |
 | Req # | 4417436998 |
 | Location | Uxbridge, UK (hybrid) |
-| Status | Interview — Round 1 confirmed (12 Jun 2026, 10:30am, Hiring Manager) |
+| Status | Closed — Not progressed after Round 1 (feedback: did not come across as someone who could work with ambiguity and get things done) |
 | Notes | Job spec: Job-giffgaff-ProjectDeliveryManager.txt. Source: LinkedIn (job ID 4417436998). Permanent, hybrid Uxbridge. Summary repositioned to Project Delivery Manager — title change only from template. Costa Coffee coaching bullet updated to include outcome-led backlog prioritisation (coaching teams toward value delivery, away from output tracking). All other skills and bullets unchanged from TwoPage-Mar26 template. Strongest alignments: Agile/Scrum/Kanban delivery (all roles, CSM cert), cross-functional multi-team coordination (Shell, Worldpay, Costa), dependency and risk management (all roles), influencing without direct authority (Shell, Estee Lauder), vendor management (Worldpay, Shell). Notable gaps: empowered product teams vs feature teams operating model — addressed directionally in Costa coaching bullet; architecture risk and deployment pipeline engagement not explicitly named. Rating: 8/10. |
 
 ---
@@ -262,7 +262,7 @@
 | Req # | 94678 |
 | Confirmation # | xJ7pF2Sr |
 | Location | St Albans, UK |
-| Status | Applied |
+| Status | Closed — Not progressing |
 | Notes | Job spec: Job-Costa-LeadAgileDeliveryManager.txt. Source: LinkedIn (job ID 4412287855). Permanent, hybrid St Albans. Supply Chain technology initiatives (product technical data, stock orders, replenishment). Summary repositioned to Agile Delivery Manager -- aligned to Costa role title and Agile framing of JD. Lean added to Methodologies skill (evidenced in Costa coaching bullet). All other skills and bullets unchanged from TwoPage-Mar26 template. Strongest alignments: Costa Coffee prior experience (brand familiarity, cultural fit), Agile/Waterfall methodology (all roles), roadmap and delivery planning (Shell, Estee Lauder, Costa), budget management (Shell 10% under forecast), cross-functional leadership (all roles), CSM certification directly meets methodology requirement. Notable gap: Supply Chain domain not required in person spec -- delivery management skills are the sole person spec criteria. Rating: 8.5/10. |
 
 ---
@@ -1000,7 +1000,7 @@
 | CV Used | ArpitaNarula-TwoPage-AIProdMgr-ISPL-Apr26.md |
 | CV Git Version | TBC |
 | Cover Letter | N/A |
-| Status | CV Generated |
+| Status | Closed — Not progressing |
 | Notes | Job spec: Job-ISPL-AI-ProdMgr.txt. Source: https://www.linkedin.com/jobs/view/4376023976/. Permanent. Two-page format. Summary repositioned toward global AI product rollout and phased adoption delivery. Notable gaps: EdTech/education sector, CPD delivery, pedagogy - none added. Skills: "Vendor & SI management" updated to "Stakeholder & vendor management" to align with relationship-building emphasis. |
 
 ### EMEA Senior Product Manager (via LinkedIn - unnamed Riyadh digital ecosystem)
