@@ -20,13 +20,21 @@ Further to my notification on 01/07/2026, please find the full report below, as 
 **Type of concern:** Safeguarding (child protection) — an adult in a position of trust/authority (umpire, self-described safeguarding officer) directing repeated derogatory remarks at a 14-year-old and repeatedly seeking his parent's personal contact details.<br>
 **Category:** Threshold (not Low Level Concern) — this is a pattern across multiple incidents (repeated remarks during and after the child's dismissal; contact details sought on at least five separate occasions), not an isolated remark, and involves the alleged use of a safeguarding role to justify pursuing a child's family contact details.
 
+**Details of the concern (chronological):**
+On 27/06/2026, during the Bushey CC 3rd XI v West Herts CC 5th XI match at King George V Playing Fields, Prad Kanuga (West Herts-appointed umpire) made repeated derogatory remarks towards Shaylan (Shay) Solanki (14) while he was bowling, including instructing the non-striking batsman to "attack this bowler, he can't bowl," and laughing at him. After Shaylan was dismissed, Prad walked alongside him off the pitch and taunted, "Take off your pads and get ready to bowl, if you can," to which Shaylan responded, "If you keep talking to me, I will report you—you're 90 years old and I'm 14, so don't pick on me; pick on someone your own age." During and after the match, Prad pressed Shaylan's mother, Harshna Ladwa, on at least five separate occasions for her personal contact details, citing his own safeguarding officer role to justify the request.
+
+**Witnesses:** Shaylan Solanki (subject of the concern); his mother, Harshna Ladwa (present throughout, directly approached by Prad); other Bushey CC players and officials present at the match (not yet individually named or contacted for corroboration).
+
+**Source of this account:** Reported information — relayed to the club by Shaylan's parents (Nick Solanki & Harshna Ladwa) in their written report of 30/06/2026. Shaylan's own first-hand account has not yet been taken directly by the club; happy to arrange this if it would assist your investigation.
+
 **Immediate actions taken by the club so far:**
 - Concern logged and dated on receipt (30/06/2026)
 - County Safeguarding Officer notified (01/07/2026)
 - Parents (Nick Solanki & Harshna Ladwa) informed by the Head Coach that the matter is being formally reported
 - Matter referred to the Herts League as a disciplinary issue in parallel, given the cross-allegations arising from the same fixture
 - Club disciplinary committee convened (Chairman, Fixture Secretary, Club Captain, Head Coach) to consider the conduct raised against Bushey players (Para Sivatharman, Hamza Wahid); the committee has paused pending your guidance before taking any action
-- 2 July fixture (Bushey U15B v West Herts) flagged as urgent, given Prad Kanuga is named West Herts team manager for that match and the junior named in this concern is playing — see below
+- Prad Kanuga has been made aware that a safeguarding concern has been raised regarding his conduct towards Shaylan
+- West Herts CC has been asked to ensure appropriate safeguarding presence/oversight at the 2 July fixture (Bushey U15B v West Herts) as an interim measure, given Prad is named team manager for that match — see below
 
 **Parent/guardian contact details (as requested):**
 - Harshna Ladwa (mother) — harshna_l@hotmail.com / 07812 472490
