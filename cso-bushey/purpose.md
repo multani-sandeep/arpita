@@ -42,5 +42,5 @@ This document is my personal reference for what my role as Club Safeguarding Off
     - Parents of juniors or adults should be sent an email assuring them that the Club is taking appropriate steps to apply the relevantsafeguarding process.
     
 ### Formatting
-- Reports should be formatted for conversion to HTML
+- Reports and email responses should be formatted for conversion to HTML
 - Use html newlines 
